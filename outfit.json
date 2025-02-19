@@ -1,0 +1,240 @@
+{
+"outfit": {
+"id": 1098,
+"video": null,
+"campania_id": 81,
+"fecha_publicacion": null,
+"fecha_vigencia": null,
+"nombre": "Sunset Steps",
+"descripcion": "Con un aire relajado y moderno, la camiseta oversize color café de Unser se combina con el jogger relaxed bota recta negro de Typer. Las gafas de sol y los tenis oscuros añaden el toque final, creando una vibra urbana perfecta para cualquier ocasión.",
+"genero_id": "001",
+"slug": "sunset_steps",
+"genero_slug": "hombre",
+"genero_descripcion": "Hombre",
+"campania_slug": "chill_on_repeat",
+"campania_descripcion": "CHILL ON REPEAT",
+"img_portada": "uploads/img_portada_outfit_17Bhsomg4at3YrcmZnzRvI9B0DIIhH1737475573.webp",
+"img_portada2": null,
+"img_portada3": null,
+"img_portada4": null,
+"imagenes_outfit": [
+"https://cdn.baguer.co/uploads/img_portada_outfit_17Bhsomg4at3YrcmZnzRvI9B0DIIhH1737475573.webp"
+],
+"productos_analytics": [
+{
+"name": "CAMISETA PARA HOMBRE OVERSIZE MANGA CORTA UNICOLOR CON ESTAMPADO UNSER",
+"id": "833877",
+"price": 139950,
+"brand": "UNSER",
+"category": "Ropa",
+"variant": "CF",
+"list": "Listar Ropa",
+"position": 1
+},
+{
+"name": "DEKO JOGGER RELAXED BOTA RECTA TYPER",
+"id": "835448",
+"price": 245950,
+"brand": "TYPER",
+"category": "Ropa",
+"variant": "NG",
+"list": "Listar Ropa",
+"position": 2
+}
+],
+"productos": [
+{
+"producto_sku": "833877",
+"producto_titulo": "Camiseta Para Hombre Oversize Manga Corta Unicolor Con Estampado Unser",
+"producto_precio": "139950",
+"producto_precio_antes": "0.00",
+"producto_porcentaje_dcto": 0,
+"marca": "Unser",
+"publicado": 1,
+"descripcion_detallada": "CAMISETA PARA HOMBRE OVERSIZE MANGA CORTA UNICOLOR CON ESTAMPADO EN DELANTERO Y ESPALDA ",
+"categoria": "Ropa",
+"tipoprenda_id": "003",
+"marca_slug": "unser",
+"color": "CF",
+"coordenada_x": 44,
+"coordenada_y": 29,
+"color_nombre": "CAFÉ",
+"dia_siniva": 0,
+"producto_precio_siniva": 117605,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"stock": 6,
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"stock": 14,
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"stock": 9,
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"stock": 5,
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2024/10/833877cfjpg-webprbbddm66gj73v4mvgicfproqxkatwbfodoybaeo4fiic8u8lhl1728078278.webp",
+"https://cdn.baguer.co/uploads/2024/10/833877cf-ajpg-webpqtooyp5ugjejlhjudg0xexdhwlq518h1sf9pimprbgtk8zrubs1728078279.webp",
+"https://cdn.baguer.co/uploads/2024/10/833877cf-bjpg-webpkqaiu6tbbao1itlrh9hsf5jbfbdwh1jackmzcaialznslihmic1728078280.webp"
+],
+"url": "product-833877-CAMISETA-PARA-HOMBRE-OVERSIZE-MANGA-CORTA-UNICOLOR-CON-ESTAMPADO-UNSER?color=CF",
+"modelo_data": {
+"nombre": "Julian Duarte",
+"altura": "188 cm",
+"talla": "M",
+"pecho": 96,
+"cintura": 84
+},
+"tags": []
+},
+{
+"producto_sku": "835448",
+"producto_titulo": "Deko Jogger Relaxed Bota Recta Typer",
+"producto_precio": "245950",
+"producto_precio_antes": "0.00",
+"producto_porcentaje_dcto": 0,
+"marca": "Typer",
+"publicado": 1,
+"descripcion_detallada": "DEKO JOGGER RELAXED BOTA RECTA TYPER",
+"categoria": "Ropa",
+"tipoprenda_id": "106",
+"marca_slug": "typer",
+"color": "NG",
+"coordenada_x": 57,
+"coordenada_y": 63,
+"color_nombre": "NEGRO",
+"dia_siniva": 0,
+"producto_precio_siniva": 206681,
+"tallas": [
+{
+"id": "28",
+"descripcion": "TALLA 28",
+"name": "28",
+"stock": 17,
+"orden": "28.0"
+},
+{
+"id": "30",
+"descripcion": "TALLA 30",
+"name": "30",
+"stock": 34,
+"orden": "30.0"
+},
+{
+"id": "32",
+"descripcion": "TALLA 32",
+"name": "32",
+"stock": 52,
+"orden": "32.0"
+},
+{
+"id": "34",
+"descripcion": "TALLA 34",
+"name": "34",
+"stock": 22,
+"orden": "34.0"
+},
+{
+"id": "36",
+"descripcion": "TALLA 36",
+"name": "36",
+"stock": 10,
+"orden": "36.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2024/12/deko-jogger-relaxed-bota-recta-typer-negro-835448NG.jpg_QfBvJZJLMgQwQ162HGfwJTBW65Ky64SvWdeV61bhjq6Kh4IdNr.webp",
+"https://cdn.baguer.co/uploads/2024/12/deko-jogger-relaxed-bota-recta-typer-negro-835448NG_A.jpg_4uPPMrx8ZCLRu2Y10l1IEZKaoGTRNFIP0hYsmCmChnThj7exKz.webp",
+"https://cdn.baguer.co/uploads/2024/12/deko-jogger-relaxed-bota-recta-typer-negro-835448NG_C.jpg_hspTgO3U785zBR124rJ1dq0a8RmQbYHPA6jNGjspra0Y1cJPM8.webp",
+"https://cdn.baguer.co/uploads/2024/12/deko-jogger-relaxed-bota-recta-typer-negro-835448NG_D.jpg_IU9S7s0kLSg72cMce51c4o9WIpWURErLWTbZmhX0gglGUMub7l.webp"
+],
+"url": "product-835448-DEKO-JOGGER-RELAXED-BOTA-RECTA-TYPER?color=NG",
+"modelo_data": {
+"nombre": "Julian Duarte",
+"altura": "188 cm",
+"talla": "32",
+"pecho": 96,
+"cintura": 84
+},
+"tags": []
+}
+],
+"relacionados": [
+{
+"img_portada": "https://cdn.baguer.co/uploads/img_portada_outfit_zbbu65hfTtOMBwCFVYLnN9twawjyaa1737471411.webp",
+"slug": "street_retreat",
+"genero_slug": "hombre",
+"campania_slug": "chill_on_repeat",
+"url_outfit": "/campaigns-hombre-chill_on_repeat-street_retreat"
+},
+{
+"img_portada": "https://cdn.baguer.co/uploads/img_portada_outfit_Oqq9q38SEd93ez2ePVicpHpW3wpW501737470146.webp",
+"slug": "urban_unwind",
+"genero_slug": "hombre",
+"campania_slug": "chill_on_repeat",
+"url_outfit": "/campaigns-hombre-chill_on_repeat-urban_unwind"
+},
+{
+"img_portada": "https://cdn.baguer.co/uploads/img_portada_outfit_nXpsXhZFCHB0J2zygbmTMF3FGCFjfw1737466961.webp",
+"slug": "cargo_essentials",
+"genero_slug": "hombre",
+"campania_slug": "chill_on_repeat",
+"url_outfit": "/campaigns-hombre-chill_on_repeat-cargo_essentials"
+},
+{
+"img_portada": "https://cdn.baguer.co/uploads/img_portada_outfit_o8zZwyzRwk5EEM22OQJQV5olo7I7WK1737464559.webp",
+"slug": "tides_of_escape",
+"genero_slug": "hombre",
+"campania_slug": "chill_on_repeat",
+"url_outfit": "/campaigns-hombre-chill_on_repeat-tides_of_escape"
+},
+{
+"img_portada": "https://cdn.baguer.co/uploads/img_portada_outfit_qEKEv1o2T9W2AZUzoyynZd6jQshAu41737464013.webp",
+"slug": "beach_mode",
+"genero_slug": "hombre",
+"campania_slug": "chill_on_repeat",
+"url_outfit": "/campaigns-hombre-chill_on_repeat-beach_mode"
+},
+{
+"img_portada": "https://cdn.baguer.co/uploads/img_portada_outfit_6rc7Fz0TQp1CCS838i3qQCb6FMlAbW1737411337.webp",
+"slug": "urban_tides",
+"genero_slug": "hombre",
+"campania_slug": "chill_on_repeat",
+"url_outfit": "/campaigns-hombre-chill_on_repeat-urban_tides"
+},
+{
+"img_portada": "https://cdn.baguer.co/uploads/img_portada_outfit_64yjNs7jeyfpJl9HEzSH9dOZyCwMyC1737411207.webp",
+"slug": "sunset_escape",
+"genero_slug": "hombre",
+"campania_slug": "chill_on_repeat",
+"url_outfit": "/campaigns-hombre-chill_on_repeat-sunset_escape"
+},
+{
+"img_portada": "https://cdn.baguer.co/uploads/img_portada_outfit_aIC1Wpt97ekrkmkaxQpAt7F8JNy9KV1737410737.webp",
+"slug": "city_escape",
+"genero_slug": "hombre",
+"campania_slug": "chill_on_repeat",
+"url_outfit": "/campaigns-hombre-chill_on_repeat-city_escape"
+}
+]
+}
+}
