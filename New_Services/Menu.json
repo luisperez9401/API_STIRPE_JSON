@@ -1,0 +1,1431 @@
+{
+  "announcement_bar": {
+    "announcements": [
+      {
+        "id": "1",
+        "text": "Compra <strong>$450.000</strong> hoy con QUAC, y empieza a pagar en 60 días",
+        "cta_button": {
+          "text": "Ver más",
+          "url": "/promo",
+          "styles": {
+            "backgroundColor": "#007BFF",
+            "color": "#FFFFFF",
+            "padding": "3px 8px",
+            "borderRadius": "3px"
+          }
+        }
+      }
+    ],
+    "interval": 5000
+  },
+  "top_nav": {
+    "links": [
+      { "text": "Encuentra una tienda", "url": "/tiendas" },
+      { "text": "Seguimiento de pedido", "url": "/seguimiento" },
+      { "text": "<strong>Pagar cuota</strong>", "url": "/pago" }
+    ]
+  },
+  "logo": {
+    "logo_url": "/",
+    "image_src": "/images/logo.png",
+    "alt_text": "Stirpe Logo"
+  },
+  "user_options": [
+    {
+      "id": "search",
+      "text": "Buscar",
+      "icon": "search"
+    },
+    {
+      "id": "user",
+      "text": "Mi cuenta",
+      "icon": "user",
+      "badge": {
+        "show": true,
+        "color": "#0076FF",
+        "size": 11
+      }
+    },
+    {
+      "id": "favorites",
+      "text": "Favoritos",
+      "url": "/perfil/mis-favoritos",
+      "icon": "heart"
+    },
+    {
+      "id": "bag",
+      "text": "Bolsa",
+      "url": "/bolsa",
+      "icon": "bag",
+      "badge": {
+        "show": true,
+        "count": 3,
+        "color": "#0076FF",
+        "text_color": "#FFFFFF",
+        "size": 14
+      }
+    }
+  ],
+  "settings": [
+    {
+      "id": "data",
+      "text": "Mi datos",
+      "icon": "user",
+      "url": "/perfil"
+    },
+    {
+      "id": "addresses",
+      "text": "Mis direcciones",
+      "icon": "address",
+      "url": "/perfil/mis-direcciones"
+    },
+    {
+      "id": "orders",
+      "text": "Mi pedidos",
+      "icon": "bag",
+      "url": "/perfil/mis-pedidos"
+    },
+    {
+      "id": "favorites",
+      "text": "Mis favoritos",
+      "icon": "heart",
+      "url": "/perfil/mis-favoritos"
+    },
+    {
+      "id": "customer_service",
+      "text": "Ayuda",
+      "icon": "headset",
+      "url": "https://api.whatsapp.com/send?phone=573213927795&text=Hola!%20Quiero%20m%C3%A1s%20informaci%C3%B3n%20sobre%20el%20producto"
+    },
+    {
+      "id": "logout",
+      "text": "Cerrar sesión",
+      "icon": "logout",
+      "url": "/logout"
+    }
+  ],
+  "navigation": {
+    "desktop": [
+      {
+        "id": "hombre",
+        "text": "Hombre",
+        "url": "/hombre",
+        "sub_menu": [
+          {
+            "id": "hombre_destacado",
+            "text": "DESTACADO",
+            "url": "/hombre",
+            "category_text": "Ver todo hombre",
+            "sub_menu": [
+              {
+                "id": "hombre_novedades",
+                "text": "Nuevo",
+                "url": "/hombre-novedades"
+              },
+              {
+                "id": "cyber",
+                "text": "Cyber",
+                "url": "/hombre-cyber",
+                "highlight": true
+              },
+              {
+                "id": "hombre_mas_vendido",
+                "text": "Lo m\u00e1s vendido",
+                "url": "/hombre-mas_vendido"
+              },
+              {
+                "id": "hombre_mas_visto",
+                "text": "Lo m\u00e1s visto",
+                "url": "/hombre-mas_visto"
+              },
+              {
+                "id": "hombre_outfit",
+                "text": "Campa\u00f1as",
+                "url": "/hombre-outfit"
+              },
+              {
+                "id": "hombre_deportivo",
+                "text": "Deportivo",
+                "url": "/hombre-deportivo"
+              },
+              {
+                "id": "hombre_exclusivo_online",
+                "text": "<strong>Exclusivo online</strong>",
+                "url": "/hombre-exclusivo_online",
+                "appen_icon": "star"
+              }
+            ]
+          },
+          {
+            "id": "hombre_ropa",
+            "text": "ROPA PARA HOMBRE",
+            "url": "/hombre-ropa",
+            "category_text": "Ver todo ropa",
+            "img": "https://stirpe.co/img/mobile-male.0c99464b.jpg?ar=180-100",
+            "sub_menu": [
+              {
+                "id": "bermudas",
+                "text": "Bermudas",
+                "url": "/hombre-bermudas"
+              },
+              {
+                "id": "blazer",
+                "text": "Blazer",
+                "url": "/hombre-blazers"
+              },
+              {
+                "id": "boxer",
+                "text": "Boxer",
+                "url": "/hombre-boxers"
+              },
+              {
+                "id": "buzos",
+                "text": "Buzos",
+                "url": "/hombre-buzos"
+              },
+              {
+                "id": "camisas",
+                "text": "Camisas",
+                "url": "/hombre-camisas"
+              },
+              {
+                "id": "camisetas",
+                "text": "Camisetas",
+                "url": "/hombre-camisetas"
+              },
+              {
+                "id": "chaquetas",
+                "text": "Chaquetas",
+                "url": "/hombre-chaquetas"
+              },
+              {
+                "id": "jeans",
+                "text": "Jeans",
+                "url": "/hombre-jeans"
+              },
+              {
+                "id": "medias",
+                "text": "Medias",
+                "url": "/hombre-medias"
+              },
+              {
+                "id": "pantalones",
+                "text": "Pantalones",
+                "url": "/hombre-pantalones"
+              },
+              {
+                "id": "pantalonetas",
+                "text": "Pantalonetas",
+                "url": "/hombre-pantalonetas"
+              },
+              {
+                "id": "polos",
+                "text": "Polos",
+                "url": "/hombre-polos"
+              }
+            ]
+          },
+          {
+            "id": "hombre_accesorios",
+            "text": "ACCESORIOS PARA HOMBRE",
+            "url": "/hombre-accesorios",
+            "category_text": "Ver todo accesorios",
+            "img": "https://d1nymbkeomeoqg.cloudfront.net/photos/18/1/301669_2835_M.webp?ar=180-100",
+            "columns": 2,
+            "sub_menu": [
+              {
+                "id": "billeteras",
+                "text": "Billeteras",
+                "url": "hombre-TiendaSubcategory"
+              },
+              {
+                "id": "bolsos",
+                "text": "Bolsos",
+                "url": "#"
+              },
+              {
+                "id": "canguros",
+                "text": "Canguros",
+                "url": "#"
+              },
+              {
+                "id": "correas",
+                "text": "Correas",
+                "url": "#"
+              },
+              {
+                "id": "gafas",
+                "text": "Gafas",
+                "url": "#"
+              },
+              {
+                "id": "gorras",
+                "text": "Gorras",
+                "url": "#"
+              },
+              {
+                "id": "morrales",
+                "text": "Morrales",
+                "url": "#"
+              },
+              {
+                "id": "perfumes",
+                "text": "Perfumes",
+                "url": "#"
+              },
+              {
+                "id": "relojes",
+                "text": "Relojes",
+                "url": "#"
+              }
+            ]
+          },
+          {
+            "id": "zapatos",
+            "text": "ZAPATOS PARA HOMBRE",
+            "url": "TiendaCategory",
+            "category_text": "Ver todo zapatos",
+            "img": "https://d1nymbkeomeoqg.cloudfront.net/photos/18/1/301669_2835_M.webp?ar=180-100",
+            "columns": 2,
+            "sub_menu": [
+              {
+                "id": "botas_botines",
+                "text": "Botas y botines",
+                "url": "#"
+              },
+              {
+                "id": "tenis",
+                "text": "Tenis",
+                "url": "#"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mujer",
+        "text": "Mujer",
+        "url": "TiendaCategory",
+        "img": "https://stirpe.co/img/mobile-female.dd7cc689.jpg?ar=180-100",
+        "sub_menu": [
+          {
+            "id": "destacado",
+            "text": "DESTACADO",
+            "url": "#",
+            "category_text": "Ver todo mujer",
+            "sub_menu": [
+              {
+                "id": "novedades",
+                "text": "Nuevo",
+                "url": "TiendaCategory"
+              },
+              {
+                "id": "cyber",
+                "text": "Cyber",
+                "url": "/mujer-cyber",
+                "highlight": true
+              },
+              {
+                "id": "mas_vendido",
+                "text": "Lo m\u00e1s vendido",
+                "url": "TiendaCategory"
+              },
+              {
+                "id": "mas_visto",
+                "text": "Lo m\u00e1s visto",
+                "url": "TiendaCategory"
+              },
+              {
+                "id": "mujer_outfit",
+                "text": "Campa\u00f1as",
+                "url": "Outfitsmujer"
+              },
+              {
+                "id": "mujer-deportivo",
+                "text": "Deportivo",
+                "url": "TiendaCategory"
+              },
+              {
+                "id": "mujer-exclusivo_online",
+                "text": "<strong>Exclusivo online</strong>",
+                "appen_icon": "star",
+                "url": "TiendaCategory"
+              }
+            ]
+          },
+          {
+            "id": "ropa",
+            "text": "ROPA PARA MUJER",
+            "url": "TiendaCategory",
+            "category_text": "Ver todo ropa",
+            "img": "https://www.rollingstone.com/wp-content/uploads/2024/01/Best-Sites-for-Womenswear-8-Levis.jpg?ar=180-100",
+            "columns": 2,
+            "sub_menu": [
+              {
+                "id": "blusas",
+                "text": "Blusas",
+                "url": "#"
+              },
+              {
+                "id": "buzos",
+                "text": "Buzos",
+                "url": "#"
+              },
+              {
+                "id": "camisas",
+                "text": "Camisas",
+                "url": "#"
+              },
+              {
+                "id": "camisetas",
+                "text": "Camisetas",
+                "url": "#"
+              },
+              {
+                "id": "cardigans",
+                "text": "Cardigans",
+                "url": "#"
+              },
+              {
+                "id": "chalecos",
+                "text": "Chalecos",
+                "url": "#"
+              },
+              {
+                "id": "chaquetas",
+                "text": "Chaquetas",
+                "url": "#",
+                "prominent": true
+              },
+              {
+                "id": "enterizos_conjuntos",
+                "text": "Enterizos y conjuntos",
+                "url": "#"
+              },
+              {
+                "id": "faldas",
+                "text": "Faldas",
+                "url": "#"
+              },
+              {
+                "id": "jeans",
+                "text": "Jeans",
+                "url": "#"
+              },
+              {
+                "id": "overoles",
+                "text": "Overoles",
+                "url": "#"
+              },
+              {
+                "id": "pantalones",
+                "text": "Pantalones",
+                "url": "#"
+              },
+
+              {
+                "id": "pijamas",
+                "text": "Pijamas",
+                "url": "#"
+              },
+              {
+                "id": "polos",
+                "text": "Polos",
+                "url": "#"
+              },
+              {
+                "id": "ropa_interior",
+                "text": "Ropa interior",
+                "url": "#"
+              },
+              {
+                "id": "shorts",
+                "text": "Shorts",
+                "url": "#"
+              },
+              {
+                "id": "tops",
+                "text": "Tops",
+                "url": "#"
+              },
+              {
+                "id": "trajes_de_bano",
+                "text": "Traje de ba\u00f1o",
+                "url": "#"
+              },
+              {
+                "id": "vestidos",
+                "text": "Vestidos",
+                "url": "TiendaSubcategoy"
+              }
+            ]
+          },
+          {
+            "id": "accesorios",
+            "text": "ACCESORIOS PARA MUJER",
+            "url": "TiendaCategory",
+            "category_text": "Vert todo accesorios",
+            "img": "https://www.rollingstone.com/wp-content/uploads/2024/01/Best-Sites-for-Womenswear-8-Levis.jpg?ar=180-100",
+            "columns": 2,
+            "sub_menu": [
+              {
+                "id": "bambas",
+                "text": "Bambas",
+                "url": "#"
+              },
+              {
+                "id": "billeteras",
+                "text": "Billeteras",
+                "url": "#"
+              },
+              {
+                "id": "bolsos",
+                "text": "Bolsos",
+                "url": "#"
+              },
+              {
+                "id": "bufandas",
+                "text": "Bufandas",
+                "url": "#",
+                "prominent": true
+              },
+              {
+                "id": "canguros",
+                "text": "Canguros",
+                "url": "#"
+              },
+              {
+                "id": "correas",
+                "text": "Correas",
+                "url": "#"
+              },
+              {
+                "id": "funda_de_pc",
+                "text": "Funda de pc",
+                "url": "#",
+                "prominent": true
+              },
+              {
+                "id": "gafas",
+                "text": "Gafas",
+                "url": "#",
+                "prominent": true
+              },
+              {
+                "id": "gorras",
+                "text": "Gorras",
+                "url": "#"
+              },
+              {
+                "id": "maletas",
+                "text": "Maletas",
+                "url": "#"
+              },
+              {
+                "id": "morrales",
+                "text": "Morrales",
+                "url": "#"
+              },
+              {
+                "id": "panoletas",
+                "text": "Pa\u00f1oletas",
+                "url": "#"
+              },
+              {
+                "id": "perfumes",
+                "text": "Perfumes",
+                "url": "#"
+              },
+              {
+                "id": "relojes",
+                "text": "Relojes",
+                "url": "#"
+              },
+              {
+                "id": "sombreros",
+                "text": "Sombreros",
+                "url": "#"
+              },
+              {
+                "id": "joyeria",
+                "text": "Joyer\u00eda",
+                "url": "#"
+              }
+            ]
+          },
+          {
+            "id": "zapatos",
+            "text": "ZAPATOS PARA MUJER",
+            "url": "TiendaCategory",
+            "category_text": "Ver todo zapatos",
+            "img": "https://www.rollingstone.com/wp-content/uploads/2024/01/Best-Sites-for-Womenswear-8-Levis.jpg?ar=180-100",
+            "sub_menu": [
+              {
+                "id": "botas_botines",
+                "text": "Botas y botines",
+                "url": "#"
+              },
+              {
+                "id": "sandalias",
+                "text": "Sandalias",
+                "url": "#",
+                "prominent": true
+              },
+              {
+                "id": "tacones",
+                "text": "Tacones",
+                "url": "#"
+              },
+              {
+                "id": "tenis",
+                "text": "Tenis",
+                "url": "#"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "marcas",
+        "text": "Marcas",
+        "url": "/marcas",
+        "sub_menu": [
+          {
+            "id": "marcas",
+            "text": "TODAS LAS MARCAS",
+            "url": "/marcas",
+            "sub_menu": [
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_Kyuk7JT82z0QNI8jsrZrxKG4ZWEPOgZH1Jx1693322495.svg?ar=2-1",
+                "id": "150",
+                "text": "'47",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_bw0xLmQTT1K0DiYvsOzvIViSwYm518GwDPh1623871889.svg?ar=2-1",
+                "id": "053",
+                "text": "Adidas Originals",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_QzAVpasW5LXVyP4KcuYMspYQfTgZc8NjdAl1623871961.svg?ar=2-1",
+                "id": "123",
+                "text": "Alpinestars",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_utwH2mdI7RgTcxVgedNHAkNFKHHIRyaHn0X1623871981.svg?ar=2-1",
+                "id": "007",
+                "text": "Americanino",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_jgOVH0fekF5VOB5L8gsux3Cp3JMMFaDDgtH1623872102.svg?ar=2-1",
+                "id": "011",
+                "text": "Big Star",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_7hgrGuEUg4KxuvN2EQIIZR2I7hVkNaN3BrG1623872117.svg?ar=2-1",
+                "id": "004",
+                "text": "Chevignon",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_8qkXCvKRBSHf4S5XpIhuFu4F83kEapqvAIg1623872132.svg?ar=2-1",
+                "id": "121",
+                "text": "Clover",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_white_a6l4KVjfXa19roltgMxXrz8ydOh8vnK05YU1662757638.svg?ar=2-1",
+                "id": "066",
+                "text": "Converse",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_white_67uso6bes13iMkXUekN5bfaGa4qTPeQbUdS1668020688.svg?ar=2-1",
+                "id": "136",
+                "text": "Crew",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_mALyKdLs2oCRfG4aSQJoiNKTP4NtJlezdDZ1630510331.svg?ar=2-1",
+                "id": "131",
+                "text": "Cubitt",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_NzNgkzLK29xvTU27Mkayg4OWPfnrBK1UHdB1623872194.svg?ar=2-1",
+                "id": "019",
+                "text": "Derek",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_ZaMPIaOfDXO0uNkRCBpHRvjyk79H576jx6n1657116931.svg?ar=2-1",
+                "id": "135",
+                "text": "Derek Lovely",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_7XQ8xFB947mk1udyyj7QCOUgr4dhhHjoUit1623872217.svg?ar=2-1",
+                "id": "032",
+                "text": "Diesel",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_Bk59Jgd92KjTrDz1SdwS85POxtgzqZRbnNK1623872272.svg?ar=2-1",
+                "id": "050",
+                "text": "edc By Esprit",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_27Mrr5dnSL49sOJXpZ14uLAatUuooHJSSWK1623872347.svg?ar=2-1",
+                "id": "079",
+                "text": "Fossil",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_uZZyf7ZlSTPwyCqUBg868FCSssF03ob9dtD1623872421.svg?ar=2-1",
+                "id": "129",
+                "text": "G-Shock",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_WDNjSqD0gKxIRw9U6c7qAZ9vB4gC1NOiVpl1630510491.svg?ar=2-1",
+                "id": "018",
+                "text": "Gas",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_EKxmbYAcnSm3fasZqnmHGCGWYufmWmi1bWz1623872374.svg?ar=2-1",
+                "id": "067",
+                "text": "Girbaud",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_o0QVfbPAZaIKP4Bs0tYY0lOQ5bdv4xbdI1J1623872392.svg?ar=2-1",
+                "id": "127",
+                "text": "Goorin Bros",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_wXhFerWmYBhYRrfoOOYnukMNCW1QNurQHoS1630510364.svg?ar=2-1",
+                "id": "017",
+                "text": "Groggy",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_white_RyrRMSoQOgX9cn0jOzT8jNtCsaZOvBfDJqr1651093652.svg?ar=2-1",
+                "id": "065",
+                "text": "Guess",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_white_evs7fugbBmmdwaJZGA6OzO3PcJmICCgzici1686160281.svg?ar=2-1",
+                "id": "142",
+                "text": "Hurley",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_RyY3tP3QBw7j6R9CouYjn1Hlcsbb4mezSyw1623872503.svg?ar=2-1",
+                "id": "092",
+                "text": "Le Coq Sportif",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_ZySEcUXA29xHH6PwhcSXov5NeZQcbnKDEi01651091283.svg?ar=2-1",
+                "id": "006",
+                "text": "Liquid",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_fZgnkQ76M61XvwhdrbZy5dxMh4TkY7Qtko41623872553.svg?ar=2-1",
+                "id": "085",
+                "text": "New Balance",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_3h41SDkj8hKclxBJ3TxTRCJEHZvdFtMbSad1623872579.svg?ar=2-1",
+                "id": "128",
+                "text": "New Era",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_FUXhRQVid7v2PVWEj0bNWJ6YS8SgWulK5mV1623872607.svg?ar=2-1",
+                "id": "087",
+                "text": "Nike",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_EZGNC0K4JfdFi2xWs83ybcsDEris81Ejcsg1623872623.svg?ar=2-1",
+                "id": "102",
+                "text": "Oakley",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_Yr9i9XfWiHkQbkOz98tBAKa9gUA87QqWlWE1623872644.svg?ar=2-1",
+                "id": "033",
+                "text": "Puma",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_qyTmXatocaT4tOeJ8zymrXC0ry96W49I9fC1623872684.svg?ar=2-1",
+                "id": "084",
+                "text": "Ray-Ban",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_dPVO868mkyeGgHNtscTSP4YRzaGbvmnHEgO1623872701.svg?ar=2-1",
+                "id": "056",
+                "text": "Reebok",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_xeyh85KDwMzlX4MQFzhznvhf0VrJhSrGXH41623872727.svg?ar=2-1",
+                "id": "098",
+                "text": "Roxy",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_white_LheVoA7EG7QzXtbGyWO0htrEAqyMgDwuV3u1662757320.svg?ar=2-1",
+                "id": "134",
+                "text": "RS Performance",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_9ZUShvBaWKOgOFUijmB0CRjsrs1XcwVLIAg1623872744.svg?ar=2-1",
+                "id": "122",
+                "text": "Scout",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_kWv5LBRUW3SwUqOdA0h6PwOlSBzqDih1hVi1623872760.svg?ar=2-1",
+                "id": "055",
+                "text": "Skechers",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_orTF24YApfzWXRtTk4PAQ0wAv6w93QOJ3d01623872777.svg?ar=2-1",
+                "id": "097",
+                "text": "Superdry",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_white_YtcqlsEhaIE9GCvRqlVJoMYltDJPBjFxXuq1692031433.svg?ar=2-1",
+                "id": "141",
+                "text": "Swatch",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_emIbQ6w9Er9QCU0Czgyc1O8uL5PMbG5NzHd1623872823.svg?ar=2-1",
+                "id": "118",
+                "text": "Typer",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_W2A8fRnEYIS0zPxyEvb7iV7ov9NqRqYTrOO1623872835.svg?ar=2-1",
+                "id": "029",
+                "text": "\u00danico",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_KR0TVEUeynLttszV4LJ8leLj4UpL7cPZcHW1623872853.svg?ar=2-1",
+                "id": "002",
+                "text": "Unser",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_JRf0yh6OkUZWIiORiSh3Q3Msn1UKtelaB7o1623872867.svg?ar=2-1",
+                "id": "063",
+                "text": "Vans",
+                "url": "#"
+              },
+              {
+                "img": "https://cdn.baguer.co/brands/img_logo_mALyKdLs2oCRfG4aSQJoiNKTP4NtJlezdDZ1630510331.svg?ar=2-1",
+                "id": "131",
+                "text": "Cubitt",
+                "url": "#"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "outlet",
+        "text": "Outlet",
+        "url": "TiendaCategory",
+        "highlight": true,
+        "sub_menu": []
+      }
+    ],
+    "mobile": [
+      {
+        "id": "hombre",
+        "text": "Hombre",
+        "url": "/hombre",
+        "sub_menu": [
+          {
+            "id": "hombre_ropa",
+            "text": "Ropa",
+            "url": "/hombre-ropa",
+            "category_text": "ropa",
+            "img": "_nuxt/assets/images/image-menu-mobile-hombre.png",
+            "sub_menu": [
+              {
+                "id": "bermudas",
+                "text": "bermudas",
+                "url": "/hombre-bermudas",
+                "icon": "bag",
+                "prominent": true
+              },
+              {
+                "id": "blazer",
+                "text": "blazer",
+                "url": "/hombre-blazer",
+                "icon": ""
+              },
+              {
+                "id": "boxer",
+                "text": "boxer",
+                "url": "/hombre-boxer",
+                "icon": ""
+              },
+              {
+                "id": "buzos",
+                "text": "buzos",
+                "url": "/hombre-buzos",
+                "icon": ""
+              },
+              {
+                "id": "camisas",
+                "text": "camisas",
+                "url": "/hombre-camisas",
+                "icon": ""
+              },
+              {
+                "id": "camisetas",
+                "text": "camisetas",
+                "url": "/hombre-camisetas",
+                "icon": ""
+              },
+              {
+                "id": "chaquetas",
+                "text": "chaquetas",
+                "url": "/hombre-chaquetas",
+                "icon": ""
+              },
+              {
+                "id": "jeans",
+                "text": "jeans",
+                "url": "/hombre-jeans",
+                "icon": ""
+              },
+              {
+                "id": "medias",
+                "text": "medias",
+                "url": "/hombre-medias",
+                "icon": ""
+              },
+              {
+                "id": "pantalones",
+                "text": "pantalones",
+                "url": "/hombre-pantalones",
+                "icon": ""
+              },
+              {
+                "id": "pantalonetas",
+                "text": "pantalonetas",
+                "url": "/hombre-pantalonetas",
+                "icon": ""
+              },
+              {
+                "id": "polos",
+                "text": "polos",
+                "url": "/hombre-polos",
+                "icon": ""
+              },
+              {
+                "id": "sudaderas",
+                "text": "sudaderas",
+                "url": "/hombre-sudaderas",
+                "icon": ""
+              }
+            ]
+          },
+          {
+            "id": "hombre_accesorios",
+            "text": "Accesorios",
+            "url": "/hombre-accesorios",
+            "category_text": "accesorios",
+            "img": "_nuxt/assets/images/image-menu-mobile-hombre.png",
+            "sub_menu": [
+              {
+                "id": "billeteras",
+                "text": "billeteras",
+                "url": "/hombre-billeteras",
+                "icon": ""
+              },
+              {
+                "id": "bolsos",
+                "text": "bolsos",
+                "url": "/hombre-bolsos",
+                "icon": ""
+              },
+              {
+                "id": "canguros",
+                "text": "canguros",
+                "url": "/hombre-canguros",
+                "icon": ""
+              },
+              {
+                "id": "correas",
+                "text": "correas",
+                "url": "/hombre-correas",
+                "icon": ""
+              },
+              {
+                "id": "gafas",
+                "text": "gafas",
+                "url": "/hombre-gafas",
+                "icon": ""
+              },
+              {
+                "id": "gorras",
+                "text": "gorras",
+                "url": "/hombre-gorras",
+                "icon": ""
+              },
+              {
+                "id": "morrales",
+                "text": "morrales",
+                "url": "/hombre-morrales",
+                "icon": ""
+              },
+              {
+                "id": "perfumes",
+                "text": "perfumes",
+                "url": "/hombre-perfumes",
+                "icon": ""
+              },
+              {
+                "id": "relojes",
+                "text": "relojes",
+                "url": "/hombre-relojes",
+                "icon": ""
+              }
+            ]
+          },
+          {
+            "id": "hombre_zapatos",
+            "text": "Zapatos",
+            "url": "/hombre-zapatos",
+            "category_text": "zapatos",
+            "img": "_nuxt/assets/images/image-menu-mobile-hombre.png",
+            "sub_menu": [
+              {
+                "id": "botas_botines",
+                "text": "Botas y botines",
+                "url": "/hombre-botas_botines",
+                "icon": ""
+              },
+              {
+                "id": "tenis",
+                "text": "tenis",
+                "url": "/hombre-tenis",
+                "icon": ""
+              }
+            ]
+          }
+        ],
+        "highlighted_section": {
+          "id": "hombre_destacado",
+          "sub_menu": [
+            {
+              "id": "hombre_nuevo",
+              "text": "Nuevo",
+              "label": "Nuestros recién llegados",
+              "url": "/nuevo-hombre",
+              "img": "_nuxt/assets/images/image-highli-mobile-1.png"
+            },
+            {
+              "id": "hombre_outlet",
+              "text": "Outlet",
+              "label": "Looks para todas las ocasiones",
+              "url": "/hombre-outlet",
+              "img": "_nuxt/assets/images/image-menu-mobile-mujer.png"
+            },
+            {
+              "id": "hombre_mas_vendido",
+              "text": "Lo m\u00e1s vendido",
+              "label": "Adaptados a tu rutina",
+              "url": "/hombre-mas_vendido",
+              "img": "_nuxt/assets/images/image-highli-mobile-1.png"
+            },
+            {
+              "id": "hombre_campaigns",
+              "text": "Campa\u00f1as",
+              "label": "Adaptados a tu rutina",
+              "url": "/hombre-campaings",
+              "img": "_nuxt/assets/images/image-menu-mobile-mujer.png",
+              "prominent": true
+            },
+            {
+              "id": "hombre_exclusivo_online",
+              "text": "Exclusivo online",
+              "label": "Exclusividad a un solo clic",
+              "url": "/hombre-exclusivo_online",
+              "img": "_nuxt/assets/images/image-menu-mobile-mujer.png",
+              "prepend_icon": "star"
+            },
+            {
+              "id": "hombre_marcas",
+              "text": "Marcas",
+              "label": "Las mas famosas para vestir",
+              "url": "/marcas",
+              "img": "_nuxt/assets/images/image-highli-mobile-1.png"
+            }
+          ]
+        }
+      },
+      {
+        "id": "mujer",
+        "text": "Mujer",
+        "url": "/mujer",
+        "sub_menu": [
+          {
+            "id": "mujer_ropa",
+            "text": "Ropa",
+            "url": "/mujer-ropa",
+            "img": "_nuxt/assets/images/image-menu-mobile-mujer.png",
+            "sub_menu": [
+              {
+                "id": "blusas",
+                "text": "blusas",
+                "url": "/mujer-blusas",
+                "icon": ""
+              },
+              {
+                "id": "buzos",
+                "text": "buzos",
+                "url": "/mujer-buzos",
+                "icon": ""
+              },
+              {
+                "id": "camisas",
+                "text": "camisas",
+                "url": "mujer-ropa-camisas",
+                "icon": ""
+              },
+              {
+                "id": "camisetas",
+                "text": "camisetas",
+                "url": "mujer-ropa-camisetas",
+                "icon": ""
+              },
+              {
+                "id": "cardigans",
+                "text": "cardigans",
+                "url": "/mujer-ropa-cardigans",
+                "icon": ""
+              },
+              {
+                "id": "chalecos",
+                "text": "chalecos",
+                "url": "mujer-ropa-chalecos",
+                "icon": ""
+              },
+              {
+                "id": "chaquetas",
+                "text": "chaquetas",
+                "url": "mujer-ropa-chaquetas",
+                "icon": ""
+              },
+              {
+                "id": "enterizos_conjuntos",
+                "text": "enterizos y conjuntos",
+                "url": "mujer-ropa-enterizosyconjuntos",
+                "icon": ""
+              },
+              {
+                "id": "faldas",
+                "text": "faldas",
+                "url": "mujer-ropa-faldas",
+                "icon": ""
+              },
+              {
+                "id": "jeans",
+                "text": "jeans",
+                "url": "mujer-ropa-jeans",
+                "icon": ""
+              },
+              {
+                "id": "overoles",
+                "text": "overoles",
+                "url": "mujer-ropa-overoles",
+                "icon": ""
+              },
+              {
+                "id": "pantalones",
+                "text": "pantalones",
+                "url": "mujer-ropa-pantalones",
+                "icon": ""
+              },
+              {
+                "id": "pijamas",
+                "text": "pijamas",
+                "url": "mujer-ropa-pijamas",
+                "icon": ""
+              },
+              {
+                "id": "polos",
+                "text": "polos",
+                "url": "mujer-ropa-polos",
+                "icon": ""
+              },
+              {
+                "id": "ropa_interior",
+                "text": "ropa interior",
+                "url": "mujer-ropa-ropainterior",
+                "icon": ""
+              },
+              {
+                "id": "shorts",
+                "text": "shorts",
+                "url": "mujer-ropa-shorts",
+                "icon": ""
+              },
+              {
+                "id": "sudaderas",
+                "text": "tops",
+                "url": "mujer-ropa-tops",
+                "icon": ""
+              },
+              {
+                "id": "trajes_de_bano",
+                "text": "traje de ba\u00f1o",
+                "url": "mujer-ropa-trajedebano",
+                "icon": ""
+              }
+            ]
+          },
+          {
+            "id": "mujer_accesorios",
+            "text": "Accesorios",
+            "url": "/mujer-accesorios",
+            "category_text": "accesorios",
+            "img": "_nuxt/assets/images/image-menu-mobile-mujer.png",
+            "sub_menu": [
+              {
+                "id": "billeteras",
+                "text": "billeteras",
+                "url": "/mujer-accesorios-billeteras",
+                "icon": ""
+              },
+              {
+                "id": "bolsos",
+                "text": "bolsos",
+                "url": "/mujer-accesorios-bolsos",
+                "icon": ""
+              },
+              {
+                "id": "bufandas",
+                "text": "bufandas",
+                "url": "/mujer-accesorios-bufandas",
+                "icon": "",
+                "prominent": true
+              },
+              {
+                "id": "canguros",
+                "text": "canguros",
+                "url": "/mujer-accesorios-canguros",
+                "icon": ""
+              },
+              {
+                "id": "correas",
+                "text": "correas",
+                "url": "/mujer-accesorios-correas",
+                "icon": ""
+              },
+              {
+                "id": "cremas",
+                "text": "cremas",
+                "url": "/mujer-accesorios-cremas",
+                "icon": ""
+              },
+              {
+                "id": "funda_de_pc",
+                "text": "funda de pc",
+                "url": "/mujer-accesorios-funda_de_pc",
+                "icon": ""
+              },
+              {
+                "id": "gafas",
+                "text": "gafas",
+                "url": "/mujer-accesorios-gafas",
+                "icon": ""
+              },
+              {
+                "id": "gorras",
+                "text": "gorras",
+                "url": "/mujer-accesorios-gorras",
+                "icon": ""
+              },
+              {
+                "id": "maletas",
+                "text": "maletas",
+                "url": "/mujer-accesorios-maletas",
+                "icon": ""
+              },
+              {
+                "id": "morrales",
+                "text": "morrales",
+                "url": "/mujer-accesorios-morrales",
+                "icon": ""
+              },
+              {
+                "id": "panoletas",
+                "text": "pa\u00f1oletas",
+                "url": "/mujer-accesorios-panoletas",
+                "icon": ""
+              },
+              {
+                "id": "perfumes",
+                "text": "perfumes",
+                "url": "/mujer-accesorios-perfumes",
+                "icon": ""
+              },
+              {
+                "id": "relojes",
+                "text": "relojes",
+                "url": "/mujer-accesorios-relojes",
+                "icon": ""
+              },
+              {
+                "id": "sombreros",
+                "text": "sombreros",
+                "url": "/mujer-accesorios-sombreros",
+                "icon": ""
+              },
+              {
+                "id": "splash",
+                "text": "splash",
+                "url": "/mujer-accesorios-splash",
+                "icon": ""
+              },
+              {
+                "id": "joyeria",
+                "text": "joyer\u00eda",
+                "url": "/mujer-accesorios-joyeria",
+                "icon": ""
+              }
+            ]
+          },
+          {
+            "id": "mujer_zapatos",
+            "text": "Zapatos",
+            "url": "/mujer-zapatos",
+            "category_text": "zapatos",
+            "img": "_nuxt/assets/images/image-menu-mobile-mujer.png",
+            "sub_menu": [
+              {
+                "id": "botas_botines",
+                "text": "Botas y botines",
+                "url": "/mujer-zapatos-botas_botines",
+                "icon": ""
+              },
+              {
+                "id": "sandalias",
+                "text": "sandalias",
+                "url": "/mujer-zapatos-sandalias",
+                "icon": ""
+              },
+              {
+                "id": "tacones",
+                "text": "tacones",
+                "url": "/mujer-zapatos-tacones",
+                "icon": ""
+              },
+              {
+                "id": "tenis",
+                "text": "tenis",
+                "url": "/mujer-zapatos-tenis",
+                "icon": ""
+              }
+            ]
+          }
+        ],
+        "highlighted_section": {
+          "id": "mujer_destacado",
+          "sub_menu": [
+            {
+              "id": "mujer_nuevo",
+              "text": "Nuevo",
+              "label": "Nuestros recién llegados",
+              "url": "/mujer-nuevo",
+              "img": "_nuxt/assets/images/image-highli-mobile-1.png"
+            },
+            {
+              "id": "mujer_outlet",
+              "text": "Outlet",
+              "label": "Looks para todas las ocasiones",
+              "url": "/mujer-outlet",
+              "img": "_nuxt/assets/images/image-menu-mobile-mujer.png"
+            },
+            {
+              "id": "mujer_mas_vendido",
+              "text": "Lo m\u00e1s vendido",
+              "label": "Adaptados a tu rutina",
+              "url": "/mujer-mas_vendido",
+              "img": "_nuxt/assets/images/image-highli-mobile-1.png"
+            },
+            {
+              "id": "mujer_campaigns",
+              "text": "Campa\u00f1as",
+              "label": "Adaptados a tu rutina",
+              "url": "/mujer-campaigns",
+              "img": "_nuxt/assets/images/image-menu-mobile-mujer.png",
+              "prominent": true
+            },
+            {
+              "id": "mujer_exclusivo_online",
+              "text": "Exclusivo online",
+              "label": "Exclusividad a un solo clic",
+              "url": "/mujer-exclusivo_online",
+              "img": "_nuxt/assets/images/image-menu-mobile-mujer.png",
+              "appen_icon": "star"
+            },
+            {
+              "id": "mujer_marcas",
+              "text": "Marcas",
+              "label": "Las mas famosas para vestir",
+              "url": "/marcas",
+              "img": "_nuxt/assets/images/image-highli-mobile-1.png"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ayuda",
+        "text": "Ayuda",
+        "sub_menu": [
+          {
+            "id": "paga_cuota",
+            "text": "<strong>Paga tu cuota</strong>",
+            "url": "/paga-tu-cuota"
+          },
+          {
+            "id": "solicita_cupo",
+            "text": "Solicita tu cupo",
+            "url": "/solicita-tu-cupo"
+          },
+          {
+            "id": "encuenta_una_tienda",
+            "text": "Encuentra una tienda",
+            "url": "/encuentra-una-tienda"
+          }
+        ]
+      }
+    ]
+  }
+}
