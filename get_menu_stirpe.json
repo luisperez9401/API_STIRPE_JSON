@@ -1,0 +1,997 @@
+{
+"items": [
+{
+"id": "001",
+"descripcion": "Hombre",
+"slug": "hombre",
+"routerName": "TiendaCategory",
+"subMenu": [
+{
+"title": "DESTACADO",
+"descripcion": "Hombre",
+"slug": "hombre",
+"routerName": "Tienda",
+"subMenu": [
+{
+"id": "novedades",
+"descripcion": "Nuevo",
+"slug": "novedades",
+"routerName": "TiendaCategory"
+},
+{
+"id": "outlet",
+"title": "Outlet",
+"descripcion": "Outlet",
+"slug": "outlet",
+"routerName": "TiendaCategory",
+"color_fondo": "",
+"color_texto": ""
+},
+{
+"id": "mas_vendido",
+"descripcion": "Lo más vendido",
+"slug": "mas_vendido",
+"routerName": "TiendaCategory"
+},
+{
+"id": "mas_visto",
+"descripcion": "Lo más visto",
+"slug": "mas_visto",
+"routerName": "TiendaCategory"
+},
+{
+"id": "hombre_outfit",
+"descripcion": "Campañas",
+"slug": "outfit_hombre",
+"routerName": "Outfitshombre"
+}
+]
+},
+{
+"ads": {
+"layout": "single",
+"items": [
+{
+"image": "http://devstirpe.com.co/assets/img/bg-home-hombre.png",
+"url": "http://devstirpe.com.co/hombre-ropa"
+}
+]
+},
+"title": "ROPA PARA HOMBRE",
+"descripcion": "Ropa",
+"slug": "ropa",
+"routerName": "TiendaCategory",
+"subMenu": [
+{
+"id": "018",
+"descripcion": "BERMUDAS",
+"slug": "bermudas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/img_tipoprenda_e6sMdPRnTcXISH5jmlnV1FZAw2vasIMaY2r1737642593.webp"
+},
+{
+"id": "075",
+"descripcion": "Blazer",
+"slug": "blazer",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/blazers.jpg"
+},
+{
+"id": "068",
+"descripcion": "BOXER",
+"slug": "boxer",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/boxers.jpg"
+},
+{
+"id": "029",
+"descripcion": "BUZOS",
+"slug": "buzos",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/img_tipoprenda_eAZoKN1iNLG9EsOc7ofihwtxnWwlGxg3Z811733262815.webp"
+},
+{
+"id": "002",
+"descripcion": "CAMISAS",
+"slug": "camisas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/img_tipoprenda_0wQpyYZbcapmNHfXfq07q1HQ8QmjPKoUV7X1737642612.webp"
+},
+{
+"id": "003",
+"descripcion": "CAMISETAS",
+"slug": "camisetas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/img_tipoprenda_Iz0zRYKZQC1XbHXs5csUZDTil0j02aMsqbL1737642639.webp"
+},
+{
+"id": "005",
+"descripcion": "CHAQUETAS",
+"slug": "chaquetas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/img_tipoprenda_WmjoViRYra87CYlO16TJe922Iysbes3917b1733263043.webp"
+},
+{
+"id": "059",
+"descripcion": "JEANS",
+"slug": "jeans",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/img_tipoprenda_6yuvF8ZqJb006e0PdIV6NYHy6A8wKVDYnYt1737642680.webp"
+},
+{
+"id": "106",
+"descripcion": "JOGGER",
+"slug": "jogger",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/img_tipoprenda_R8gTyBZc5VRglor3pSXjim4xJqRUsuhCRcQ1715813888.webp"
+},
+{
+"id": "069",
+"descripcion": "MEDIAS",
+"slug": "medias",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/medias.jpg"
+},
+{
+"id": "001",
+"descripcion": "PANTALONES",
+"slug": "pantalones",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/img_tipoprenda_6zz995V2SOkplrsXplPnll0ITPJF96BKL6G1737642701.webp"
+},
+{
+"id": "019",
+"descripcion": "PANTALONETAS",
+"slug": "pantalonetas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/pantalonetas.png"
+},
+{
+"id": "071",
+"descripcion": "POLOS",
+"slug": "polos",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/img_tipoprenda_yrG9rtB1r38d7BE06Du0BVplbcEBb3Sw8LF1733263388.webp"
+}
+]
+},
+{
+"ads": {
+"layout": "multiple",
+"items": [
+{
+"image": "http://devstirpe.com.co/assets/img/bg-home-hombre.png",
+"url": "http://devstirpe.com.co/hombre-accesorios"
+},
+{
+"image": "http://devstirpe.com.co/assets/img/bg-home-hombre.png",
+"url": "http://devstirpe.com.co/hombre-accesorios"
+},
+{
+"image": "http://devstirpe.com.co/assets/img/bg-home-hombre.png",
+"url": "http://devstirpe.com.co/hombre-accesorios"
+}
+]
+},
+"title": "ACCESORIOS PARA HOMBRE",
+"descripcion": "Accesorios",
+"slug": "accesorios",
+"routerName": "TiendaCategory",
+"subMenu": [
+{
+"id": "008",
+"descripcion": "BILLETERAS",
+"slug": "billeteras",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/billeteras.jpg"
+},
+{
+"id": "014",
+"descripcion": "BOLSOS",
+"slug": "bolsos",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/img_tipoprenda_jqGIXjmIjj2qvJRlfONnaraifyEgjQQAyS11733262787.webp"
+},
+{
+"id": "009",
+"descripcion": "CANGUROS",
+"slug": "canguros",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/canguros.jpg"
+},
+{
+"id": "006",
+"descripcion": "CORREAS",
+"slug": "correas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/correas.jpg"
+},
+{
+"id": "025",
+"descripcion": "GAFAS",
+"slug": "gafas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/img_tipoprenda_HM3jVFoeXWD4noWGy9Vkyh0XB24g6KTvEdt1722615091.webp"
+},
+{
+"id": "011",
+"descripcion": "GORRAS",
+"slug": "gorras",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/img_tipoprenda_9pdXIYhU29EaJURQYyTOXVqUzUAR41bQ1dK1737642659.webp"
+},
+{
+"id": "010",
+"descripcion": "MORRALES",
+"slug": "morrales",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/img_tipoprenda_CKF5ssmg5itFXNIdSUcKsQyxNNM1ejplZQB1722615161.webp"
+},
+{
+"id": "024",
+"descripcion": "PERFUMES",
+"slug": "perfumes",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/img_tipoprenda_FsQAHKr8Ra3woOdeXdHFANUaB2FSngxYQNh1627570542.jpg"
+},
+{
+"id": "026",
+"descripcion": "RELOJES",
+"slug": "relojes",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/img_tipoprenda_hfbFzo0PCCpvUhbNfMVkY8OZs2COxRUThQi1717777174.webp"
+}
+]
+},
+{
+"ads": {
+"layout": "multiple",
+"items": [
+{
+"image": "http://devstirpe.com.co/assets/img/bg-home-hombre.png",
+"url": "http://devstirpe.com.co/hombre-zapatos"
+},
+{
+"image": "http://devstirpe.com.co/assets/img/bg-home-hombre.png",
+"url": "http://devstirpe.com.co/hombre-zapatos"
+},
+{
+"image": "http://devstirpe.com.co/assets/img/bg-home-hombre.png",
+"url": "http://devstirpe.com.co/hombre-zapatos"
+}
+]
+},
+"title": "ZAPATOS PARA HOMBRE",
+"descripcion": "Zapatos",
+"slug": "zapatos",
+"routerName": "TiendaCategory",
+"subMenu": [
+{
+"id": "021107",
+"descripcion": "TENIS",
+"slug": "tenis",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/img_tipoprenda_BD8Ccg3UOyWf9iNcOZZsn3f1BQMggOypJYj1737642561.webp"
+}
+]
+}
+]
+},
+{
+"id": "001",
+"descripcion": "Mujer",
+"slug": "mujer",
+"routerName": "TiendaCategory",
+"subMenu": [
+{
+"title": "DESTACADO",
+"descripcion": "Mujer",
+"slug": "mujer",
+"routerName": "Tienda",
+"subMenu": [
+{
+"id": "novedades",
+"descripcion": "Nuevo",
+"slug": "novedades",
+"routerName": "TiendaCategory"
+},
+{
+"id": "outlet",
+"title": "Outlet",
+"descripcion": "Outlet",
+"slug": "outlet",
+"routerName": "TiendaCategory",
+"color_fondo": "",
+"color_texto": ""
+},
+{
+"id": "mas_vendido",
+"descripcion": "Lo más vendido",
+"slug": "mas_vendido",
+"routerName": "TiendaCategory"
+},
+{
+"id": "mas_visto",
+"descripcion": "Lo más visto",
+"slug": "mas_visto",
+"routerName": "TiendaCategory"
+},
+{
+"id": "mujer_outfit",
+"descripcion": "Campañas",
+"slug": "outfit_mujer",
+"routerName": "Outfitsmujer"
+}
+]
+},
+{
+"ads": {
+"layout": "multiple",
+"items": [
+{
+"image": "http://devstirpe.com.co/assets/img/bg-home-hombre.png",
+"url": "http://devstirpe.com.co/mujer-ropa"
+},
+{
+"image": "http://devstirpe.com.co/assets/img/bg-home-hombre.png",
+"url": "http://devstirpe.com.co/mujer-ropa"
+},
+{
+"image": "http://devstirpe.com.co/assets/img/bg-home-hombre.png",
+"url": "http://devstirpe.com.co/mujer-ropa"
+}
+]
+},
+"title": "ROPA PARA MUJER",
+"descripcion": "Ropa",
+"slug": "ropa",
+"routerName": "TiendaCategory",
+"subMenu": [
+{
+"id": "004",
+"descripcion": "BLUSAS",
+"slug": "blusas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_aAnLBSnr84H38EGole8n9q4xMj3HzGEjNn11737642603.webp"
+},
+{
+"id": "029",
+"descripcion": "BUZOS",
+"slug": "buzos",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_5bJGUVnAoWYeLRvDTBWJPWt8Tw3i5JLCcup1733262825.webp"
+},
+{
+"id": "002",
+"descripcion": "CAMISAS",
+"slug": "camisas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_Yq5STuQvYnkMzCJeNElqYGBdC04ywZxM5Yf1737642629.webp"
+},
+{
+"id": "003",
+"descripcion": "CAMISETAS",
+"slug": "camisetas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_Z9LXcZp8JCkfXfMIktNsQshcLBq9XiKRGkQ1722614310.webp"
+},
+{
+"id": "062",
+"descripcion": "CARDIGANS",
+"slug": "cardigans",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_c8SRoZpwuf7h6vL43ROT1eTqFIWmQycLzPE1710393905.webp"
+},
+{
+"id": "013",
+"descripcion": "CHALECOS",
+"slug": "chalecos",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_tCo3gAphte6V6Jn9zapDFUFJlzDS89JK3zu1722614700.webp"
+},
+{
+"id": "005",
+"descripcion": "CHAQUETAS",
+"slug": "chaquetas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_YzBBrgKaG7SvSsv3hRiDt1nuZ7tzdyC7TBo1733263032.webp"
+},
+{
+"id": "073007092",
+"descripcion": "Enterizos y conjuntos",
+"slug": "enterizosyconjuntos",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_wBrTYaQ1HNd6PAVEsaNvmjA2YwDrOT4oBBl1717777395.webp",
+"destacado": 0
+},
+{
+"id": "016",
+"descripcion": "FALDAS",
+"slug": "faldas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_2BdZzSBsjN4HVatmurGLBIsSuTbAKg9SP121737642647.webp"
+},
+{
+"id": "059",
+"descripcion": "JEANS",
+"slug": "jeans",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_9mjTe2ekjjkFnqBS2I4B9EzwnahHdDsVe7S1737642691.webp"
+},
+{
+"id": "106",
+"descripcion": "JOGGER",
+"slug": "jogger",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_qZrynvYGPFmJobwaERiiUw20NKoYQ7upA4D1722614841.webp"
+},
+{
+"id": "028",
+"descripcion": "OVEROLES",
+"slug": "overoles",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_PL9NN0AeGItwlH7GZDLYIpOGUx2iTpzzgzt1722614863.webp"
+},
+{
+"id": "001",
+"descripcion": "PANTALONES",
+"slug": "pantalones",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_0ICTHXqvNZCB7Z5ag40B546jGDziGgY5kOc1722034469.webp"
+},
+{
+"id": "020",
+"descripcion": "PIJAMAS",
+"slug": "pijamas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_kaH94BRlkVYKU2jpEWZt87NctCKXN2tpoc31680367645.webp"
+},
+{
+"id": "071",
+"descripcion": "POLOS",
+"slug": "polos",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_AiKjDoB9hoDKOF1fjcyDklIeQTs2C7nI7wo1733263398.webp"
+},
+{
+"id": "012",
+"descripcion": "ROPA INTERIOR",
+"slug": "ropainterior",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_Zvddlj7fCFgYy8y9YO4Tqd4b7eT0LwWJ1sh1643405547.jpg"
+},
+{
+"id": "017",
+"descripcion": "SHORTS",
+"slug": "shorts",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_ugaUpW4QSH7pa8Ki4hWuCShha2gE4BD4GOZ1737642713.webp"
+},
+{
+"id": "063",
+"descripcion": "TOPS",
+"slug": "tops",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/tops.png"
+},
+{
+"id": "023",
+"descripcion": "Traje de baño",
+"slug": "trajedebano",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/trajes-de-baño.jpg"
+},
+{
+"id": "027",
+"descripcion": "VESTIDOS",
+"slug": "vestidos",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_KRK7JRAgqeckzx7c7nmG08tSQywnJAcf5Mu1731770980.webp"
+}
+]
+},
+{
+"ads": {
+"layout": "single",
+"items": [
+{
+"image": "http://devstirpe.com.co/assets/img/bg-home-hombre.png",
+"url": "http://devstirpe.com.co/mujer-accesorios"
+}
+]
+},
+"title": "ACCESORIOS PARA MUJER",
+"descripcion": "Accesorios",
+"slug": "accesorios",
+"routerName": "TiendaCategory",
+"subMenu": [
+{
+"id": "008",
+"descripcion": "BILLETERAS",
+"slug": "billeteras",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_xzBrTZuIh71BwDK4CtyukcmdAKF9tVUVobF1643227614.jpg"
+},
+{
+"id": "014",
+"descripcion": "BOLSOS",
+"slug": "bolsos",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_XD5tRl1WUlVd9SadZFD8QIM4amxlfOgFq6j1731016902.webp"
+},
+{
+"id": "030",
+"descripcion": "BUFANDAS",
+"slug": "bufandas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/bufandas.png"
+},
+{
+"id": "009",
+"descripcion": "CANGUROS",
+"slug": "canguros",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_BkcGffkyER03FdT5qskxL7hMsFpXDXM0S9Q1717776483.webp"
+},
+{
+"id": "006",
+"descripcion": "CORREAS",
+"slug": "correas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_TQrVqLhN1pe0mDtBEh9vq1JqNNAGhOF3jVA1666909471.webp"
+},
+{
+"id": "025",
+"descripcion": "GAFAS",
+"slug": "gafas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_MmHUZYmUJ4q3sQmvL2MroQxouVpAR3bD6ye1722614781.webp"
+},
+{
+"id": "011",
+"descripcion": "GORRAS",
+"slug": "gorras",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_5FI765j7RvfMmljH0kdGbUpt14N9bjBE8b91737642667.webp"
+},
+{
+"id": "064",
+"descripcion": "MALETAS",
+"slug": "maletas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_ZiHMwEJo4n6AANcN66AhuVMQjhPomQmZGSK1666909192.webp"
+},
+{
+"id": "010",
+"descripcion": "MORRALES",
+"slug": "morrales",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_8XaAxhcoKDVnovbzwZoMHdWHUNW9UYBRsDU1717776443.webp"
+},
+{
+"id": "076",
+"descripcion": "PAÑOLETAS",
+"slug": "panoletas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/pañoletas.jpg"
+},
+{
+"id": "024",
+"descripcion": "PERFUMES",
+"slug": "perfumes",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_qcryU9tWWN7UboEGy4HqeR3JYXeQS6Z9B0o1643227899.jpg"
+},
+{
+"id": "026",
+"descripcion": "RELOJES",
+"slug": "relojes",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_vAnflNntdWF0sEUeVp0BUR85wJiyn7cnYzB1643227956.jpg"
+},
+{
+"id": "079",
+"descripcion": "Splash",
+"slug": "splash",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_O0WDGGJFMUfHRLSQQGrSdk2ofh3RVGWD2qk1710778703.webp"
+},
+{
+"id": "054053048",
+"descripcion": "JOYERÍA",
+"slug": "joyeria",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_BXjWE4Wfwl7UeguuYNsgMlvki9WSFHROXUm1684183350.webp",
+"destacado": 0
+}
+]
+},
+{
+"ads": {
+"layout": "single",
+"items": [
+{
+"image": "http://devstirpe.com.co/assets/img/bg-home-hombre.png",
+"url": "http://devstirpe.com.co/mujer-zapatos"
+}
+]
+},
+"title": "ZAPATOS PARA MUJER",
+"descripcion": "Zapatos",
+"slug": "zapatos",
+"routerName": "TiendaCategory",
+"subMenu": [
+{
+"id": "021116",
+"descripcion": "BALETAS",
+"slug": "baletas",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/baletas.png"
+},
+{
+"id": "021999",
+"descripcion": "Botas y botines",
+"slug": "botasybotines",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/male/casuales.png"
+},
+{
+"id": "045",
+"descripcion": "SANDALIAS",
+"slug": "sandalias",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/sandalias.jpg"
+},
+{
+"id": "021115",
+"descripcion": "TACONES",
+"slug": "tacones",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_P96mtfQKtmjBLX2RRGN2yItXTAaLw4yr3pe1643228018.jpg"
+},
+{
+"id": "021107",
+"descripcion": "TENIS",
+"slug": "tenis",
+"routerName": "TiendaSubcategory",
+"img": "https://cdn.baguer.co/categories/female/img_tipoprenda_yorpPapDRy7K01xmyi03u2VkX3qWIT2R4zg1737642572.webp"
+}
+]
+}
+]
+},
+{
+"descripcion": "Marcas",
+"routerName": "Brands",
+"slug": "brands",
+"subMenu": [
+{
+"title": "Todas las marcas",
+"descripcion": "Todas las marcas",
+"slug": "marcas",
+"routerName": "Brands",
+"subMenu": [
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_Kyuk7JT82z0QNI8jsrZrxKG4ZWEPOgZH1Jx1693322495.svg",
+"id": "150",
+"descripcion": "'47",
+"slug": "47",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_bw0xLmQTT1K0DiYvsOzvIViSwYm518GwDPh1623871889.svg",
+"id": "053",
+"descripcion": "Adidas Originals",
+"slug": "adidasoriginals",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_utwH2mdI7RgTcxVgedNHAkNFKHHIRyaHn0X1623871981.svg",
+"id": "007",
+"descripcion": "Americanino",
+"slug": "americanino",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_white_Ij8rVnonNQebEKgq8T1pGxC292EhC3rM6Ir1733518716.svg",
+"id": "170",
+"descripcion": "ArtDist",
+"slug": "artdist",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_vcNv15Pzu5MhF0LlMI0foOW4Ys5tFRLyYAK1733518434.svg",
+"id": "130",
+"descripcion": "Asics",
+"slug": "asics",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_white_Kdjp0FhTqR4VIMFkaN5Z4UkQkRGqK9cXkQz1727105215.svg",
+"id": "158",
+"descripcion": "Blackoud",
+"slug": "blackoud",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_7hgrGuEUg4KxuvN2EQIIZR2I7hVkNaN3BrG1623872117.svg",
+"id": "004",
+"descripcion": "Chevignon",
+"slug": "chevignon",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_8qkXCvKRBSHf4S5XpIhuFu4F83kEapqvAIg1623872132.svg",
+"id": "121",
+"descripcion": "Clover",
+"slug": "clover",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_mALyKdLs2oCRfG4aSQJoiNKTP4NtJlezdDZ1630510331.svg",
+"id": "131",
+"descripcion": "Cubitt",
+"slug": "cubitt",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_NzNgkzLK29xvTU27Mkayg4OWPfnrBK1UHdB1623872194.svg",
+"id": "019",
+"descripcion": "Derek",
+"slug": "derek",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_eoWWouGMhmQOL7CqrU0kYFf5z1toERB5Cik1733171727.svg",
+"id": "135",
+"descripcion": "Derek Lovely",
+"slug": "lovely",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_7XQ8xFB947mk1udyyj7QCOUgr4dhhHjoUit1623872217.svg",
+"id": "032",
+"descripcion": "Diesel",
+"slug": "diesel",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_Bk59Jgd92KjTrDz1SdwS85POxtgzqZRbnNK1623872272.svg",
+"id": "050",
+"descripcion": "edc By Esprit",
+"slug": "edc",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_uZZyf7ZlSTPwyCqUBg868FCSssF03ob9dtD1623872421.svg",
+"id": "129",
+"descripcion": "G-Shock",
+"slug": "gshock",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_WDNjSqD0gKxIRw9U6c7qAZ9vB4gC1NOiVpl1630510491.svg",
+"id": "018",
+"descripcion": "Gas",
+"slug": "gas",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_EKxmbYAcnSm3fasZqnmHGCGWYufmWmi1bWz1623872374.svg",
+"id": "067",
+"descripcion": "Girbaud",
+"slug": "girbaud",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_o0QVfbPAZaIKP4Bs0tYY0lOQ5bdv4xbdI1J1623872392.svg",
+"id": "127",
+"descripcion": "Goorin Bros",
+"slug": "goorin",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_wXhFerWmYBhYRrfoOOYnukMNCW1QNurQHoS1630510364.svg",
+"id": "017",
+"descripcion": "Groggy",
+"slug": "groggy",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_white_RyrRMSoQOgX9cn0jOzT8jNtCsaZOvBfDJqr1651093652.svg",
+"id": "065",
+"descripcion": "Guess",
+"slug": "guess",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_white_evs7fugbBmmdwaJZGA6OzO3PcJmICCgzici1686160281.svg",
+"id": "142",
+"descripcion": "Hurley",
+"slug": "hurley",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_white_Ta0zhRvQInR8s8bcqYUH9hQETC0Yepc5khW1722461205.svg",
+"id": "160",
+"descripcion": "Jansport",
+"slug": "jansport",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_EkrvvFyBWQkpP8phC95zi6vuZvjbMiEGve21731448034.svg",
+"id": "163",
+"descripcion": "John Hatter",
+"slug": "john_hatter",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_RyY3tP3QBw7j6R9CouYjn1Hlcsbb4mezSyw1623872503.svg",
+"id": "092",
+"descripcion": "Le Coq Sportif",
+"slug": "lecoqsportif",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_9VbGEkHxc38CL2kRuo8VHvrGpN1oHYTiVhj1729789014.svg",
+"id": "068",
+"descripcion": "Levis",
+"slug": "levis",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_wbl2RzB1zhiLRhyNl6zKf190Tq1e6Qn5k8t1623872536.svg",
+"id": "082",
+"descripcion": "Michael Kors",
+"slug": "michaelkors",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_uq53iBe1cUu8bHeC8bVrOd8d0YvyaSGX9wJ1718378125.svg",
+"id": "156",
+"descripcion": "Monastery",
+"slug": "monastery",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_white_mYKOvP4yi93Ees7egmXMu4PmOof7i9EGHNz1727363521.svg",
+"id": "159",
+"descripcion": "Mundus",
+"slug": "mundus",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_fZgnkQ76M61XvwhdrbZy5dxMh4TkY7Qtko41623872553.svg",
+"id": "085",
+"descripcion": "New Balance",
+"slug": "newbalance",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_3h41SDkj8hKclxBJ3TxTRCJEHZvdFtMbSad1623872579.svg",
+"id": "128",
+"descripcion": "New Era",
+"slug": "newera",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_FUXhRQVid7v2PVWEj0bNWJ6YS8SgWulK5mV1623872607.svg",
+"id": "087",
+"descripcion": "Nike",
+"slug": "nike",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_EZGNC0K4JfdFi2xWs83ybcsDEris81Ejcsg1623872623.svg",
+"id": "102",
+"descripcion": "Oakley",
+"slug": "oakley",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_Yr9i9XfWiHkQbkOz98tBAKa9gUA87QqWlWE1623872644.svg",
+"id": "033",
+"descripcion": "Puma",
+"slug": "puma",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_qyTmXatocaT4tOeJ8zymrXC0ry96W49I9fC1623872684.svg",
+"id": "084",
+"descripcion": "Ray-Ban",
+"slug": "rayban",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_dPVO868mkyeGgHNtscTSP4YRzaGbvmnHEgO1623872701.svg",
+"id": "056",
+"descripcion": "Reebok",
+"slug": "reebok",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_white_g9ZPeecWJCCcKCjjTqGwk0W07B2u9cvfTxi1702582985.svg",
+"id": "149",
+"descripcion": "Replay",
+"slug": "replay",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_white_LheVoA7EG7QzXtbGyWO0htrEAqyMgDwuV3u1662757320.svg",
+"id": "134",
+"descripcion": "RS Performance",
+"slug": "rsperformance",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_9ZUShvBaWKOgOFUijmB0CRjsrs1XcwVLIAg1623872744.svg",
+"id": "122",
+"descripcion": "Scout",
+"slug": "scout",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_kWv5LBRUW3SwUqOdA0h6PwOlSBzqDih1hVi1623872760.svg",
+"id": "055",
+"descripcion": "Skechers",
+"slug": "skechers",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_YvccmPbu9v9Fc8EhYWgf8MGBdSIGhd0C3yV1729789593.svg",
+"id": "157",
+"descripcion": "Steve madden",
+"slug": "steve_madden",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_orTF24YApfzWXRtTk4PAQ0wAv6w93QOJ3d01623872777.svg",
+"id": "097",
+"descripcion": "Superdry",
+"slug": "superdry",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_emIbQ6w9Er9QCU0Czgyc1O8uL5PMbG5NzHd1623872823.svg",
+"id": "118",
+"descripcion": "Typer",
+"slug": "typer",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_W2A8fRnEYIS0zPxyEvb7iV7ov9NqRqYTrOO1623872835.svg",
+"id": "029",
+"descripcion": "Único",
+"slug": "unico",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_KR0TVEUeynLttszV4LJ8leLj4UpL7cPZcHW1623872853.svg",
+"id": "002",
+"descripcion": "Unser",
+"slug": "unser",
+"routerName": "Tienda"
+},
+{
+"logo_white": "https://cdn.baguer.co/brands/img_logo_5fnwHJaMPR3klPFz8VVAG2ixgkAVfdwAQRI1702406825.svg",
+"id": "095",
+"descripcion": "Vogue",
+"slug": "vogue",
+"routerName": "Tienda"
+}
+]
+}
+]
+},
+{
+"id": "outlet",
+"title": "Outlet",
+"descripcion": "Outlet",
+"routerName": "TiendaCategory",
+"slug": "outlet",
+"subMenu": [],
+"color_fondo": "",
+"color_texto": ""
+}
+]
+}
