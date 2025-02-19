@@ -1,0 +1,386 @@
+{
+  "columns": {
+    "atencionCliente": {
+      "id": "atencion_cliente",
+      "title": "ATENCIÓN AL CLIENTE",
+      "items": [
+        {
+          "id": "whatsapp",
+          "title": "Whatsapp",
+          "items": [
+            {
+              "text": "321 392 7795",
+              "link": "https://api.whatsapp.com/send?phone=573213927795&amp;text=Hola!%20Quiero%20m%C3%A1s%20informaci%C3%B3n%20sobre%20el%20producto"
+            }
+          ]
+        },
+        {
+          "id": "servicio_al_cliente",
+          "title": "Servicio al cliente",
+          "items": [
+            {
+              "id": "linea_nacional",
+              "text": "Línea Nacional: 01 8000 423550 - Opción 2",
+              "link": "tel:018000423550"
+            },
+            {
+              "id": "linea_movil",
+              "text": "Línea móvil: 300 387 0181 - Opción 2",
+              "link": "tel:3003870181"
+            }
+          ]
+        },
+        {
+          "id": "correo_electronico",
+          "title": "Correo electrónico",
+          "items": [
+            {
+              "text": "servicioalcliente@stirpe.co",
+              "link": "mailto:servicioalcliente@stirpe.co"
+            }
+          ]
+        },
+        {
+          "id": "horario_atencion",
+          "title": "Horario de atención",
+          "text": "Lunes a sábado 8:30 a.m. - 7:00 p.m."
+        },
+        {
+          "id": "radicacion_pqrs",
+          "title": "Radicación PQRS",
+          "items": [
+            {
+              "text": "Radica tu PQR aquí",
+              "link": "https://grupobaguer.com/pqrs.php?BAGUER"
+            }
+          ]
+        }
+      ]
+    },
+    "informacion": {
+      "id": "informacion",
+      "title": "INFORMACIÓN",
+      "list": true,
+      "items": [
+        {
+          "id": "solicita_tu_cupo",
+          "items": [
+            {
+              "text": "Solicita tu cupo",
+              "route": "cupoexpress"
+            }
+          ]
+        },
+        {
+          "id": "paga_tu_cuota",
+          "items": [
+            {
+              "text": "Paga tu cuota",
+              "link": "https://portalpagos.stirpe.co"
+            }
+          ]
+        },
+        {
+          "id": "encuentra_una_tienda",
+          "items": [
+            {
+              "text": "Encuentra una tienda",
+              "route": "tiendas"
+            }
+          ]
+        },
+        {
+          "id": "preguntas_frecuentes",
+          "items": [
+            {
+              "text": "Preguntas frecuentes",
+              "route": "pqr"
+            }
+          ]
+        },
+        {
+          "id": "medios_de_pago",
+          "items": [
+            {
+              "text": "Medios de pago autorizados",
+              "route": "medios-de-pago"
+            }
+          ]
+        },
+        {
+          "id": "terminos_y_condiciones",
+          "items": [
+            {
+              "text": "Descuentos Aniversario",
+              "route": "descuentos-aniversario"
+            }
+          ]
+        },
+        {
+          "id": "terminos_y_condiciones",
+          "prominent": true,
+          "items": [
+            {
+              "text": "Devoluciones",
+              "route": "devoluciones"
+            }
+          ]
+        },
+        {
+          "id": "terminos_y_condiciones",
+          "prominent": true,
+          "items": [
+            {
+              "text": "Guía de tallas",
+              "route": "guia-de-tallas"
+            }
+          ]
+        },
+        {
+          "id": "terminos_y_condiciones",
+          "prominent": true,
+          "items": [
+            {
+              "text": "Rastrear pedido",
+              "route": "rastrear-pedidos"
+            }
+          ]
+        }
+      ]
+    },
+    "politicas": {
+      "id": "politicas",
+      "title": "POLÍTICAS",
+      "list": true,
+      "items": [
+        {
+          "id": "terminos_y_condiciones",
+          "items": [
+            {
+              "text": "Tratamiento de datos",
+              "route": "politica-de-privacidad"
+            }
+          ]
+        },
+        {
+          "id": "camnbios_garantias_devoluciones",
+          "items": [
+            {
+              "text": "Cambios, garantías y devoluciones",
+              "route": "devoluciones"
+            }
+          ]
+        },
+        {
+          "id": "politica_de_envios",
+          "items": [
+            {
+              "text": "Política de envíos",
+              "route": "politca-de-envios"
+            }
+          ]
+        },
+        {
+          "id": "politica_de_descuentos",
+          "items": [
+            {
+              "text": "Política de descuentos",
+              "route": "politica-de-descuentos"
+            }
+          ]
+        },
+        {
+          "id": "reversion_de_pagos",
+          "items": [
+            {
+              "text": "Reversión de pagos",
+              "route": "reversion-de-pagos"
+            }
+          ]
+        },
+        {
+          "id": "derechos_de_retracto",
+          "items": [
+            {
+              "text": "Derechos de retracto",
+              "route": "derechos-de-retracto"
+            }
+          ]
+        },
+        {
+          "id": "tratatamiento_de_datos",
+          "items": [
+            {
+              "text": "Autorización Consulta-Reporte-Tratamiento de Datos",
+              "route": "tratamiento-de-datos"
+            }
+          ]
+        },
+        {
+          "id": "terminos_y_condiciones_gift_card",
+          "items": [
+            {
+              "text": "Términos y condiciones tarjeta de regalo o Gift Card",
+              "route": "terminos-y-condiciones-gift-card"
+            }
+          ]
+        },
+        {
+          "id": "transparencia_y_etica_empresarial",
+          "items": [
+            {
+              "text": "Programa de transparencia y ética empresarial (PTEE)",
+              "route": "programa-de-transparencia-y-etica-empresarial"
+            }
+          ]
+        },
+        {
+          "id": "politica_publica_sagrilaft",
+          "items": [
+            {
+              "text": "Política publica SAGRILAFT",
+              "route": "politica-publica-sagrilaft"
+            }
+          ]
+        },
+        {
+          "id": "politica_de_venta",
+          "items": [
+            {
+              "text": "Política de venta",
+              "route": "politica-de-venta"
+            }
+          ]
+        },
+        {
+          "id": "flash_sale_septiembre",
+          "items": [
+            {
+              "text": "Flash sale septiembre",
+              "route": "flash-sale-septiembre"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "primaryColumn": {
+    "id": "primary_column",
+    "title": "NUESTRA HISTORIA",
+    "content": "Primera tienda Online en Colombia donde compras tus marcas preferidas y pagas en cómodas cuotas con nuestro Cupo Personal ¡Solicítalo YA!",
+    "paymentMethods": [
+      {
+        "id": "1",
+        "image": "/tempImages/mediosPago/visa.svg",
+        "alt": "visa"
+      },
+      {
+        "id": "2",
+        "image": "/tempImages/mediosPago/master-card.svg",
+        "alt": "mastercard"
+      },
+      {
+        "id": "3",
+        "image": "/tempImages/mediosPago/diners-club.svg",
+        "alt": "diners-club"
+      },
+      {
+        "id": "4",
+        "image": "/tempImages/mediosPago/pse.svg",
+        "alt": "pse"
+      },
+      {
+        "id": "5",
+        "image": "/tempImages/mediosPago/american-express.svg",
+        "alt": "american-express"
+      },
+      {
+        "id": "6",
+        "image": "/tempImages/mediosPago/nequi.svg",
+        "alt": "nequi"
+      },
+      {
+        "id": "7",
+        "image": "/tempImages/mediosPago/davivienda.svg",
+        "alt": "davivienda"
+      },
+      {
+        "id": "8",
+        "image": "/tempImages/mediosPago/rapipay.svg",
+        "alt": "rapipay"
+      },
+      {
+        "id": "9",
+        "image": "/tempImages/mediosPago/quac.svg",
+        "alt": "quac"
+      },
+      {
+        "id": "10",
+        "image": "/tempImages/mediosPago/sistecredito.svg",
+        "alt": "sistecredito"
+      },
+      {
+        "id": "11",
+        "image": "/tempImages/mediosPago/efecty.svg",
+        "alt": "efecty"
+      },
+      {
+        "id": "12",
+        "image": "/tempImages/mediosPago/addi.svg",
+        "alt": "addi"
+      }
+    ]
+  },
+  "socialMedia": {
+    "id": "social_media",
+    "items": [
+      {
+        "id": "facebook",
+        "image": "/assets/socialMedia/facebook-white.svg",
+        "url": "https://www.facebook.com/tiendasstirpe/",
+        "alt": "facebook"
+      },
+      {
+        "id": "instagram",
+        "image": "/assets/socialMedia/instagram-white.svg",
+        "url": "https://www.instagram.com/tiendastirpe/?hl=es",
+        "alt": "instagram"
+      },
+      {
+        "id": "twitter",
+        "image": "/assets/socialMedia/twitter-white.svg",
+        "url": "https://x.com/TiendaStirpe/status/773692388070031362",
+        "alt": "twitter"
+      },
+      {
+        "id": "tiktok",
+        "image": "/assets/socialMedia/tiktok-white.svg",
+        "url": "https://www.tiktok.com/discover/stirpe-colombia",
+        "alt": "tiktok"
+      }
+    ]
+  },
+  "footerSimple": {
+    "title": "Servicio al cliente",
+    "items": [
+      {
+        "id": "whatsapp",
+        "text": "WhatsApp",
+        "description": "321 392 7795",
+        "link": "tel:321 392 7795"
+      },
+      {
+        "id": "linea_nacional",
+        "text": "Línea Nacional",
+        "description": "01 8000 423550 Opción 2",
+        "link": "tel:018000423550"
+      },
+      {
+        "id": "celular",
+        "text": "Celular",
+        "description": "300 387 0181 Opción 2",
+        "link": "tel:3003870181"
+      }
+    ]
+  }
+}
