@@ -1,0 +1,76 @@
+{
+    "whislist": {
+        "created_at": "2025-02-19 15:44:21",
+        "updated_at": "2025-02-19 15:44:21",
+        "id": 113309,
+        "token": "d592a7bf78dd0a886dfbb7854715f62f"
+    },
+    "productos": [
+        {
+            "producto_sku": "829733",
+            "producto_titulo": "Brenda Pantalon Para Mujer Derek Lovely",
+            "producto_precio": "73950",
+            "producto_precio_antes": "147950.00",
+            "producto_porcentaje_dcto": 50,
+            "marca": "Derek Lovely",
+            "publicado": 1,
+            "categoria": "Ropa",
+            "marca_slug": "lovely",
+            "url": "product-829733-BRENDA-PANTALON-PARA-MUJER-DEREK-LOVELY",
+            "color": "VD",
+            "tallas": [
+                {
+                    "id": "04",
+                    "descripcion": "TALLA 04",
+                    "name": "04",
+                    "stock": 16,
+                    "orden": "4.0"
+                },
+                {
+                    "id": "06",
+                    "descripcion": "TALLA 06",
+                    "name": "06",
+                    "stock": 21,
+                    "orden": "6.0"
+                },
+                {
+                    "id": "08",
+                    "descripcion": "TALLA 08",
+                    "name": "08",
+                    "stock": 101,
+                    "orden": "8.0"
+                },
+                {
+                    "id": "10",
+                    "descripcion": "TALLA 10",
+                    "name": "10",
+                    "stock": 21,
+                    "orden": "10.0"
+                },
+                {
+                    "id": "12",
+                    "descripcion": "TALLA 12",
+                    "name": "12",
+                    "stock": 27,
+                    "orden": "12.0"
+                },
+                {
+                    "id": "14",
+                    "descripcion": "TALLA 14",
+                    "name": "14",
+                    "stock": 5,
+                    "orden": "14.0"
+                }
+            ],
+            "imagenes": [
+                "https://cdn.baguer.co/uploads/2023/06/829733vdjpg-burdbfia1ql1ajuykkcaucfgd9rgrvctmdxbf5delihtrtnya71686938861.jpg",
+                "https://cdn.baguer.co/uploads/2023/06/829733vd-ajpg-0yohiyt8eocm9t8u28sfeb2rb9ne5nmyyojxgehiqar0awu10c1686938863.jpg",
+                "https://cdn.baguer.co/uploads/2023/06/829733vd-bjpg-zmhcdz3oqoied2don9176ujvhr5sxuczdjjngwvkvrczqcsu6h1686938863.jpg",
+                "https://cdn.baguer.co/uploads/2023/06/829733vd-cjpg-hkjbawd3ngcspxroewxgbwbbsi59dktjs2fdsonjvtzbvggxeo1686938866.jpg",
+                "https://cdn.baguer.co/uploads/2023/06/829733vd-djpg-lt0qxd9ocesjykzq0eonhjhrmyw8nbgganuhvxpe1xo8i8tvii1686938866.jpg"
+            ],
+            "tags": []
+        }
+    ],
+    "message": "El producto fue agregado a la lista de deseos con exito"
+}
