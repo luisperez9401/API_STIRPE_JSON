@@ -1,0 +1,103 @@
+{
+  "productName": "Alex t-shirt combinada typer 1",
+  "productDescription": "Descubre la comodidad sin sacrificar el estilo con nuestra t-shirt Alex. Versátil y fácil de combinar, es la opción perfecta para cualquier ocasión.",
+  "careInstructions": "<div class=\"container mx-auto text-sm space-y-4\">\n  <div class=\"flex items-start sm:w-1/3 md:w-1/3 lg:w-1/3 items-center mb-4\">\n    <img class=\"pr-2 h-6 w-6 me-3\" width=\"30\" height=\"30\" alt=\"Lavar a máquina max 30°c centrifugado corto\" src=\"https://api.stirpe.co/img/icons/lavado/max_30_grados.svg\">\n    <span class=\"text-[#001F5D] pt-1.5\">Lavar a máquina max 30°c centrifugado corto</span>\n  </div>\n\n  <div class=\"flex items-start sm:w-1/3 md:w-1/3 lg:w-1/3 items-center mb-4\">\n    <img class=\"pr-2 h-6 w-6 me-3\" width=\"30\" height=\"30\" alt=\"No usar cloro\" src=\"https://api.stirpe.co/img/icons/lavado/no_cloro.svg\">\n    <span class=\"text-[#001F5D] pt-1.5\">No usar cloro</span>\n  </div>\n\n  <div class=\"flex items-start sm:w-1/3 md:w-1/3 lg:w-1/3 items-center mb-4\">\n    <img class=\"pr-2 h-6 w-6 me-3\" width=\"30\" height=\"30\" alt=\"Plancha max 110°c\" src=\"https://api.stirpe.co/img/icons/lavado/plancha_max.svg\">\n    <span class=\"text-[#001F5D] pt-1.5\">Plancha max 110°c</span>\n  </div>\n\n  <div class=\"flex items-start sm:w-1/3 md:w-1/3 lg:w-1/3 items-center mb-4\">\n    <img class=\"pr-2 h-6 w-6 me-3\" width=\"30\" height=\"30\" alt=\"No limpiar en seco\" src=\"https://api.stirpe.co/img/icons/lavado/no_limpiar_seco.svg\">\n    <span class=\"text-[#001F5D] pt-1.5\">No limpiar en seco</span>\n  </div>\n\n  <div class=\"flex items-start sm:w-1/3 md:w-1/3 lg:w-1/3 items-center mb-4\">\n    <img class=\"pr-2 h-6 w-6 me-3\" width=\"30\" height=\"30\" alt=\"No limpiar en seco\" src=\"https://api.stirpe.co/img/icons/lavado/no_secadora.svg\">\n    <span class=\"text-[#001F5D]\">No se puede usar secadora</span>\n  </div>\n</div>",
+  "sku": "123456",
+  "category": "T-Shirts",
+  "gender": "hombre",
+  "brand": {
+    "id": "118",
+    "name": "Typer",
+    "logo": "https://cdn.baguer.co/brands/img_logo_emIbQ6w9Er9QCU0Czgyc1O8uL5PMbG5NzHd1623872823.svg"
+  },
+  "route": "product-123456-Alex-typer-t-shirt-combinada",
+  "price": "178950",
+  "discountPrice": "138950",
+  "originCountry": "Colombia",
+  "clothingType": "superior",
+  "importer": "Baguer SAS",
+  "composition": "62% poliester 33% algodon 5% spandex",
+  "references": [
+    {
+      "id": "RJ",
+      "colorHx": "#ffa347",
+      "colorName": "Mostaza",
+      "colorTexture": "https://cdn.baguer.co/uploads/2024/09/833535mt-zjpg-x4zekmqjyepeqx7gja1ems4lagaewkqixhvnc6nlzul7wwxza41725901048.jpg",
+      "aviable": true,
+      "images": [
+        "https://cdn.baguer.co/uploads/2024/09/833535mt-ajpg-ane9mnyoo0axbkxynvieh8vafhii3vu4jbtiljcdeqg0epzz3r1725901047.jpg?ar=961-1088",
+        "https://cdn.baguer.co/uploads/2024/09/833535mt-bjpg-alsfts9wuficx0nwopb0xejcban4awya59lrubcdxdgohnru5s1725901048.jpg?ar=961-1088",
+        "https://cdn.baguer.co/uploads/2024/09/833535mt-ojpg-zhorylnct9lmu1xdgzc0s2gvr1wlztibuofsd9i40tmariytvy1725901048.jpg?ar=961-1088"
+      ],
+      "tags": [
+        {
+          "id": "212",
+          "text": "-30%",
+          "textColor": "#ffffff",
+          "backgroundColor": "#0076FF"
+        }
+      ],
+      "sizes": [
+        {
+          "id": "39",
+          "descripcion": "TALLA S",
+          "name": "39",
+          "stock": 52
+        },
+        {
+          "id": "40",
+          "descripcion": "TALLA M",
+          "name": "40",
+          "stock": 57
+        },
+        {
+          "id": "41",
+          "descripcion": "TALLA L",
+          "name": "41",
+          "stock": 25
+        },
+        {
+          "id": "42",
+          "descripcion": "TALLA XL",
+          "name": "42",
+          "stock": 12
+        }
+      ],
+      "model": "Altura modelo: <b>175 cm</b> usa talla <b>S</b>."
+    },
+    {
+      "id": "VD",
+      "colorHx": "#20CE00",
+      "colorName": "Verde",
+      "colorTexture": "https://cdn.baguer.co/uploads/2024/09/833535vd-zjpg-8ukhineog39ktxv7aq4wigfbrocpubzpzbziuha8t7wucwzixf1725901052.jpg",
+      "aviable": true,
+      "images": [
+        "https://cdn.baguer.co/uploads/2024/09/833535vdjpg-o59vnvxobsjykkebdlz6h3ztoueu4hc274qba5mdlx38tkjcwi1725901049.jpg?ar=961-1088",
+        "https://cdn.baguer.co/uploads/2024/09/833535vd-ajpg-wxq8udiz6kgvhxcc06zh8zji17qfq5ll6a3pq4aojdjb1q2lf91725901050.jpg?ar=961-1088",
+        "https://cdn.baguer.co/uploads/2024/09/833535vd-bjpg-eghsjrpwbopc7ifi5rwpni0wtjytamip8tfwcmzh53cjisrm8f1725901051.jpg?ar=961-1088",
+        "https://cdn.baguer.co/uploads/2024/09/833535vd-ojpg-zcffjs5xxudxflad6m3air3tqhuz21ktp20w5hw10cbeoa3xse1725901051.jpg?ar=961-1088",
+        "https://cdn.baguer.co/uploads/2024/09/833535vdjpg-o59vnvxobsjykkebdlz6h3ztoueu4hc274qba5mdlx38tkjcwi1725901049.jpg?ar=961-1088",
+        "https://cdn.baguer.co/uploads/2024/09/833535vd-ajpg-wxq8udiz6kgvhxcc06zh8zji17qfq5ll6a3pq4aojdjb1q2lf91725901050.jpg?ar=961-1088",
+        "https://cdn.baguer.co/uploads/2024/09/833535vd-bjpg-eghsjrpwbopc7ifi5rwpni0wtjytamip8tfwcmzh53cjisrm8f1725901051.jpg?ar=961-1088",
+        "https://cdn.baguer.co/uploads/2024/09/833535vd-ojpg-zcffjs5xxudxflad6m3air3tqhuz21ktp20w5hw10cbeoa3xse1725901051.jpg?ar=961-1088"
+      ],
+      "tags": [
+        {
+          "id": "212",
+          "text": "-30%",
+          "textColor": "#ffffff",
+          "backgroundColor": "#0076FF"
+        }
+      ],
+      "sizes": [
+        {
+          "id": "SS",
+          "descripcion": "TALLA S",
+          "name": "S",
+          "stock": 52
+        }
+      ],
+      "model": "Altura modelo: <b>175 cm</b> usa talla <b>S</b>."
+    }
+  ]
+}
