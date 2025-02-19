@@ -1,0 +1,76 @@
+{
+"tiendas": [
+{
+"bodega_ciudad": "ARMENIA (Q)",
+"latitud": "4.53322",
+"longitud": "-75.6726",
+"bodega_codigo": 873
+},
+{
+"bodega_ciudad": "BARRANCABERMEJA",
+"latitud": "7.06016",
+"longitud": "-73.8692",
+"bodega_codigo": 520
+},
+{
+"bodega_ciudad": "BARRANQUILLA",
+"latitud": "11.0089",
+"longitud": "-74.8211",
+"bodega_codigo": 844
+},
+{
+"bodega_ciudad": "BOGOTA, D.C.",
+"latitud": "4.69459",
+"longitud": "-74.0863",
+"bodega_codigo": 830
+},
+{
+"bodega_ciudad": "BUCARAMANGA",
+"latitud": "7.12966",
+"longitud": "-73.1126",
+"bodega_codigo": 130
+},
+{
+"bodega_ciudad": "FLORIDABLANCA",
+"latitud": "7.07091",
+"longitud": "-73.1069",
+"bodega_codigo": 190
+},
+{
+"bodega_ciudad": "MANIZALES",
+"latitud": "5.0673",
+"longitud": "-75.5135",
+"bodega_codigo": 887
+},
+{
+"bodega_ciudad": "PEREIRA",
+"latitud": "4.81275",
+"longitud": "-75.6927",
+"bodega_codigo": 240
+},
+{
+"bodega_ciudad": "PIEDECUESTA",
+"latitud": "7.0009",
+"longitud": "-73.0547",
+"bodega_codigo": 826
+},
+{
+"bodega_ciudad": "SOLEDAD",
+"latitud": "10.9269",
+"longitud": "-74.7802",
+"bodega_codigo": 884
+},
+{
+"bodega_ciudad": "VALLEDUPAR",
+"latitud": "10.4754",
+"longitud": "-73.2449",
+"bodega_codigo": 835
+},
+{
+"bodega_ciudad": "VILLAVICENCIO",
+"latitud": "4.14178",
+"longitud": "-73.6343",
+"bodega_codigo": 825
+}
+]
+}
