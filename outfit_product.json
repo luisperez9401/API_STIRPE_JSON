@@ -1,0 +1,324 @@
+{
+"outfit": {
+"productos": [
+{
+"producto_sku": "124184",
+"producto_titulo": "Camiseta  Superdry Vintage Copper Laber",
+"producto_precio": "209950",
+"producto_precio_antes": "299900.00",
+"producto_porcentaje_dcto": 30,
+"marca": "Superdry",
+"color": "AM",
+"genero_id": "001",
+"descripcion_detallada": "Listo para mejorar tu guardarropa informal? Clásica y atemporal, esta tradicional sudadera con capucha tiene una suavidad innegable y un estilo casual. Hemos mejorado el estilo tradicional con una gran interpretación retro de nuestro logotipo icónico, por lo que su apariencia aún se verá emocionante incluso con una moda informal.",
+"publicado": 1,
+"categoria": "Ropa",
+"marca_slug": "superdry",
+"dia_siniva": 0,
+"producto_precio_siniva": 176429,
+"url": "product-124184-CAMISETA--SUPERDRY-VINTAGE-COPPER-LABER",
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"stock": 31,
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"stock": 55,
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"stock": 56,
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"stock": 26,
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2024/05/camiseta-superdry-vintage-copper-laber-amarillo-124184AM.jpg_dfFJ3a05oS0mXQzQ1h4ylMPgg3QPCZ8QtWgIzhiDp7jjGlmRXZ.webp",
+"https://cdn.baguer.co/uploads/2024/05/camiseta-superdry-vintage-copper-laber-amarillo-124184AM_A.jpg_f3kpdkyRES26TzsC3lfpgpVR7ckk52QkU6KpfNwJ8l7gZNH5BL.webp",
+"https://cdn.baguer.co/uploads/2024/05/camiseta-superdry-vintage-copper-laber-amarillo-124184AM_B.jpg_oldpU4rN8c1XUlPdPt7Kz0J1wAhkETxPkX0o3JddsGj1bsw86P.webp"
+],
+"tags": [
+{
+"tag": "30%",
+"color_fondo": "#FF493C",
+"color_texto": "#fff"
+}
+]
+},
+{
+"producto_sku": "127978",
+"producto_titulo": "Polo Girbaud Marcel M/c",
+"producto_precio": "249900",
+"producto_precio_antes": "0.00",
+"producto_porcentaje_dcto": 0,
+"marca": "Girbaud",
+"color": "AZ",
+"genero_id": "001",
+"descripcion_detallada": "Las Camisetas Tipo Polo para Hombre Girbaud no pueden faltar en tu armario, siempre seran una prenda indispensable.La polo perfecta para una reunión casual está inspirada en el estilo clásico, combinando elegancia y simplicidad.",
+"publicado": 1,
+"categoria": "Ropa",
+"marca_slug": "girbaud",
+"dia_siniva": 0,
+"producto_precio_siniva": 210000,
+"url": "product-127978-POLO-GIRBAUD-MARCEL-MC",
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"stock": 15,
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"stock": 33,
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"stock": 31,
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"stock": 16,
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2024/10/polo-girbaud-marcel-mc-azul-127978AZ.jpg_L6JVp9mutpJ1MLGKneADcOiuju20MFJrjB1CZ7DpjO6vyRuDY4.webp",
+"https://cdn.baguer.co/uploads/2024/10/polo-girbaud-marcel-mc-azul-127978AZ_A.jpg_wp6BChBGwBQ1HmNKJKSezVkRDyyIoW3EZmJTGAhN6VClVsadBa.webp",
+"https://cdn.baguer.co/uploads/2024/10/polo-girbaud-marcel-mc-azul-127978AZ_B.jpg_M4lTkIdtZcmv9xszHZUnXbvAZzRn3BTX2cgFQSH12MI3DTLLPP.webp"
+],
+"tags": []
+},
+{
+"producto_sku": "126674",
+"producto_titulo": "Tenis Replay Adrien Shades",
+"producto_precio": "599900",
+"producto_precio_antes": "0.00",
+"producto_porcentaje_dcto": 0,
+"marca": "Replay",
+"color": "AZ",
+"genero_id": "001",
+"descripcion_detallada": "Zapatillas de hombre con cordones y tejido sherpa liso. La parte superior está confeccionada 100% en piel. Detalles de goma en la parte superior del zapato y detalles a contraste en suela y talón. Cordones del color del top con detalles en contraste. Logotipo estampado tanto en la lengüeta como en los laterales.\n",
+"publicado": 1,
+"categoria": "Zapatos",
+"marca_slug": "replay",
+"dia_siniva": 0,
+"producto_precio_siniva": 504118,
+"url": "product-126674-TENIS-REPLAY-ADRIEN-SHADES",
+"tallas": [
+{
+"id": "42",
+"descripcion": "TALLA 42",
+"name": "42",
+"stock": 7,
+"orden": "42.0"
+},
+{
+"id": "43",
+"descripcion": "TALLA 43",
+"name": "43",
+"stock": 9,
+"orden": "43.0"
+},
+{
+"id": "44",
+"descripcion": "TALLA 44",
+"name": "44",
+"stock": 6,
+"orden": "44.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2024/05/126674azjpg-webpbkd91mhwcpru2tyiwiph5jmnzvzv42cjh3judf8fdfejppcbz11717018472.webp",
+"https://cdn.baguer.co/uploads/2024/05/126674az-ajpg-webp2k8twa1xfq17itiwqaejulnenczxvljfetrgp0podozdweqwlk1717018473.webp",
+"https://cdn.baguer.co/uploads/2024/05/126674az-bjpg-webptt7mrkp8l89ykbvesx17eg4uqdxwe6nb39glqrzg5jjgizo5ou1717018474.webp",
+"https://cdn.baguer.co/uploads/2024/05/126674az-cjpg-webpwstrrltpmnjv3e4ashw1yhhdramhi1wpe8fthsjgxwusvv7q8q1717018475.webp",
+"https://cdn.baguer.co/uploads/2024/05/126674az-ejpg-webp5kvuwoztmgy8qnmleiwvwlmkxp8ujchwz96hnpvep3nvkoacps1717018476.webp"
+],
+"tags": []
+},
+{
+"producto_sku": "129534",
+"producto_titulo": "Jean Girbaud Brand X Marithe Francois",
+"producto_precio": "399900",
+"producto_precio_antes": "0.00",
+"producto_porcentaje_dcto": 0,
+"marca": "Girbaud",
+"color": "NG",
+"genero_id": "001",
+"descripcion_detallada": "jean fresco, comodo ideal para todo tipo de clima y cualquier ocasion informal.",
+"publicado": 1,
+"categoria": "Ropa",
+"marca_slug": "girbaud",
+"dia_siniva": 0,
+"producto_precio_siniva": 336050,
+"url": "product-129534-JEAN-GIRBAUD-BRAND-X-MARITHE-FRANCOIS",
+"tallas": [
+{
+"id": "32",
+"descripcion": "TALLA 32",
+"name": "32",
+"stock": 7,
+"orden": "32.0"
+},
+{
+"id": "34",
+"descripcion": "TALLA 34",
+"name": "34",
+"stock": 12,
+"orden": "34.0"
+},
+{
+"id": "36",
+"descripcion": "TALLA 36",
+"name": "36",
+"stock": 5,
+"orden": "36.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2024/12/jean-girbaud-brand-x-marithe-francois-negro-129534NG.jpg_OyasdL1egIa4ML41qb4swbhWZOxoZG4dvFXJ4NnxoMaU1SIIBV.webp",
+"https://cdn.baguer.co/uploads/2024/12/jean-girbaud-brand-x-marithe-francois-negro-129534NG_B.jpg_PlSBXWciLrjBahUxrj9lH1Srl1KOhVquPvOwpjwgnE9DzHnPuD.webp",
+"https://cdn.baguer.co/uploads/2024/12/jean-girbaud-brand-x-marithe-francois-negro-129534NG_C.jpg_IjGorNCfoufc8OQm2Lmhck7L0CBEUmW7H7fTgVZheX7XiB0Uo4.webp",
+"https://cdn.baguer.co/uploads/2024/12/jean-girbaud-brand-x-marithe-francois-negro-129534NG_D.jpg_P9jGgpTSicsCKwf1kI21A5rDEVCgxwZwjUWnQ57yuOrOPvyAOQ.webp"
+],
+"tags": []
+},
+{
+"producto_sku": "129849",
+"producto_titulo": "Boxer Unico Copa Media Santa Cruz M23",
+"producto_precio": "62990",
+"producto_precio_antes": "0.00",
+"producto_porcentaje_dcto": 0,
+"marca": "Único",
+"color": "AZ",
+"genero_id": "001",
+"descripcion_detallada": "Cuenta con un diseño sutil que realmente se muestra a medida que se estira para formar un ajuste elegante que define el cuerpo y acentúa muy bien tus contornos. ",
+"publicado": 1,
+"categoria": "Ropa",
+"marca_slug": "unico",
+"dia_siniva": 0,
+"producto_precio_siniva": 52933,
+"url": "product-129849-BOXER-UNICO-COPA-MEDIA-SANTA-CRUZ-M23",
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"stock": 22,
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"stock": 76,
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"stock": 78,
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"stock": 50,
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/boxer-unico-copa-media-santa-cruz-m23-azul-129849AZ.webp_GDcWFiqye3iGht9rvTr8FUecDERRSB.webp",
+"https://cdn.baguer.co/uploads/2025/02/boxer-unico-copa-media-santa-cruz-m23-azul-129849AZ_A.webp_djnyXXOx6ajvds6RlaETFXcPBDru51.webp"
+],
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+}
+],
+"productos_analytics": [
+{
+"name": "CAMISETA  SUPERDRY VINTAGE COPPER LABER",
+"id": "124184",
+"price": 209950,
+"brand": "SUPERDRY",
+"category": "Ropa",
+"variant": "AM",
+"list": "Listar Ropa",
+"position": 1
+},
+{
+"name": "POLO GIRBAUD MARCEL M/C",
+"id": "127978",
+"price": 249900,
+"brand": "GIRBAUD",
+"category": "Ropa",
+"variant": "AZ",
+"list": "Listar Ropa",
+"position": 1
+},
+{
+"name": "TENIS REPLAY ADRIEN SHADES",
+"id": "126674",
+"price": 599900,
+"brand": "REPLAY",
+"category": "Zapatos",
+"variant": "AZ",
+"list": "Listar Zapatos",
+"position": 1
+},
+{
+"name": "JEAN GIRBAUD BRAND X MARITHE FRANCOIS",
+"id": "129534",
+"price": 399900,
+"brand": "GIRBAUD",
+"category": "Ropa",
+"variant": "NG",
+"list": "Listar Ropa",
+"position": 1
+},
+{
+"name": "BOXER UNICO COPA MEDIA SANTA CRUZ M23",
+"id": "129849",
+"price": 62990,
+"brand": "ÚNICO",
+"category": "Ropa",
+"variant": "AZ",
+"list": "Listar Ropa",
+"position": 1
+}
+]
+}
+}
