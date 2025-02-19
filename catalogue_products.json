@@ -1,0 +1,2268 @@
+{
+"categoria": {
+"descripcion": "Hombre"
+},
+"productos": {
+"current_page": 1,
+"data": [
+{
+"producto_sku": "129816",
+"producto_titulo": "0016 Levis Jean 505 Regular",
+"producto_precio": "359900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Levis",
+"color": "AZ",
+"producto_fechaingreso": "2025-02-11 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "JEANS",
+"exclusivo_online": 0,
+"marca_slug": "levis",
+"url": "product-129816-0016-LEVIS-JEAN-505-REGULAR",
+"dia_siniva": 0,
+"producto_precio_siniva": 302437,
+"tallas": [
+{
+"id": "30",
+"descripcion": "TALLA 30",
+"name": "30",
+"orden": "30.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/0016-levis-jean-505-regular-azul-129816AZ.webp_vtNxezDzGQf0KygCcEEB3bpw5uFS3q.webp",
+"https://cdn.baguer.co/uploads/2025/02/0016-levis-jean-505-regular-azul-129816AZ_A.webp_yxJhLcrzqS0t2gk03hhEVj3arcxcp6.webp"
+],
+"video": "",
+"tags": []
+},
+{
+"producto_sku": "835088",
+"producto_titulo": "Cesar Gorra Combinada Con Bordados Y Malla Unser",
+"producto_precio": "93950",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Unser",
+"color": "AZ",
+"producto_fechaingreso": "2025-02-15 00:00:00",
+"publicado": 1,
+"categoria": "Accesorios",
+"subcategoria": "GORRAS",
+"exclusivo_online": 0,
+"marca_slug": "unser",
+"url": "product-835088-CESAR-GORRA-COMBINADA-CON-BORDADOS-Y-MALLA-UNSER",
+"dia_siniva": 0,
+"producto_precio_siniva": 78950,
+"tallas": [
+{
+"id": "UN",
+"descripcion": "TALLA UNICA",
+"name": "Única",
+"orden": "0.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/cesar-gorra-combinada-con-bordados-y-malla-unser-azul-835088AZ.webp_Re6qWTbb0PbJNrgDW1xpLkKmpryhbK.webp",
+"https://cdn.baguer.co/uploads/2025/02/cesar-gorra-combinada-con-bordados-y-malla-unser-azul-835088AZ_A.webp_CJhXLkPOP0BS1YljRcCjgerkei6VDz.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "835089",
+"producto_titulo": "Gus Gorra Combinada Con Bordados Y Malla Unser",
+"producto_precio": "107950",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Unser",
+"color": "CF",
+"producto_fechaingreso": "2025-02-15 00:00:00",
+"publicado": 1,
+"categoria": "Accesorios",
+"subcategoria": "GORRAS",
+"exclusivo_online": 0,
+"marca_slug": "unser",
+"url": "product-835089-GUS-GORRA-COMBINADA-CON-BORDADOS-Y-MALLA-UNSER",
+"dia_siniva": 0,
+"producto_precio_siniva": 90714,
+"tallas": [
+{
+"id": "UN",
+"descripcion": "TALLA UNICA",
+"name": "Única",
+"orden": "0.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/gus-gorra-combinada-con-bordados-y-malla-unser-cafe-835089CF.webp_VyHw8lQogUq3BFtpvMO143c7grB6RK.webp",
+"https://cdn.baguer.co/uploads/2025/02/gus-gorra-combinada-con-bordados-y-malla-unser-cafe-835089CF_A.webp_QgfEak4CMYMGD9NskTFVj7PhFfwQLG.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129932",
+"producto_titulo": "Termo Cubitt Hydro Bottle 24oz Con Dos Tapas",
+"producto_precio": "130950",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Cubitt",
+"color": "NG",
+"producto_fechaingreso": "2025-02-15 00:00:00",
+"publicado": 1,
+"categoria": "Accesorios",
+"subcategoria": "Termos",
+"exclusivo_online": 0,
+"marca_slug": "cubitt",
+"url": "product-129932-TERMO-CUBITT-HYDRO-BOTTLE-24OZ-CON-DOS-TAPAS",
+"dia_siniva": 0,
+"producto_precio_siniva": 110042,
+"tallas": [
+{
+"id": "UN",
+"descripcion": "TALLA UNICA",
+"name": "Única",
+"orden": "0.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/129932ngwebp-qffdpm8wvzh6bgkaccef1fc3rja65q1739451458.webp",
+"https://cdn.baguer.co/uploads/2025/02/129932ng-awebp-hatpl3vyk6wjoywt5iiulqi7c4eco31739451459.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129933",
+"producto_titulo": "Termo Cubitt Hydro Bottle 24oz Con Dos Tapas",
+"producto_precio": "130950",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Cubitt",
+"color": "AZ",
+"producto_fechaingreso": "2025-02-15 00:00:00",
+"publicado": 1,
+"categoria": "Accesorios",
+"subcategoria": "Termos",
+"exclusivo_online": 0,
+"marca_slug": "cubitt",
+"url": "product-129933-TERMO-CUBITT-HYDRO-BOTTLE-24OZ-CON-DOS-TAPAS",
+"dia_siniva": 0,
+"producto_precio_siniva": 110042,
+"tallas": [
+{
+"id": "UN",
+"descripcion": "TALLA UNICA",
+"name": "Única",
+"orden": "0.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/129933azwebp-yla50edj8zeyeerob2wpzzxbbsazyk1739451465.webp",
+"https://cdn.baguer.co/uploads/2025/02/129933az-awebp-i1qn0425pv6pynuay1cucsk6ak4xwb1739451466.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "835086",
+"producto_titulo": "Luis Correa Unicolor En Cuero Con Reata Trenzada Unser",
+"producto_precio": "137950",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Unser",
+"color": "NG",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Accesorios",
+"subcategoria": "CORREAS",
+"exclusivo_online": 0,
+"marca_slug": "unser",
+"url": "product-835086-LUIS-CORREA-UNICOLOR-EN-CUERO-CON-REATA-TRENZADA-UNSER",
+"dia_siniva": 0,
+"producto_precio_siniva": 115924,
+"tallas": [
+{
+"id": "28",
+"descripcion": "TALLA 28",
+"name": "28",
+"orden": "28.0"
+},
+{
+"id": "30",
+"descripcion": "TALLA 30",
+"name": "30",
+"orden": "30.0"
+},
+{
+"id": "32",
+"descripcion": "TALLA 32",
+"name": "32",
+"orden": "32.0"
+},
+{
+"id": "34",
+"descripcion": "TALLA 34",
+"name": "34",
+"orden": "34.0"
+},
+{
+"id": "36",
+"descripcion": "TALLA 36",
+"name": "36",
+"orden": "36.0"
+},
+{
+"id": "38",
+"descripcion": "TALLA 38",
+"name": "38",
+"orden": "38.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/luis-correa-unicolor-en-cuero-con-reata-trenzada-unser-negro-835086NG.webp_ywrEktAXU06rXC4hZSQjt2g6j3xTnl.webp",
+"https://cdn.baguer.co/uploads/2025/02/luis-correa-unicolor-en-cuero-con-reata-trenzada-unser-negro-835086NG_A.webp_qIlWrP0E0jtxQBgMV4ksOmPacnoLWe.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "835087",
+"producto_titulo": "Dylan Gorra Combinada Con Bordados Y Malla Unser",
+"producto_precio": "93950",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Unser",
+"color": "VD",
+"producto_fechaingreso": "2025-02-15 00:00:00",
+"publicado": 1,
+"categoria": "Accesorios",
+"subcategoria": "GORRAS",
+"exclusivo_online": 0,
+"marca_slug": "unser",
+"url": "product-835087-DYLAN-GORRA-COMBINADA-CON-BORDADOS-Y-MALLA-UNSER",
+"dia_siniva": 0,
+"producto_precio_siniva": 78950,
+"tallas": [
+{
+"id": "UN",
+"descripcion": "TALLA UNICA",
+"name": "Única",
+"orden": "0.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/dylan-gorra-combinada-con-bordados-y-malla-unser-verde-835087VD.webp_6rAtRpDHWs1JFRFbiKdx9xlMCJrQYH.webp",
+"https://cdn.baguer.co/uploads/2025/02/dylan-gorra-combinada-con-bordados-y-malla-unser-verde-835087VD_A.webp_XXk4jd1Ddxbg8ndHlYOQNVPySdt4qX.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "834023",
+"producto_titulo": "Camisa Para Hombre Molderia Comfort Unicolor Manga Corta Unser",
+"producto_precio": "177900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Unser",
+"color": "KQ",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "CAMISAS",
+"exclusivo_online": 0,
+"marca_slug": "unser",
+"url": "product-834023-CAMISA-PARA-HOMBRE-MOLDERIA-COMFORT-UNICOLOR-MANGA-CORTA-UNSER",
+"dia_siniva": 0,
+"producto_precio_siniva": 149496,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+},
+{
+"id": "XXL",
+"descripcion": "TALLA XXL",
+"name": "XXL",
+"orden": "7.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/camisa-para-hombre-molderia-comfort-unicolor-manga-corta-unser-caqui-834023KQ.webp_JPFwztVetrUKy49E5fWehTAKeq9SGE.webp",
+"https://cdn.baguer.co/uploads/2025/02/camisa-para-hombre-molderia-comfort-unicolor-manga-corta-unser-caqui-834023KQ_A.webp_1JueUBZCK39dxbliy4XZ92HYU3c6Fm.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129918",
+"producto_titulo": "Polo Chevignon  Knob Details",
+"producto_precio": "149900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Chevignon",
+"color": "NG",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "POLOS",
+"exclusivo_online": 0,
+"marca_slug": "chevignon",
+"url": "product-129918-POLO-CHEVIGNON--KNOB-DETAILS",
+"dia_siniva": 0,
+"producto_precio_siniva": 125966,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/polo-chevignon-knob-details-negro-129918NG.webp_18r3zIbHYjRkmD5wLat0q1vjRqf62N.webp",
+"https://cdn.baguer.co/uploads/2025/02/polo-chevignon-knob-details-negro-129918NG_A.webp_3XaHOyatwV0eK5Bbrm5M5d3ctkVIhs.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129919",
+"producto_titulo": "Polo Chevignon Ner Neck",
+"producto_precio": "149900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Chevignon",
+"color": "RJ",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "POLOS",
+"exclusivo_online": 0,
+"marca_slug": "chevignon",
+"url": "product-129919-POLO-CHEVIGNON-NER-NECK",
+"dia_siniva": 0,
+"producto_precio_siniva": 125966,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/polo-chevignon-ner-neck-rojo-129919RJ.webp_aI0hs9SrIuLT9bMQLWSNUv31CBqtIx.webp",
+"https://cdn.baguer.co/uploads/2025/02/polo-chevignon-ner-neck-rojo-129919RJ_A.webp_Sk3tGCOPaNbeldZJYH22i7ylADeB71.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129925",
+"producto_titulo": "Camiseta Girbaud Le-francois",
+"producto_precio": "139900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Girbaud",
+"color": "NG",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "CAMISETAS",
+"exclusivo_online": 0,
+"marca_slug": "girbaud",
+"url": "product-129925-CAMISETA-GIRBAUD-LEFRANCOIS",
+"dia_siniva": 0,
+"producto_precio_siniva": 117563,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/camiseta-girbaud-le-francois-negro-129925NG.webp_b0UnBztPczYV2HcivM4eSi8DQGkP4s.webp",
+"https://cdn.baguer.co/uploads/2025/02/camiseta-girbaud-le-francois-negro-129925NG_A.webp_lpHDHg8VlKPKOdwqruwQbG6ibQq6hK.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129927",
+"producto_titulo": "Camiseta Girbaud Le-francois",
+"producto_precio": "139900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Girbaud",
+"color": "NG",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "CAMISETAS",
+"exclusivo_online": 0,
+"marca_slug": "girbaud",
+"url": "product-129927-CAMISETA-GIRBAUD-LEFRANCOIS",
+"dia_siniva": 0,
+"producto_precio_siniva": 117563,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+}
+],
+"video": "https://cdn.baguer.co/videos/129927ngvwebmY5xAut0KbtPEJbc.webm",
+"imagenes": [],
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129912",
+"producto_titulo": "Polo Mc Classic Fit Americanino",
+"producto_precio": "159900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Americanino",
+"color": "AZ",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "POLOS",
+"exclusivo_online": 0,
+"marca_slug": "americanino",
+"url": "product-129912-POLO-MC-CLASSIC-FIT-AMERICANINO",
+"dia_siniva": 0,
+"producto_precio_siniva": 134370,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/polo-mc-classic-fit-americanino-azul-129912AZ.webp_32fAmdBO0Lx8y6ZxK6dtHCXimqtXRH.webp",
+"https://cdn.baguer.co/uploads/2025/02/polo-mc-classic-fit-americanino-azul-129912AZ_A.webp_t1qLHV76ZMnevJSNQRp4B8MdxuzHUm.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129912",
+"producto_titulo": "Polo Mc Classic Fit Americanino",
+"producto_precio": "159900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Americanino",
+"color": "BL",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "POLOS",
+"exclusivo_online": 0,
+"marca_slug": "americanino",
+"url": "product-129912-POLO-MC-CLASSIC-FIT-AMERICANINO",
+"dia_siniva": 0,
+"producto_precio_siniva": 134370,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/polo-mc-classic-fit-americanino-blanco-129912BL.webp_uuZmrRwZMmo3sm6qMz9XfJsQ9uN479.webp",
+"https://cdn.baguer.co/uploads/2025/02/polo-mc-classic-fit-americanino-blanco-129912BL_A.webp_tcCsU07AMsMt0HpxqynSDV6s91dPpJ.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129913",
+"producto_titulo": "Camiseta Americanino Mc Slim Fit",
+"producto_precio": "119900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Americanino",
+"color": "CR",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "CAMISETAS",
+"exclusivo_online": 0,
+"marca_slug": "americanino",
+"url": "product-129913-CAMISETA-AMERICANINO-MC-SLIM-FIT",
+"dia_siniva": 0,
+"producto_precio_siniva": 100756,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/camiseta-americanino-mc-slim-fit-crudo-129913CR.webp_GsUD94rLFrbyBcEe9pVGNpGSNwIou7.webp",
+"https://cdn.baguer.co/uploads/2025/02/camiseta-americanino-mc-slim-fit-crudo-129913CR_A.webp_5fVttBCMBxWGEBdJR6ONIRaMjNCM3N.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129914",
+"producto_titulo": "Camiseta Americanino Mc Moda Fit",
+"producto_precio": "139900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Americanino",
+"color": "CR",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "CAMISETAS",
+"exclusivo_online": 0,
+"marca_slug": "americanino",
+"url": "product-129914-CAMISETA-AMERICANINO-MC-MODA-FIT",
+"dia_siniva": 0,
+"producto_precio_siniva": 117563,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/camiseta-americanino-mc-moda-fit-crudo-129914CR.webp_2n9VjpyXxoTXzIN7YJnK9Vkcqtln2G.webp",
+"https://cdn.baguer.co/uploads/2025/02/camiseta-americanino-mc-moda-fit-crudo-129914CR_A.webp_FGHv4wz4bCB3CW7Vt3tqmG0SAXcUv2.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129915",
+"producto_titulo": "Camiseta Americanino Mc Classic Fit",
+"producto_precio": "129900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Americanino",
+"color": "MR",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "CAMISETAS",
+"exclusivo_online": 0,
+"marca_slug": "americanino",
+"url": "product-129915-CAMISETA-AMERICANINO-MC-CLASSIC-FIT",
+"dia_siniva": 0,
+"producto_precio_siniva": 109160,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/camiseta-americanino-mc-classic-fit-morado-129915MR.webp_WB6qBucfsBqkYy8c2CX3OfE1XKihNf.webp",
+"https://cdn.baguer.co/uploads/2025/02/camiseta-americanino-mc-classic-fit-morado-129915MR_A.webp_97Jqr75beuvcNeaDks4sJ4p3VItRrP.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129918",
+"producto_titulo": "Polo Chevignon  Knob Details",
+"producto_precio": "149900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Chevignon",
+"color": "BL",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "POLOS",
+"exclusivo_online": 0,
+"marca_slug": "chevignon",
+"url": "product-129918-POLO-CHEVIGNON--KNOB-DETAILS",
+"dia_siniva": 0,
+"producto_precio_siniva": 125966,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/polo-chevignon-knob-details-blanco-129918BL.webp_n98wtGbGIiYRNbx74M4kIazJ6DrISR.webp",
+"https://cdn.baguer.co/uploads/2025/02/polo-chevignon-knob-details-blanco-129918BL_A.webp_D28wQK0xE74smyUYoQASn6U77JQKYV.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129905",
+"producto_titulo": "Jean Americanino Slim Tono Oscuro",
+"producto_precio": "299900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Americanino",
+"color": "AO",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "JEANS",
+"exclusivo_online": 0,
+"marca_slug": "americanino",
+"url": "product-129905-JEAN-AMERICANINO-SLIM-TONO-OSCURO",
+"dia_siniva": 0,
+"producto_precio_siniva": 252017,
+"tallas": [
+{
+"id": "30",
+"descripcion": "TALLA 30",
+"name": "30",
+"orden": "30.0"
+},
+{
+"id": "32",
+"descripcion": "TALLA 32",
+"name": "32",
+"orden": "32.0"
+},
+{
+"id": "34",
+"descripcion": "TALLA 34",
+"name": "34",
+"orden": "34.0"
+},
+{
+"id": "36",
+"descripcion": "TALLA 36",
+"name": "36",
+"orden": "36.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/jean-americanino-slim-tono-oscuro-azul-oscuro-129905AO.webp_OyqLuJcnLWB4JxzCv8t0bVTBvNDAz0.webp",
+"https://cdn.baguer.co/uploads/2025/02/jean-americanino-slim-tono-oscuro-azul-oscuro-129905AO_A.webp_vWaC6TDr853nvDQrOKUWSgYowGfzqn.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129908",
+"producto_titulo": "Jean Americanino Tapered Tono Oscuro",
+"producto_precio": "299900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Americanino",
+"color": "AO",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "JEANS",
+"exclusivo_online": 0,
+"marca_slug": "americanino",
+"url": "product-129908-JEAN-AMERICANINO-TAPERED-TONO-OSCURO",
+"dia_siniva": 0,
+"producto_precio_siniva": 252017,
+"tallas": [
+{
+"id": "30",
+"descripcion": "TALLA 30",
+"name": "30",
+"orden": "30.0"
+},
+{
+"id": "32",
+"descripcion": "TALLA 32",
+"name": "32",
+"orden": "32.0"
+},
+{
+"id": "34",
+"descripcion": "TALLA 34",
+"name": "34",
+"orden": "34.0"
+},
+{
+"id": "36",
+"descripcion": "TALLA 36",
+"name": "36",
+"orden": "36.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/jean-americanino-tapered-tono-oscuro-azul-oscuro-129908AO.webp_VOeYcy58py6fbgUBY7iFADoxasoNLr.webp",
+"https://cdn.baguer.co/uploads/2025/02/jean-americanino-tapered-tono-oscuro-azul-oscuro-129908AO_A.webp_tdya6CXdQLio3sDDfUAZbcQqU2tvx3.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129909",
+"producto_titulo": "Bermuda Americanino Tono Negro",
+"producto_precio": "239900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Americanino",
+"color": "NG",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "BERMUDAS",
+"exclusivo_online": 0,
+"marca_slug": "americanino",
+"url": "product-129909-BERMUDA-AMERICANINO-TONO-NEGRO",
+"dia_siniva": 0,
+"producto_precio_siniva": 201597,
+"tallas": [
+{
+"id": "30",
+"descripcion": "TALLA 30",
+"name": "30",
+"orden": "30.0"
+},
+{
+"id": "32",
+"descripcion": "TALLA 32",
+"name": "32",
+"orden": "32.0"
+},
+{
+"id": "34",
+"descripcion": "TALLA 34",
+"name": "34",
+"orden": "34.0"
+},
+{
+"id": "36",
+"descripcion": "TALLA 36",
+"name": "36",
+"orden": "36.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/bermuda-americanino-tono-negro-negro-129909NG.webp_pcdF3cMQm1jDCAWo7GTjsXRiPUt5h8.webp",
+"https://cdn.baguer.co/uploads/2025/02/bermuda-americanino-tono-negro-negro-129909NG_A.webp_pIkMeqSeesmCgiGWwlcjHlbauwvd8q.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129910",
+"producto_titulo": "Polo Americanino Mc Slim Fit",
+"producto_precio": "159900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Americanino",
+"color": "CR",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "POLOS",
+"exclusivo_online": 0,
+"marca_slug": "americanino",
+"url": "product-129910-POLO-AMERICANINO-MC-SLIM-FIT",
+"dia_siniva": 0,
+"producto_precio_siniva": 134370,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/polo-americanino-mc-slim-fit-crudo-129910CR.webp_95CDrhp6gXPxFgADQCCJmCxqBN6kaO.webp",
+"https://cdn.baguer.co/uploads/2025/02/polo-americanino-mc-slim-fit-crudo-129910CR_A.webp_M2pY8wULXEYgd7VGhHNREnldAJztLj.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129911",
+"producto_titulo": "Jean Americanino Slim Oscuro",
+"producto_precio": "299900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Americanino",
+"color": "AZ",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "JEANS",
+"exclusivo_online": 0,
+"marca_slug": "americanino",
+"url": "product-129911-JEAN-AMERICANINO-SLIM-OSCURO",
+"dia_siniva": 0,
+"producto_precio_siniva": 252017,
+"tallas": [
+{
+"id": "30",
+"descripcion": "TALLA 30",
+"name": "30",
+"orden": "30.0"
+},
+{
+"id": "32",
+"descripcion": "TALLA 32",
+"name": "32",
+"orden": "32.0"
+},
+{
+"id": "34",
+"descripcion": "TALLA 34",
+"name": "34",
+"orden": "34.0"
+},
+{
+"id": "36",
+"descripcion": "TALLA 36",
+"name": "36",
+"orden": "36.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/jean-americanino-slim-oscuro-azul-129911AZ.webp_Vkuv0MlXm04oGma5eMZRD0owfZrRw9.webp",
+"https://cdn.baguer.co/uploads/2025/02/jean-americanino-slim-oscuro-azul-129911AZ_A.webp_2hGg9PsmKXGDIU2xkESe5YDMQvCRWC.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129895",
+"producto_titulo": "Camiseta Monastery Jaguar T-shirt Men Oversize",
+"producto_precio": "480000",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Monastery",
+"color": "BG",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "CAMISETAS",
+"exclusivo_online": 0,
+"marca_slug": "monastery",
+"url": "product-129895-CAMISETA-MONASTERY-JAGUAR-TSHIRT-MEN-OVERSIZE",
+"dia_siniva": 0,
+"producto_precio_siniva": 403361,
+"tallas": [
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/camiseta-monastery-jaguar-t-shirt-men-oversize-beige-129895BG.webp_ISDn2QpUzbWlo8uewgtjWBtQ4BEyw4.webp",
+"https://cdn.baguer.co/uploads/2025/02/camiseta-monastery-jaguar-t-shirt-men-oversize-beige-129895BG_A.webp_d30uvu0nCXJqUdczYYzEdJMIndnODh.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129895",
+"producto_titulo": "Camiseta Monastery Jaguar T-shirt Men Oversize",
+"producto_precio": "480000",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Monastery",
+"color": "NG",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "CAMISETAS",
+"exclusivo_online": 0,
+"marca_slug": "monastery",
+"url": "product-129895-CAMISETA-MONASTERY-JAGUAR-TSHIRT-MEN-OVERSIZE",
+"dia_siniva": 0,
+"producto_precio_siniva": 403361,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+}
+],
+"video": "https://cdn.baguer.co/videos/129895ngvwebmvbsTwdBFv4jc8Tz.webm",
+"imagenes": [],
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129897",
+"producto_titulo": "Camiseta Monastery Eleven T-shirt Men",
+"producto_precio": "410000",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Monastery",
+"color": "NG",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "CAMISETAS",
+"exclusivo_online": 0,
+"marca_slug": "monastery",
+"url": "product-129897-CAMISETA-MONASTERY-ELEVEN-TSHIRT-MEN",
+"dia_siniva": 0,
+"producto_precio_siniva": 344538,
+"tallas": [
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/camiseta-monastery-eleven-t-shirt-men-negro-129897NG.webp_qDC8nTYYvayh2eiNUTY9dhgu4Ags0A.webp",
+"https://cdn.baguer.co/uploads/2025/02/camiseta-monastery-eleven-t-shirt-men-negro-129897NG_A.webp_PDj9MNlILF5pJNym62b2YjpH77C3a9.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129866",
+"producto_titulo": "Camisa Chevignon Dyed Twill Shirt M/c",
+"producto_precio": "198900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Chevignon",
+"color": "NG",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "CAMISAS",
+"exclusivo_online": 0,
+"marca_slug": "chevignon",
+"url": "product-129866-CAMISA-CHEVIGNON-DYED-TWILL-SHIRT-MC",
+"dia_siniva": 0,
+"producto_precio_siniva": 167143,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+},
+{
+"id": "XXL",
+"descripcion": "TALLA XXL",
+"name": "XXL",
+"orden": "7.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/camisa-chevignon-dyed-twill-shirt-mc-negro-129866NG.webp_2maWM16X8eP6vzmDudMK7J5szpyGoh.webp",
+"https://cdn.baguer.co/uploads/2025/02/camisa-chevignon-dyed-twill-shirt-mc-negro-129866NG_A.webp_os9a2pPIJIuYRVrvKPdSoPSHR68wbX.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129867",
+"producto_titulo": "Camisa Chevignon Dyed Twill Shirt M/l",
+"producto_precio": "198900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Chevignon",
+"color": "BL",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "CAMISAS",
+"exclusivo_online": 0,
+"marca_slug": "chevignon",
+"url": "product-129867-CAMISA-CHEVIGNON-DYED-TWILL-SHIRT-ML",
+"dia_siniva": 0,
+"producto_precio_siniva": 167143,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/camisa-chevignon-dyed-twill-shirt-ml-blanco-129867BL.webp_LPPu81ZGvLTFJeg4esRvR6vAl6o9KB.webp",
+"https://cdn.baguer.co/uploads/2025/02/camisa-chevignon-dyed-twill-shirt-ml-blanco-129867BL_A.webp_eLpsbV1PGM4TUVxcFvkRiLDqVnLyfD.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129868",
+"producto_titulo": "Bermuda Chevignon Colors Rocket",
+"producto_precio": "198900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Chevignon",
+"color": "VD",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "BERMUDAS",
+"exclusivo_online": 0,
+"marca_slug": "chevignon",
+"url": "product-129868-BERMUDA-CHEVIGNON-COLORS-ROCKET",
+"dia_siniva": 0,
+"producto_precio_siniva": 167143,
+"tallas": [
+{
+"id": "30",
+"descripcion": "TALLA 30",
+"name": "30",
+"orden": "30.0"
+},
+{
+"id": "32",
+"descripcion": "TALLA 32",
+"name": "32",
+"orden": "32.0"
+},
+{
+"id": "34",
+"descripcion": "TALLA 34",
+"name": "34",
+"orden": "34.0"
+},
+{
+"id": "36",
+"descripcion": "TALLA 36",
+"name": "36",
+"orden": "36.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/bermuda-chevignon-colors-rocket-verde-129868VD.webp_msTsL2SDYw269Mb2MWmWV83NovVEPG.webp",
+"https://cdn.baguer.co/uploads/2025/02/bermuda-chevignon-colors-rocket-verde-129868VD_A.webp_ID2pVWdIRhOg5hMvWhgNx1EC9D3cfe.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129868",
+"producto_titulo": "Bermuda Chevignon Colors Rocket",
+"producto_precio": "198900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Chevignon",
+"color": "KQ",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "BERMUDAS",
+"exclusivo_online": 0,
+"marca_slug": "chevignon",
+"url": "product-129868-BERMUDA-CHEVIGNON-COLORS-ROCKET",
+"dia_siniva": 0,
+"producto_precio_siniva": 167143,
+"tallas": [
+{
+"id": "30",
+"descripcion": "TALLA 30",
+"name": "30",
+"orden": "30.0"
+},
+{
+"id": "32",
+"descripcion": "TALLA 32",
+"name": "32",
+"orden": "32.0"
+},
+{
+"id": "34",
+"descripcion": "TALLA 34",
+"name": "34",
+"orden": "34.0"
+},
+{
+"id": "36",
+"descripcion": "TALLA 36",
+"name": "36",
+"orden": "36.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/bermuda-chevignon-colors-rocket-caqui-129868KQ.webp_PxXpHZIfDQssm7Gh1lS80jywLkx04M.webp",
+"https://cdn.baguer.co/uploads/2025/02/bermuda-chevignon-colors-rocket-caqui-129868KQ_A.webp_oEsslYFv0HfyfcEm313BPOHAM5esQW.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129865",
+"producto_titulo": "Camisa Chevignon Carbon Pocket Shirt M/c",
+"producto_precio": "169900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Chevignon",
+"color": "RS",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "CAMISAS",
+"exclusivo_online": 0,
+"marca_slug": "chevignon",
+"url": "product-129865-CAMISA-CHEVIGNON-CARBON-POCKET-SHIRT-MC",
+"dia_siniva": 0,
+"producto_precio_siniva": 142773,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/camisa-chevignon-carbon-pocket-shirt-mc-rosado-129865RS.webp_2a2t2HBZs7GrYSUcJg7ZAI2MC17Ax3.webp",
+"https://cdn.baguer.co/uploads/2025/02/camisa-chevignon-carbon-pocket-shirt-mc-rosado-129865RS_A.webp_C7FiGaITLJ3OcnFpAXLib6H64DKjJU.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "129865",
+"producto_titulo": "Camisa Chevignon Carbon Pocket Shirt M/c",
+"producto_precio": "169900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Chevignon",
+"color": "VD",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "CAMISAS",
+"exclusivo_online": 0,
+"marca_slug": "chevignon",
+"url": "product-129865-CAMISA-CHEVIGNON-CARBON-POCKET-SHIRT-MC",
+"dia_siniva": 0,
+"producto_precio_siniva": 142773,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+},
+{
+"id": "XXL",
+"descripcion": "TALLA XXL",
+"name": "XXL",
+"orden": "7.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/camisa-chevignon-carbon-pocket-shirt-mc-verde-129865VD.webp_o5lmYuqiivvRaARB0716xviYmWbPUC.webp",
+"https://cdn.baguer.co/uploads/2025/02/camisa-chevignon-carbon-pocket-shirt-mc-verde-129865VD_A.webp_Hx27ajc8lJe217GDggOp6ZVcYBQQkP.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "128410",
+"producto_titulo": "Camiseta Girbaud Le-francois M/c",
+"producto_precio": "139900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Girbaud",
+"color": "NG",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "CAMISETAS",
+"exclusivo_online": 0,
+"marca_slug": "girbaud",
+"url": "product-128410-CAMISETA-GIRBAUD-LEFRANCOIS-MC",
+"dia_siniva": 0,
+"producto_precio_siniva": 117563,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+}
+],
+"video": "https://cdn.baguer.co/videos/128410ngvwebmpAg5GqhXFYtfhwV.webm",
+"imagenes": [],
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "128410",
+"producto_titulo": "Camiseta Girbaud Le-francois M/c",
+"producto_precio": "139900",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Girbaud",
+"color": "RJ",
+"producto_fechaingreso": "2025-02-12 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "CAMISETAS",
+"exclusivo_online": 0,
+"marca_slug": "girbaud",
+"url": "product-128410-CAMISETA-GIRBAUD-LEFRANCOIS-MC",
+"dia_siniva": 0,
+"producto_precio_siniva": 117563,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/camiseta-girbaud-le-francois-mc-rojo-128410RJ.webp_VAzvDSCW9474kUlxJyDQaOPDqgIXH9.webp",
+"https://cdn.baguer.co/uploads/2025/02/camiseta-girbaud-le-francois-mc-rojo-128410RJ_A.webp_M3qObppwwWLJVGb2hLh3vY7R3p6qWO.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+},
+{
+"producto_sku": "835032",
+"producto_titulo": "Rover T-shirt Comfort  Estampada Typer",
+"producto_precio": "179950",
+"producto_precio_antes": null,
+"producto_porcentaje_dcto": 0,
+"marca": "Typer",
+"color": "KQ",
+"producto_fechaingreso": "2025-02-11 00:00:00",
+"publicado": 1,
+"categoria": "Ropa",
+"subcategoria": "CAMISETAS",
+"exclusivo_online": 0,
+"marca_slug": "typer",
+"url": "product-835032-ROVER-TSHIRT-COMFORT--ESTAMPADA-TYPER",
+"dia_siniva": 0,
+"producto_precio_siniva": 151218,
+"tallas": [
+{
+"id": "SS",
+"descripcion": "TALLA S",
+"name": "S",
+"orden": "3.0"
+},
+{
+"id": "MM",
+"descripcion": "TALLA M",
+"name": "M",
+"orden": "4.0"
+},
+{
+"id": "LL",
+"descripcion": "TALLA L",
+"name": "L",
+"orden": "5.0"
+},
+{
+"id": "XL",
+"descripcion": "TALLA XL",
+"name": "XL",
+"orden": "6.0"
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/rover-t-shirt-comfort-estampada-typer-caqui-835032KQ.webp_da8zu2dRkMAyJdiBS9C9GvbNDPocIx.webp",
+"https://cdn.baguer.co/uploads/2025/02/rover-t-shirt-comfort-estampada-typer-caqui-835032KQ_A.webp_qdl7qwkhIwqnqxuYCZjnI5IAmhnwLd.webp"
+],
+"video": "",
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+}
+],
+"first_page_url": "http://api.stirpe.co/api/products/catalogue/hombre?page=1",
+"from": 1,
+"last_page": 41,
+"last_page_url": "http://api.stirpe.co/api/products/catalogue/hombre?page=41",
+"next_page_url": "http://api.stirpe.co/api/products/catalogue/hombre?page=2",
+"path": "http://api.stirpe.co/api/products/catalogue/hombre",
+"per_page": 35,
+"prev_page_url": null,
+"to": 35,
+"total": 1415
+},
+"titulo_tienda": "Outlet",
+"estrategia_venta": {
+"nombre": "Compra con QUAC y paga en abril",
+"descripcion": "<p>Del 17 al 23 de febrero</p>",
+"url_analytics": "https://stirpe.co/politica-alianza-quac-compra",
+"banner_desktop": "https://cdn.baguer.co/uploads/banners_estrategias/banner_movil_estrategia_ventaJDlIrwJDE4wnjHgY61DrPQcVCpouI9mnVbx1739904743.jpg",
+"banner_movil": "https://cdn.baguer.co/uploads/banners_estrategias/banner_movil_estrategia_ventaJDlIrwJDE4wnjHgY61DrPQcVCpouI9mnVbx1739904743.jpg",
+"banner_full": null,
+"peso": 3,
+"background_color": "#000000",
+"color_fondo_boton": "#000000",
+"color_texto_boton": "#000000",
+"banner_video": null
+},
+"info_catalogo": {
+"titulo": "Outlet",
+"descripcion": "Primera tienda Online en Colombia donde compras tus marcas preferidas y pagas en cómodas cuotas semanales con nuestro Cupo Personal ¡Solicítalo YA!."
+},
+"productos_analytics": [
+{
+"name": "0016 LEVIS JEAN 505 REGULAR",
+"id": "129816",
+"price": 359900,
+"brand": "LEVIS",
+"category": "JEANS",
+"variant": "AZ",
+"list": "Listar JEANS",
+"position": 1
+},
+{
+"name": "CESAR GORRA COMBINADA CON BORDADOS Y MALLA UNSER",
+"id": "835088",
+"price": 93950,
+"brand": "UNSER",
+"category": "GORRAS",
+"variant": "AZ",
+"list": "Listar GORRAS",
+"position": 2
+},
+{
+"name": "GUS GORRA COMBINADA CON BORDADOS Y MALLA UNSER",
+"id": "835089",
+"price": 107950,
+"brand": "UNSER",
+"category": "GORRAS",
+"variant": "CF",
+"list": "Listar GORRAS",
+"position": 3
+},
+{
+"name": "TERMO CUBITT HYDRO BOTTLE 24OZ CON DOS TAPAS",
+"id": "129932",
+"price": 130950,
+"brand": "CUBITT",
+"category": "Termos",
+"variant": "NG",
+"list": "Listar Termos",
+"position": 4
+},
+{
+"name": "TERMO CUBITT HYDRO BOTTLE 24OZ CON DOS TAPAS",
+"id": "129933",
+"price": 130950,
+"brand": "CUBITT",
+"category": "Termos",
+"variant": "AZ",
+"list": "Listar Termos",
+"position": 5
+},
+{
+"name": "LUIS CORREA UNICOLOR EN CUERO CON REATA TRENZADA UNSER",
+"id": "835086",
+"price": 137950,
+"brand": "UNSER",
+"category": "CORREAS",
+"variant": "NG",
+"list": "Listar CORREAS",
+"position": 6
+},
+{
+"name": "DYLAN GORRA COMBINADA CON BORDADOS Y MALLA UNSER",
+"id": "835087",
+"price": 93950,
+"brand": "UNSER",
+"category": "GORRAS",
+"variant": "VD",
+"list": "Listar GORRAS",
+"position": 7
+},
+{
+"name": "CAMISA PARA HOMBRE MOLDERIA COMFORT UNICOLOR MANGA CORTA UNSER",
+"id": "834023",
+"price": 177900,
+"brand": "UNSER",
+"category": "CAMISAS",
+"variant": "KQ",
+"list": "Listar CAMISAS",
+"position": 8
+},
+{
+"name": "POLO CHEVIGNON  KNOB DETAILS",
+"id": "129918",
+"price": 149900,
+"brand": "CHEVIGNON",
+"category": "POLOS",
+"variant": "NG",
+"list": "Listar POLOS",
+"position": 9
+},
+{
+"name": "POLO CHEVIGNON NER NECK",
+"id": "129919",
+"price": 149900,
+"brand": "CHEVIGNON",
+"category": "POLOS",
+"variant": "RJ",
+"list": "Listar POLOS",
+"position": 10
+},
+{
+"name": "CAMISETA GIRBAUD LE-FRANCOIS",
+"id": "129925",
+"price": 139900,
+"brand": "GIRBAUD",
+"category": "CAMISETAS",
+"variant": "NG",
+"list": "Listar CAMISETAS",
+"position": 11
+},
+{
+"name": "CAMISETA GIRBAUD LE-FRANCOIS",
+"id": "129927",
+"price": 139900,
+"brand": "GIRBAUD",
+"category": "CAMISETAS",
+"variant": "NG",
+"list": "Listar CAMISETAS",
+"position": 12
+},
+{
+"name": "POLO MC CLASSIC FIT AMERICANINO",
+"id": "129912",
+"price": 159900,
+"brand": "AMERICANINO",
+"category": "POLOS",
+"variant": "AZ",
+"list": "Listar POLOS",
+"position": 13
+},
+{
+"name": "POLO MC CLASSIC FIT AMERICANINO",
+"id": "129912",
+"price": 159900,
+"brand": "AMERICANINO",
+"category": "POLOS",
+"variant": "BL",
+"list": "Listar POLOS",
+"position": 14
+},
+{
+"name": "CAMISETA AMERICANINO MC SLIM FIT",
+"id": "129913",
+"price": 119900,
+"brand": "AMERICANINO",
+"category": "CAMISETAS",
+"variant": "CR",
+"list": "Listar CAMISETAS",
+"position": 15
+},
+{
+"name": "CAMISETA AMERICANINO MC MODA FIT",
+"id": "129914",
+"price": 139900,
+"brand": "AMERICANINO",
+"category": "CAMISETAS",
+"variant": "CR",
+"list": "Listar CAMISETAS",
+"position": 16
+},
+{
+"name": "CAMISETA AMERICANINO MC CLASSIC FIT",
+"id": "129915",
+"price": 129900,
+"brand": "AMERICANINO",
+"category": "CAMISETAS",
+"variant": "MR",
+"list": "Listar CAMISETAS",
+"position": 17
+},
+{
+"name": "POLO CHEVIGNON  KNOB DETAILS",
+"id": "129918",
+"price": 149900,
+"brand": "CHEVIGNON",
+"category": "POLOS",
+"variant": "BL",
+"list": "Listar POLOS",
+"position": 18
+},
+{
+"name": "JEAN AMERICANINO SLIM TONO OSCURO",
+"id": "129905",
+"price": 299900,
+"brand": "AMERICANINO",
+"category": "JEANS",
+"variant": "AO",
+"list": "Listar JEANS",
+"position": 19
+},
+{
+"name": "JEAN AMERICANINO TAPERED TONO OSCURO",
+"id": "129908",
+"price": 299900,
+"brand": "AMERICANINO",
+"category": "JEANS",
+"variant": "AO",
+"list": "Listar JEANS",
+"position": 20
+},
+{
+"name": "BERMUDA AMERICANINO TONO NEGRO",
+"id": "129909",
+"price": 239900,
+"brand": "AMERICANINO",
+"category": "BERMUDAS",
+"variant": "NG",
+"list": "Listar BERMUDAS",
+"position": 21
+},
+{
+"name": "POLO AMERICANINO MC SLIM FIT",
+"id": "129910",
+"price": 159900,
+"brand": "AMERICANINO",
+"category": "POLOS",
+"variant": "CR",
+"list": "Listar POLOS",
+"position": 22
+},
+{
+"name": "JEAN AMERICANINO SLIM OSCURO",
+"id": "129911",
+"price": 299900,
+"brand": "AMERICANINO",
+"category": "JEANS",
+"variant": "AZ",
+"list": "Listar JEANS",
+"position": 23
+},
+{
+"name": "CAMISETA MONASTERY JAGUAR T-SHIRT MEN OVERSIZE",
+"id": "129895",
+"price": 480000,
+"brand": "MONASTERY",
+"category": "CAMISETAS",
+"variant": "BG",
+"list": "Listar CAMISETAS",
+"position": 24
+},
+{
+"name": "CAMISETA MONASTERY JAGUAR T-SHIRT MEN OVERSIZE",
+"id": "129895",
+"price": 480000,
+"brand": "MONASTERY",
+"category": "CAMISETAS",
+"variant": "NG",
+"list": "Listar CAMISETAS",
+"position": 25
+},
+{
+"name": "CAMISETA MONASTERY ELEVEN T-SHIRT MEN",
+"id": "129897",
+"price": 410000,
+"brand": "MONASTERY",
+"category": "CAMISETAS",
+"variant": "NG",
+"list": "Listar CAMISETAS",
+"position": 26
+},
+{
+"name": "CAMISA CHEVIGNON DYED TWILL SHIRT M/C",
+"id": "129866",
+"price": 198900,
+"brand": "CHEVIGNON",
+"category": "CAMISAS",
+"variant": "NG",
+"list": "Listar CAMISAS",
+"position": 27
+},
+{
+"name": "CAMISA CHEVIGNON DYED TWILL SHIRT M/L",
+"id": "129867",
+"price": 198900,
+"brand": "CHEVIGNON",
+"category": "CAMISAS",
+"variant": "BL",
+"list": "Listar CAMISAS",
+"position": 28
+},
+{
+"name": "BERMUDA CHEVIGNON COLORS ROCKET",
+"id": "129868",
+"price": 198900,
+"brand": "CHEVIGNON",
+"category": "BERMUDAS",
+"variant": "VD",
+"list": "Listar BERMUDAS",
+"position": 29
+},
+{
+"name": "BERMUDA CHEVIGNON COLORS ROCKET",
+"id": "129868",
+"price": 198900,
+"brand": "CHEVIGNON",
+"category": "BERMUDAS",
+"variant": "KQ",
+"list": "Listar BERMUDAS",
+"position": 30
+},
+{
+"name": "CAMISA CHEVIGNON CARBON POCKET SHIRT M/C",
+"id": "129865",
+"price": 169900,
+"brand": "CHEVIGNON",
+"category": "CAMISAS",
+"variant": "RS",
+"list": "Listar CAMISAS",
+"position": 31
+},
+{
+"name": "CAMISA CHEVIGNON CARBON POCKET SHIRT M/C",
+"id": "129865",
+"price": 169900,
+"brand": "CHEVIGNON",
+"category": "CAMISAS",
+"variant": "VD",
+"list": "Listar CAMISAS",
+"position": 32
+},
+{
+"name": "CAMISETA GIRBAUD LE-FRANCOIS M/C",
+"id": "128410",
+"price": 139900,
+"brand": "GIRBAUD",
+"category": "CAMISETAS",
+"variant": "NG",
+"list": "Listar CAMISETAS",
+"position": 33
+},
+{
+"name": "CAMISETA GIRBAUD LE-FRANCOIS M/C",
+"id": "128410",
+"price": 139900,
+"brand": "GIRBAUD",
+"category": "CAMISETAS",
+"variant": "RJ",
+"list": "Listar CAMISETAS",
+"position": 34
+},
+{
+"name": "ROVER T-SHIRT COMFORT  ESTAMPADA TYPER",
+"id": "835032",
+"price": 179950,
+"brand": "TYPER",
+"category": "CAMISETAS",
+"variant": "KQ",
+"list": "Listar CAMISETAS",
+"position": 35
+}
+],
+"data_subcategorias_analytics": null
+}
