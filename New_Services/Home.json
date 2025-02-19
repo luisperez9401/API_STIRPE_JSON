@@ -1,0 +1,281 @@
+[
+  {
+    "id": "bannerData",
+    "sectionType": "BannerHero",
+    "sectionData": {
+      "media_content": {
+        "media_type": "video",
+        "background_media_desktop": "https://cdn.baguer.co/uploads/banner_nuevo_video_desktopM7y7FqQLDDe6gc7MOA3N4hpDUffY5Iupe3d1733258722.mp4",
+        "background_media_mobile": "https://cdn.baguer.co/uploads/banner_nuevo_video_movil9FxjZAHD1adIBC76Vcg7rxDzBDDCPWC8XMX1733258722.mp4"
+      },
+      "title": {
+        "order": "1",
+        "content_item": {
+          "content": "Recibe HTML",
+          "styles": {
+            "color": "#f2f2f2"
+          }
+        }
+      },
+      "subtitle": {
+        "order": "2",
+        "content_item": {
+          "content": "Recibe HTML",
+          "styles": {
+            "color": "#f2f2f2"
+          }
+        }
+      },
+      "text": {
+        "order": "4",
+        "content_item": {
+          "content": "",
+          "styles": {
+            "color": "#f2f2f2"
+          }
+        }
+      },
+      "cta_buttons": {
+        "order": "3",
+        "buttons": [
+          {
+            "id": "1",
+            "content": "Descubre más",
+            "button_props": {
+              "to": "/algun-slug",
+              "type": "primary",
+              "styles": {
+                "color": "#f2f2f2",
+                "border-color": "#f2f2f2"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "campaignsData",
+    "sectionType": "SectionCampaigns",
+    "sectionData": {
+      "id": "campaignData",
+      "title": "Compra <strong>tus Looks</strong>",
+      "description": "",
+      "ctaButton": {
+        "text": "Ver looks",
+        "url": "/catalogo"
+      },
+      "cards": [
+        {
+          "id": "campaignData_1",
+          "title": "Comodidad y estilo",
+          "image": {
+            "src": "https://cdn.baguer.co/uploads/img_portada_outfit_7b71AJlhojjafTweotnfXqqXhTj4tJ1726835386.webp?ar=15-17",
+            "alt": "Camapaña Comodidad y estilo",
+            "tags": []
+          },
+          "ctaButton": {
+            "text": "Ver más",
+            "url": "/catalogo-look-comodidas-y-estilo"
+          }
+        },
+        {
+          "id": "campaignData_2",
+          "title": "Denim Couture",
+          "image": {
+            "src": "https://cdn.baguer.co/uploads/img_portada_outfit_Mpn1yno7CpRONONH49tyAmVcRKFxsR1726863963.webp?ar=15-17",
+            "alt": "Camapaña Denim Couture",
+            "tags": []
+          },
+          "ctaButton": {
+            "text": "Ver más",
+            "url": "/catalogo-look-denim-couture"
+          }
+        },
+        {
+          "id": "campaignData_3",
+          "title": "Streetwear to every day",
+          "image": {
+            "src": "https://cdn.baguer.co/uploads/img_portada_outfit_fGqKrXuK6rl6X4KRx3xdYgfKuoD0ju1726869732.webp?ar=15-17",
+            "alt": "Camapaña Streetwear to every day",
+            "tags": []
+          },
+          "ctaButton": {
+            "text": "Ver más",
+            "url": "/catalogo-look-streetwear-to-every-day"
+          }
+        },
+        {
+          "id": "campaignData_4",
+          "title": "Skateboarding Style",
+          "image": {
+            "src": "https://cdn.baguer.co/uploads/img_portada_outfit_0DHgYmT9ey3scbKXyCQgcSTDfV7nMM1726861550.webp?ar=15-17",
+            "alt": "Camapaña Skateboarding Style",
+            "tags": []
+          },
+          "ctaButton": {
+            "text": "Ver más",
+            "url": "/catalogo-look-skateboarding-style"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "showcaseProductData",
+    "sectionType": "SectionShowcaseProduct",
+    "sectionData": {
+      "title": "Lo más <b>vendido</b>",
+      "description": "Lo mas vendido de hombre y mujer",
+      "banner": {
+        "media_content": {
+          "media_type": "img",
+          "background_media_desktop": "https://cdn.baguer.co/uploads/background_image_desktopBx4EzyQUzWYeb3kS5rfwoVtvqsCSOKfWxes1725556387.webp?ar=31-9",
+          "background_media_mobile": "https://cdn.baguer.co/uploads/background_image_movil4X238L9ZeJTiWq6DGRu989nbAFXXxgCNN1E1725556388.webp?ar=6-7"
+        },
+        "cta_buttons": {
+          "order": "3",
+          "buttons": [
+            {
+              "id": "1",
+              "content": "Ver todo en tenis",
+              "button_props": {
+                "to": "/mas_vendido",
+                "type": "outline",
+                "styles": {
+                  "color": "#f2f2f2",
+                  "border-color": "#f2f2f2"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "products": [
+        {
+          "productName": "Parlante unicolor para mercadeo unixex unser",
+          "sku": "834337",
+          "category": "Accesorios",
+          "brand": {
+            "id": "002",
+            "name": "Unser",
+            "logo": "https://cdn.baguer.co/brands/img_logo_KR0TVEUeynLttszV4LJ8leLj4UpL7cPZcHW1623872853.svg"
+          },
+          "route": "product-834337-PARLANTE-UNICOLOR-PARA-MERCADEO-UNIXEX-UNSER",
+          "price": "147950",
+          "discountPrice": "",
+          "references": [
+            {
+              "id": "NG",
+              "colorHx": "#000000",
+              "model": "Altura modelo: <b>175 cm</b> usa talla <b>S</b>.",
+              "video": "",
+              "colorName": "Mostaza",
+              "colorTexture": "https://cdn.baguer.co/uploads/2024/11/parlante-unicolor-para-mercadeo-unixex-unser-negro-834337NG_Z.jpg_EqHiSnFGCjXBEXCGNZuAL2BF09EAKHQTyX06sQFx0HbkAY0nQI.jpg",
+              "aviable": true,
+              "images": [
+                "https://cdn.baguer.co/uploads/2024/11/parlante-unicolor-para-mercadeo-unixex-unser-negro-834337NG.jpg_ko7gsVcMIA9pCBnKyT9DCRcuRuKVa2gKexDq818xyUdyCdA723.jpg?ar=961-1088",
+                "https://cdn.baguer.co/uploads/2024/11/parlante-unicolor-para-mercadeo-unixex-unser-negro-834337NG_A.jpg_yBJw6WrW8lUyEJQA2Rq1NJJ1YFrLVrFLQx7arQcFXbrG43GyPE.jpg?ar=961-1088",
+                "https://cdn.baguer.co/uploads/2024/11/parlante-unicolor-para-mercadeo-unixex-unser-negro-834337NG_B.jpg_FZwyWCpnwfbQYlJM6qpzcPMEuTXkhwZ1t10B6dGfwc6d3vCK4r.jpg?ar=961-1088"
+              ],
+              "tags": [
+                {
+                  "id": "2",
+                  "text": "Nuevo",
+                  "textColor": "#ffffff",
+                  "backgroundColor": "#001f5d"
+                }
+              ],
+              "sizes": [
+                {
+                  "id": "UN",
+                  "descripcion": "TALLA UNICA",
+                  "name": "UN",
+                  "stock": 52
+                }
+              ]
+            }
+          ],
+          "clothingType": "acessorios",
+          "gender": "unisex"
+        }
+      ],
+      "ctaShowcase": {
+        "title": "Ver todos <br> los productos",
+        "bgImage": "https://cdn.baguer.co/uploads/img_portada_outfit_NtpeSiWNjgyaMNmuxqj0L6EhSnhS9g1729023638.webp",
+        "ctaButton": {
+          "text": "Conocer más",
+          "route": "#"
+        }
+      }
+    }   
+  },
+  {
+    "id": "categoryData",
+    "sectionType": "SectionCategories",
+    "sectionData": {
+      "id": "categoriesGender",
+      "title": "",
+      "description": "",
+      "routes": [
+        {
+          "id": "hombre",
+          "title": "Hombre",
+          "route": "/hombre",
+          "items": [
+            {
+              "id": "1",
+              "title": "Blusas",
+              "route": "/category-1",
+              "imageData": {
+                "id": "1",
+                "image": "https://cdn.baguer.co/categories/female/img_tipoprenda_2Egy9bF28qHmudbfhRQsR35p6VUrck31EW11733262752.webp",
+                "alt": "image 1"
+              }
+            }
+          ]
+        }
+      ],
+      "routesCta": [
+        {
+          "id": "1",
+          "title": "Gafas",
+          "route": "/category-1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bannerQuacData",
+    "sectionType": "SectionBannerQuac",
+    "sectionData": {
+      "id": "breakNavData",
+      "title": "<span style=\"color: #2E1380\">Lo quiero y con <span style=\"color: #ff00f7\">Quac</span> ¡Lo tengo!</span>",
+      "description": "¿Estás buscando una manera fácil y segura de financiar tus compras? ¡Entonces tienes que conocer a QUAC",
+      "ctaButton": {
+        "text": "¡Quiero estrenar!",
+        "url": "https://preaprobado.quac.co/?store_business=baguer&slug_store=stirpe",
+        "bgColor": "#FFFF01",
+        "color": "#1A1F2E"
+      }
+    }    
+  },
+  {
+    "id": "brandsSliderData",
+    "sectionType": "SectionBrandsSlider",
+    "sectionData": [
+      {
+        "id": "1",
+        "name": "Nike",
+        "logo": "https://cdn.baguer.co/brands/img_logo_FUXhRQVid7v2PVWEj0bNWJ6YS8SgWulK5mV1623872607.svg?ar=3-2",
+        "hoverLogo": "https://cdn.baguer.co/brands/img_banner_mtE9Jq7rXFY9I12LBfoalftYpR4NdP7hTbU1694203417.webp?ar=33-38",
+        "route": "/brand-url",
+        "alt": "Logo de Nike"
+      }
+    ]    
+  },
+  {
+    "id": "newsletterData",
+    "sectionType": "SectionNewsletter"
+  }
+]
