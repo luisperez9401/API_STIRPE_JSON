@@ -1,0 +1,17 @@
+[
+  { "id": "bucaramanga", "label": "Bucaramanga" },
+  { "id": "cali", "label": "Cali" },
+  { "id": "bogota", "label": "Bogota" },
+  { "id": "pereira", "label": "Pereira" },
+  { "id": "medellín", "label": "Medellín" },
+  { "id": "manizales", "label": "Manizales" },
+  { "id": "cartagena", "label": "Cartagena" },
+  { "id": "barranquilla", "label": "Barranquilla" },
+  { "id": "santa_marta", "label": "Santa Marta" },
+  { "id": "valledupar", "label": "Valledupar" },
+  { "id": "montería", "label": "Montería" },
+  { "id": "ibague", "label": "Ibague" },
+  { "id": "villavicencio", "label": "Villavicencio" },
+  { "id": "pasto", "label": "Pasto" },
+  { "id": "cucuta", "label": "Cucuta" }
+]
