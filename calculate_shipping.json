@@ -1,0 +1,10 @@
+{
+    "envio": {
+        "total": "18400",
+        "dias_entrega": 5,
+        "fechasEnvio": {
+            "fechaInicio": "domingo 23 de febrero",
+            "fechaFinal": "mi\u00e9rcoles 26 de febrero"
+        }
+    }
+}
