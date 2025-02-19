@@ -1,0 +1,8056 @@
+{
+"departamentos": [
+{
+"codigo": "91",
+"descripcion": "AMAZONAS",
+"ciudades": [
+{
+"departamento_codigo": "91",
+"codigo": "001",
+"descripcion": "leticia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "91",
+"codigo": "540",
+"descripcion": "PUERTO NARIÑO",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "05",
+"descripcion": "ANTIOQUIA",
+"ciudades": [
+{
+"departamento_codigo": "05",
+"codigo": "002",
+"descripcion": "abejorral",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "004",
+"descripcion": "abriaquí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "021",
+"descripcion": "alejandría",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "030",
+"descripcion": "amaga",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "031",
+"descripcion": "amalfi",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "034",
+"descripcion": "andes",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "036",
+"descripcion": "angelopolis",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "038",
+"descripcion": "angostura",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "040",
+"descripcion": "anori",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "044",
+"descripcion": "anza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "045",
+"descripcion": "apartadó",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "051",
+"descripcion": "arboletes",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "055",
+"descripcion": "argelia (a)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "059",
+"descripcion": "armenia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "079",
+"descripcion": "barbosa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "088",
+"descripcion": "bello",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "086",
+"descripcion": "belmira",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "091",
+"descripcion": "betania",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "093",
+"descripcion": "betulia (ant)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "107",
+"descripcion": "briceño",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "113",
+"descripcion": "buriticá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "120",
+"descripcion": "cáceres",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "125",
+"descripcion": "caicedo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "129",
+"descripcion": "caldas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "134",
+"descripcion": "campamento",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "138",
+"descripcion": "cañasgordas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "142",
+"descripcion": "caracolí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "145",
+"descripcion": "caramanta",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "147",
+"descripcion": "carepa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "150",
+"descripcion": "carolina",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "893",
+"descripcion": "casabe - yondo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "154",
+"descripcion": "caucasia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "172",
+"descripcion": "chigorodó",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "190",
+"descripcion": "cisneros",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "101",
+"descripcion": "ciudad bolivar",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "197",
+"descripcion": "cocorna",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "206",
+"descripcion": "concepción",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "209",
+"descripcion": "concordia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "212",
+"descripcion": "copacabana",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "837001",
+"descripcion": "currulao",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "234",
+"descripcion": "dabeiba",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "237",
+"descripcion": "don matias",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "591004",
+"descripcion": "doradal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "240",
+"descripcion": "ebejico",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "250",
+"descripcion": "el bagre",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "148",
+"descripcion": "el carmen de viboral",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "697",
+"descripcion": "el santuario",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "819002",
+"descripcion": "el valle",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "264",
+"descripcion": "entrerrios",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "266",
+"descripcion": "envigado",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "282",
+"descripcion": "fredonia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "284",
+"descripcion": "frontino",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "306",
+"descripcion": "giraldo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "308",
+"descripcion": "girardota",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "310",
+"descripcion": "gomez plata",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "313",
+"descripcion": "granada",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "315",
+"descripcion": "guadalupe",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "318",
+"descripcion": "guarne",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "321",
+"descripcion": "guatapé",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "347",
+"descripcion": "heliconia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "353",
+"descripcion": "hispania",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "360",
+"descripcion": "itaguí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "361",
+"descripcion": "ituango",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "364",
+"descripcion": "jardín",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "368",
+"descripcion": "jericó",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "376",
+"descripcion": "la ceja",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "380",
+"descripcion": "la estrella",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "390",
+"descripcion": "la pintada",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "585003",
+"descripcion": "la sierra",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "400",
+"descripcion": "la unión",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "425",
+"descripcion": "maceo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "440",
+"descripcion": "marinilla",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "001",
+"descripcion": "medellín",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "467",
+"descripcion": "montebello",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "475",
+"descripcion": "murindo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "480",
+"descripcion": "mutata",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "483",
+"descripcion": "nariño",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "495",
+"descripcion": "nechi",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "490",
+"descripcion": "necocli",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "837002",
+"descripcion": "nueva colonia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "501",
+"descripcion": "olaya",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "789001",
+"descripcion": "palermo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "541",
+"descripcion": "peñol",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "543",
+"descripcion": "peque",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "576",
+"descripcion": "pueblorrico",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "579",
+"descripcion": "puerto berrio",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "250002",
+"descripcion": "puerto claver",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "585",
+"descripcion": "puerto nare",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "591002",
+"descripcion": "puerto perales nuevo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "591",
+"descripcion": "puerto triunfo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "604",
+"descripcion": "remedios",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "607",
+"descripcion": "retiro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "615",
+"descripcion": "rionegro (ant)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "628",
+"descripcion": "sabanalarga",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "631",
+"descripcion": "sabaneta",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "642",
+"descripcion": "salgar",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "647",
+"descripcion": "san andres de cuerquia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "001002",
+"descripcion": "san antonio de prado",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "649",
+"descripcion": "san carlos",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "411007",
+"descripcion": "san cristobal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "893005",
+"descripcion": "san francisco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "656",
+"descripcion": "san jerónimo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "658",
+"descripcion": "san josé de la montaña",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "659",
+"descripcion": "san juan de uraba",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "660",
+"descripcion": "san luis",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "664",
+"descripcion": "san pedro de los milagros",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "665",
+"descripcion": "san pedro de uraba",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "667",
+"descripcion": "san rafael",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "670",
+"descripcion": "san roque",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "674",
+"descripcion": "san vicente",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "679",
+"descripcion": "santa barbara",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "686",
+"descripcion": "santa rosa de osos",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "042",
+"descripcion": "santa fé de antioquia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "690",
+"descripcion": "santo domingo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "736",
+"descripcion": "segovia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "756",
+"descripcion": "sonsón",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "761",
+"descripcion": "sopetrán",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "789",
+"descripcion": "támesis",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "790",
+"descripcion": "tarazá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "792",
+"descripcion": "tarso",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "809",
+"descripcion": "titiribí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "819",
+"descripcion": "toledo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "837",
+"descripcion": "turbo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "842",
+"descripcion": "uramita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "847",
+"descripcion": "urrao",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "854",
+"descripcion": "valdivia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "856",
+"descripcion": "valparaiso",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "858",
+"descripcion": "vegachi",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "861",
+"descripcion": "venecia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "873",
+"descripcion": "vigia del fuerte",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "885",
+"descripcion": "yali",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "887",
+"descripcion": "yarumal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "890",
+"descripcion": "yolombo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "895",
+"descripcion": "zaragoza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "837003",
+"descripcion": "EL TRES",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "411",
+"descripcion": "liborina",
+"habilitar_envio": 0
+},
+{
+"departamento_codigo": "05",
+"codigo": "887007",
+"descripcion": "LLANOS DE CUIVA",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "05",
+"codigo": "040004",
+"descripcion": "SANTO DOMINGO (INSPOLDEP)",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "81",
+"descripcion": "ARAUCA",
+"ciudades": [
+{
+"departamento_codigo": "81",
+"codigo": "001",
+"descripcion": "arauca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "81",
+"codigo": "065",
+"descripcion": "arauquita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "81",
+"codigo": "220",
+"descripcion": "cravo norte",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "81",
+"codigo": "300",
+"descripcion": "fortul",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "81",
+"codigo": "591",
+"descripcion": "puerto rondon",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "81",
+"codigo": "736",
+"descripcion": "saravena",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "81",
+"codigo": "794",
+"descripcion": "tame",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "81",
+"codigo": "065008",
+"descripcion": "LA ESMERALDA",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "88",
+"descripcion": "ARCHIPIELAGO DE SAN ANDRÉS",
+"ciudades": [
+{
+"departamento_codigo": "88",
+"codigo": "001",
+"descripcion": "SAN ANDRÉS",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "88",
+"codigo": "564",
+"descripcion": "PROVIDENCIA",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "08",
+"descripcion": "ATLÁNTICO",
+"ciudades": [
+{
+"departamento_codigo": "08",
+"codigo": "638001",
+"descripcion": "aguada de pablo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "078",
+"descripcion": "baranoa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "001",
+"descripcion": "barranquilla",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "078001",
+"descripcion": "campeche",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "137",
+"descripcion": "campo de la cruz",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "141",
+"descripcion": "candelaria",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "433001",
+"descripcion": "caracolí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "638002",
+"descripcion": "cascajal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "296",
+"descripcion": "galapa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "372",
+"descripcion": "juan de acosta",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "001001",
+"descripcion": "juan mina",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "638005",
+"descripcion": "la peña",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "421",
+"descripcion": "luruaco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "433",
+"descripcion": "malambo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "436",
+"descripcion": "manatí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "520",
+"descripcion": "palmar de varela",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "549",
+"descripcion": "piojo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "558",
+"descripcion": "polonuevo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "560",
+"descripcion": "ponedera",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "573",
+"descripcion": "puerto colombia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "560003",
+"descripcion": "puerto giraldo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "606",
+"descripcion": "repelón",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "634",
+"descripcion": "sabanagrande",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "638",
+"descripcion": "sabanalarga",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "421005",
+"descripcion": "santa cruz",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "675",
+"descripcion": "santa lucía",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "685",
+"descripcion": "santo tomás",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "758",
+"descripcion": "soledad",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "770",
+"descripcion": "suan",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "832",
+"descripcion": "tubará",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "08",
+"codigo": "849",
+"descripcion": "usiacurí",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "11",
+"descripcion": "BOGOTÁ",
+"ciudades": [
+{
+"departamento_codigo": "11",
+"codigo": "001",
+"descripcion": "bogotá",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "13",
+"descripcion": "BOLÍVAR",
+"ciudades": [
+{
+"departamento_codigo": "13",
+"codigo": "006",
+"descripcion": "achi",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "030",
+"descripcion": "altos del rosario",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "042",
+"descripcion": "arenal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "052",
+"descripcion": "arjona b",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "062",
+"descripcion": "arroyohondo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "074",
+"descripcion": "barranco de loba",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "001004",
+"descripcion": "bayunca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "140",
+"descripcion": "calamar",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "160",
+"descripcion": "cantagallo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "001",
+"descripcion": "cartagena",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "430006",
+"descripcion": "cascajal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "188",
+"descripcion": "cicuco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "222",
+"descripcion": "clemencia b",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "244",
+"descripcion": "el carmen de bolívar",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "248",
+"descripcion": "el guamo (b)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "268",
+"descripcion": "el peñón",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "052002",
+"descripcion": "gambote",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "300",
+"descripcion": "hatillo de loba",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "430013",
+"descripcion": "juan arias",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "430",
+"descripcion": "magangué",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "433",
+"descripcion": "mahates",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "433003",
+"descripcion": "malagana",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "440",
+"descripcion": "margarita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "442",
+"descripcion": "maria la baja b",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "468",
+"descripcion": "mompós",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "473",
+"descripcion": "morales (b)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "490",
+"descripcion": "norosi",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "001009",
+"descripcion": "pasacaballos",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "549",
+"descripcion": "pinillos",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "001020",
+"descripcion": "pontezuela",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "430048",
+"descripcion": "punta de cartagena",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "580",
+"descripcion": "regidor",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "600",
+"descripcion": "rio viejo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "654005",
+"descripcion": "san cristobal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "647",
+"descripcion": "san estanislao",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "650",
+"descripcion": "san fernando (b)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "654",
+"descripcion": "san jacinto",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "655",
+"descripcion": "san jacinto del cauca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "657",
+"descripcion": "san juan nepomuceno",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "667",
+"descripcion": "san martín de loba",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "670",
+"descripcion": "san pablo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "001012",
+"descripcion": "santa ana (b)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "673",
+"descripcion": "santa catalina",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "683",
+"descripcion": "santa rosa de lima",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "688",
+"descripcion": "santa rosa del sur",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "744",
+"descripcion": "simití",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "052004",
+"descripcion": "sincerín",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "760",
+"descripcion": "soplaviento b",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "780",
+"descripcion": "talaigua nuevo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "810011",
+"descripcion": "tiquisio nuevo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "836",
+"descripcion": "turbaco b",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "838",
+"descripcion": "turbana",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "873",
+"descripcion": "villanueva",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "430900",
+"descripcion": "yati",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "894",
+"descripcion": "zambrano",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "212",
+"descripcion": "cordoba",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "430011",
+"descripcion": "HENEQUEN",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "001003",
+"descripcion": "BARU",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "810",
+"descripcion": "PUERTO RICO",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "620",
+"descripcion": "SAN CRISTOBAL",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "13",
+"codigo": "458",
+"descripcion": "MONTECRISTO",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "15",
+"descripcion": "BOYACÁ",
+"ciudades": [
+{
+"departamento_codigo": "15",
+"codigo": "022",
+"descripcion": "almeida",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "047",
+"descripcion": "aquitania",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "051",
+"descripcion": "arcabuco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "087",
+"descripcion": "belén",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "491001",
+"descripcion": "belencito",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "090",
+"descripcion": "berbeo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "092",
+"descripcion": "betéitiva",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "097",
+"descripcion": "boavita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "104",
+"descripcion": "boyacá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "106",
+"descripcion": "briceño (b)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "109",
+"descripcion": "buenavista",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "114",
+"descripcion": "busbanza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "131",
+"descripcion": "caldas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "135",
+"descripcion": "campohermoso",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "162",
+"descripcion": "cerinza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "172",
+"descripcion": "chinavita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "176",
+"descripcion": "chiquinquirá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "232",
+"descripcion": "chíquiza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "180",
+"descripcion": "chiscas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "183",
+"descripcion": "chita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "185",
+"descripcion": "chitaraque",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "187",
+"descripcion": "chivata",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "236",
+"descripcion": "chivor",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "189",
+"descripcion": "ciénega",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "204",
+"descripcion": "combitá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "212",
+"descripcion": "coper",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "215",
+"descripcion": "corrales",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "218",
+"descripcion": "covarachía",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "223",
+"descripcion": "cubará",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "224",
+"descripcion": "cucaita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "226",
+"descripcion": "cuítiva",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "238",
+"descripcion": "duitama",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "244",
+"descripcion": "el cocuy",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "248",
+"descripcion": "el espino",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "272",
+"descripcion": "firavitoba",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "276",
+"descripcion": "floresta",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "293",
+"descripcion": "gachantivá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "296",
+"descripcion": "gameza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "299",
+"descripcion": "garagoa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "317",
+"descripcion": "guacamayas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "322",
+"descripcion": "guateque",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "325",
+"descripcion": "guayatá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "332",
+"descripcion": "guican",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "362",
+"descripcion": "iza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "367",
+"descripcion": "jenesano",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "368",
+"descripcion": "jericó",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "380",
+"descripcion": "la capilla",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "403",
+"descripcion": "la uvita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "401",
+"descripcion": "la victoria (b)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "377",
+"descripcion": "labranzagrande",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "425",
+"descripcion": "macanal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "442",
+"descripcion": "maripí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "455",
+"descripcion": "miraflores",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "464",
+"descripcion": "mongua",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "466",
+"descripcion": "monguí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "469",
+"descripcion": "moniquirá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "476",
+"descripcion": "motavita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "480",
+"descripcion": "muzo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "491",
+"descripcion": "nobsa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "494",
+"descripcion": "nuevo colón",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "500",
+"descripcion": "oicatá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "507",
+"descripcion": "otanche",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "511",
+"descripcion": "pachavita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "514",
+"descripcion": "paez",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "516",
+"descripcion": "paipa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "518",
+"descripcion": "pajarito",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "522",
+"descripcion": "panqueba",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "531",
+"descripcion": "pauna",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "537",
+"descripcion": "paz de rio",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "542",
+"descripcion": "pesca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "550",
+"descripcion": "pisba",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "572",
+"descripcion": "puerto boyacá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "580",
+"descripcion": "quípama",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "599",
+"descripcion": "ramiriquí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "600",
+"descripcion": "ráquira",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "621",
+"descripcion": "rondón",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "632",
+"descripcion": "saboyá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "638",
+"descripcion": "sáchica",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "646",
+"descripcion": "samacá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "660",
+"descripcion": "san eduardo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "664",
+"descripcion": "san josé de pare",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "667",
+"descripcion": "san luis de gaceno",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "673",
+"descripcion": "san mateo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "676",
+"descripcion": "san miguel de sema",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "681",
+"descripcion": "san pablo de borbur",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "690",
+"descripcion": "santa maría",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "693",
+"descripcion": "santa rosa de viterbo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "696",
+"descripcion": "santa sofía",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "686",
+"descripcion": "santana",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "720",
+"descripcion": "sativanorte",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "723",
+"descripcion": "sativasur",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "740",
+"descripcion": "siachoque",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "753",
+"descripcion": "soatá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "757",
+"descripcion": "socha",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "755",
+"descripcion": "socotá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "759",
+"descripcion": "sogamoso",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "761",
+"descripcion": "somondoco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "762",
+"descripcion": "sora",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "764",
+"descripcion": "soracá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "763",
+"descripcion": "sotaquirá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "774",
+"descripcion": "susacón",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "776",
+"descripcion": "sutamarchán",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "778",
+"descripcion": "sutatenza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "790",
+"descripcion": "tasco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "798",
+"descripcion": "tenza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "804",
+"descripcion": "tibana",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "806",
+"descripcion": "tibasosa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "808",
+"descripcion": "tinjacá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "810",
+"descripcion": "tipacoque",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "814",
+"descripcion": "toca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "816",
+"descripcion": "togüí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "820",
+"descripcion": "tópaga",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "822",
+"descripcion": "tota",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "238011",
+"descripcion": "trinidad",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "001",
+"descripcion": "tunja",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "832",
+"descripcion": "tununguá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "835",
+"descripcion": "turmequé",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "837",
+"descripcion": "tuta",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "839",
+"descripcion": "tutazá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "842",
+"descripcion": "úmbita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "861",
+"descripcion": "ventaquemada",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "407",
+"descripcion": "villa de leyva",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "879",
+"descripcion": "viracachá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "897",
+"descripcion": "zetaquira",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "681005",
+"descripcion": "SANTA BARBARA",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "491004",
+"descripcion": "PUNTA LARGA",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "533",
+"descripcion": "PAYA",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "15",
+"codigo": "861008",
+"descripcion": "TIERRA NEGRA",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "17",
+"descripcion": "CALDAS",
+"ciudades": [
+{
+"departamento_codigo": "17",
+"codigo": "013",
+"descripcion": "aguadas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "001010",
+"descripcion": "alto tablazo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "042",
+"descripcion": "anserma",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "050",
+"descripcion": "aranzazu",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "524001",
+"descripcion": "arauca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "001003",
+"descripcion": "bajo tablazo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "088",
+"descripcion": "belalcazar",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "541002",
+"descripcion": "bolivia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "174",
+"descripcion": "chinchiná",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "272",
+"descripcion": "filadelfia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "380002",
+"descripcion": "guarinocito",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "380",
+"descripcion": "la dorada",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "541006",
+"descripcion": "la linda",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "388",
+"descripcion": "la merced",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "001",
+"descripcion": "manizales",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "433",
+"descripcion": "manzanares",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "442",
+"descripcion": "marmato",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "444",
+"descripcion": "marquetalia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "446",
+"descripcion": "marulanda",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "486",
+"descripcion": "neira",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "495",
+"descripcion": "norcasia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "513",
+"descripcion": "pácora",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "524",
+"descripcion": "palestina",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "541",
+"descripcion": "pensilvania",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "614",
+"descripcion": "riosucio",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "616",
+"descripcion": "risaralda",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "653",
+"descripcion": "salamina",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "662",
+"descripcion": "samaná",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "272005",
+"descripcion": "samaria",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "665",
+"descripcion": "san josé (c)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "777",
+"descripcion": "supia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "867",
+"descripcion": "victoria",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "873",
+"descripcion": "villamaría",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "877",
+"descripcion": "viterbo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "17",
+"codigo": "662007",
+"descripcion": "SAN DIEGO",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "18",
+"descripcion": "CAQUETÁ",
+"ciudades": [
+{
+"departamento_codigo": "18",
+"codigo": "029",
+"descripcion": "albania",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "094",
+"descripcion": "belén de los andaquíes",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "753004",
+"descripcion": "campo hermoso",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "150",
+"descripcion": "cartagena del chaira",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "205",
+"descripcion": "curillo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "247",
+"descripcion": "el doncello",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "256",
+"descripcion": "el paujil",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "001",
+"descripcion": "florencia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "410",
+"descripcion": "la montañita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "460",
+"descripcion": "milan",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "479",
+"descripcion": "morelia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "592",
+"descripcion": "puerto rico",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "610",
+"descripcion": "san josé del fragua",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "753",
+"descripcion": "san vicente del caguán",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "756",
+"descripcion": "solano",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "785",
+"descripcion": "solita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "860",
+"descripcion": "valparaiso (caq)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "460001",
+"descripcion": "SAN ANTONIO DE GETUCHA",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "18",
+"codigo": "610002",
+"descripcion": "YURAYACO",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "85",
+"descripcion": "CASANARE",
+"ciudades": [
+{
+"departamento_codigo": "85",
+"codigo": "010",
+"descripcion": "aguazul",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "015",
+"descripcion": "chameza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "125",
+"descripcion": "hato corozal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "001002",
+"descripcion": "la chaparrera",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "136",
+"descripcion": "la salina",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "139",
+"descripcion": "mani",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "162",
+"descripcion": "monterrey",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "225",
+"descripcion": "nunchia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "230",
+"descripcion": "orocue",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "410005",
+"descripcion": "paso cusiana",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "250",
+"descripcion": "paz de ariporo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "263",
+"descripcion": "pore",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "279",
+"descripcion": "recetor",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "300",
+"descripcion": "sabanalarga",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "315",
+"descripcion": "sacama",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "325",
+"descripcion": "san luis de palenque",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "400",
+"descripcion": "tamara",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "410",
+"descripcion": "tauramena",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "430",
+"descripcion": "trinidad",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "440",
+"descripcion": "villanueva (c)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "001",
+"descripcion": "yopal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "85",
+"codigo": "162006",
+"descripcion": "VILLA CAROLA",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "19",
+"descripcion": "CAUCA",
+"ciudades": [
+{
+"departamento_codigo": "19",
+"codigo": "022",
+"descripcion": "almaguer",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "050",
+"descripcion": "argelia (c)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "075",
+"descripcion": "balboa (c)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "517",
+"descripcion": "belalcazar",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "100",
+"descripcion": "bolívar (c)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "110",
+"descripcion": "buenos aires",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "130",
+"descripcion": "cajibío",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "137",
+"descripcion": "caldono",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "142",
+"descripcion": "caloto",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "585",
+"descripcion": "coconuco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "212",
+"descripcion": "corinto",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "532",
+"descripcion": "el bordo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "532013",
+"descripcion": "el estrecho (c)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "050006",
+"descripcion": "el plateado",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "256",
+"descripcion": "el tambo (ca)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "290",
+"descripcion": "florencia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "300",
+"descripcion": "guachené",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "318",
+"descripcion": "guapi",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "355",
+"descripcion": "inza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "364",
+"descripcion": "jambalo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "392",
+"descripcion": "la sierra",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "397",
+"descripcion": "la vega",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "450",
+"descripcion": "mercaderes",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "418",
+"descripcion": "micay",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "455",
+"descripcion": "miranda",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "473",
+"descripcion": "morales (c)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "455005",
+"descripcion": "ortigal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "513",
+"descripcion": "padilla",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "760",
+"descripcion": "paispamba",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "532008",
+"descripcion": "patia (c)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "533",
+"descripcion": "piamonte",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "548",
+"descripcion": "piendamo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "001",
+"descripcion": "popayán",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "573",
+"descripcion": "puerto tejada",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "585004",
+"descripcion": "purace",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "622",
+"descripcion": "rosas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "693",
+"descripcion": "san sebastián",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "001019",
+"descripcion": "santa rosa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "698",
+"descripcion": "santander de quilichao",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "693004",
+"descripcion": "santiago",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "743",
+"descripcion": "silvia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "780",
+"descripcion": "suarez",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "785",
+"descripcion": "sucre",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "807",
+"descripcion": "timbio",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "809",
+"descripcion": "timbiquí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "821",
+"descripcion": "toribio",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "824",
+"descripcion": "totoro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "548001",
+"descripcion": "tunia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "845",
+"descripcion": "villa rica",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "701",
+"descripcion": "SANTA ROSA",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "110012",
+"descripcion": "TIMBA",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "19",
+"codigo": "698007",
+"descripcion": "MONDOMO",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "20",
+"descripcion": "CESAR",
+"ciudades": [
+{
+"departamento_codigo": "20",
+"codigo": "011",
+"descripcion": "aguachica",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "032",
+"descripcion": "astrea",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "045",
+"descripcion": "becerril",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "060",
+"descripcion": "bosconia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "013002",
+"descripcion": "casacaza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "175",
+"descripcion": "chimichagua",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "178",
+"descripcion": "chiriguaná",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "013",
+"descripcion": "codazzi",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "228",
+"descripcion": "curumaní",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "238",
+"descripcion": "el copey",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "011025",
+"descripcion": "el juncal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "250",
+"descripcion": "el paso",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "295",
+"descripcion": "gamarra",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "310",
+"descripcion": "gonzalez",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "383",
+"descripcion": "la gloria",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "400",
+"descripcion": "la jagua de ibirico",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "250002",
+"descripcion": "la loma",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "383010",
+"descripcion": "la mata",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "400900",
+"descripcion": "la mina",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "621",
+"descripcion": "la paz",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "178016",
+"descripcion": "la sierra",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "175009",
+"descripcion": "las vegas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "443",
+"descripcion": "manaure (c)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "001011",
+"descripcion": "mina drumond pribbenow",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "517",
+"descripcion": "pailitas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "550",
+"descripcion": "pelaya",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "570",
+"descripcion": "pueblo bello",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "614",
+"descripcion": "rio de oro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "710",
+"descripcion": "san alberto",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "750",
+"descripcion": "san diego",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "770",
+"descripcion": "san martín (c)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "228002",
+"descripcion": "san roque",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "787",
+"descripcion": "tamalameque",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "20",
+"codigo": "001",
+"descripcion": "valledupar",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "27",
+"descripcion": "CHOCÓ",
+"ciudades": [
+{
+"departamento_codigo": "27",
+"codigo": "006",
+"descripcion": "acandí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "450",
+"descripcion": "andagoya",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "810",
+"descripcion": "animas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "073",
+"descripcion": "bagado",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "075",
+"descripcion": "bahia solano mutis",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "615023",
+"descripcion": "belén de bajirá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "099",
+"descripcion": "bellavista",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "425",
+"descripcion": "bete",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "160",
+"descripcion": "cértegui",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "205",
+"descripcion": "condoto",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "150",
+"descripcion": "curbarado",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "245",
+"descripcion": "el carmen de atrato",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "361",
+"descripcion": "istmina",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "372",
+"descripcion": "jurado",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "413",
+"descripcion": "lloro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "135",
+"descripcion": "managru",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "491",
+"descripcion": "novita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "495",
+"descripcion": "nuqui",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "600",
+"descripcion": "paimado",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "025",
+"descripcion": "pie de pato",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "077",
+"descripcion": "pizarro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "430011",
+"descripcion": "puerto meluk",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "001",
+"descripcion": "quibdó",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "615",
+"descripcion": "riosucio",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "660",
+"descripcion": "san josé del palmar",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "250",
+"descripcion": "santa genoveva de docorodó",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "580",
+"descripcion": "santa rita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "745",
+"descripcion": "sipi",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "787",
+"descripcion": "tado",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "800",
+"descripcion": "unguia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "050",
+"descripcion": "yuto",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "27",
+"codigo": "430",
+"descripcion": "PUERTO MELUK",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "23",
+"descripcion": "CÓRDOBA",
+"ciudades": [
+{
+"departamento_codigo": "23",
+"codigo": "068",
+"descripcion": "ayapel",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "079",
+"descripcion": "buenavista (cor)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "090",
+"descripcion": "canalete",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "686002",
+"descripcion": "carrillo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "162",
+"descripcion": "cerete",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "466900",
+"descripcion": "cerromatoso",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "168",
+"descripcion": "chima (c)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "182",
+"descripcion": "chinú",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "189",
+"descripcion": "ciénaga de oro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "466023",
+"descripcion": "cordoba",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "300",
+"descripcion": "cotorra",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "672001",
+"descripcion": "el porvenir (c)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "350",
+"descripcion": "la apartada y la frontera",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "417",
+"descripcion": "lorica",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "419",
+"descripcion": "los cordobas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "001011",
+"descripcion": "los garzones",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "464",
+"descripcion": "momil",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "500",
+"descripcion": "moñitos",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "466",
+"descripcion": "montelíbano",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "001",
+"descripcion": "montería",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "555",
+"descripcion": "planeta rica",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "570",
+"descripcion": "pueblo nuevo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "574",
+"descripcion": "puerto escondido",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "580",
+"descripcion": "puerto libertador",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "586",
+"descripcion": "purísima",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "660",
+"descripcion": "sahagún",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "670",
+"descripcion": "san andres de sotavento",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "672",
+"descripcion": "san antero",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "675",
+"descripcion": "san bernardo del viento",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "678",
+"descripcion": "san carlos",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "682",
+"descripcion": "san josé de ure",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "686",
+"descripcion": "san pelayo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "807",
+"descripcion": "tierralta",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "815",
+"descripcion": "tuchín",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "23",
+"codigo": "855",
+"descripcion": "valencia",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "25",
+"descripcion": "CUNDINAMARCA",
+"ciudades": [
+{
+"departamento_codigo": "25",
+"codigo": "001",
+"descripcion": "agua de dios",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "019",
+"descripcion": "alban",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "035",
+"descripcion": "anapoima",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "040",
+"descripcion": "anolaima",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "599",
+"descripcion": "apulo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "053",
+"descripcion": "arbeláez",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "086",
+"descripcion": "beltrán",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "095",
+"descripcion": "bituima",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "099",
+"descripcion": "bojacá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "817099",
+"descripcion": "briceño",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "120",
+"descripcion": "cabrera",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "123",
+"descripcion": "cachipay",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "126",
+"descripcion": "cajicá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "148",
+"descripcion": "caparrapí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "151",
+"descripcion": "cáqueza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "154",
+"descripcion": "carmen de carupa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "168",
+"descripcion": "chaguaní",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "175",
+"descripcion": "chía",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "290016",
+"descripcion": "chinauta",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "178",
+"descripcion": "chipaque",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "181",
+"descripcion": "choachí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "183",
+"descripcion": "chocontá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "200",
+"descripcion": "cogua",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "214",
+"descripcion": "cota",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "224",
+"descripcion": "cucunubá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "245",
+"descripcion": "el colegio (mesitas)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "258",
+"descripcion": "el peñón",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "260",
+"descripcion": "el rosal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "269",
+"descripcion": "facatativá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "279",
+"descripcion": "fómeque",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "281",
+"descripcion": "fosca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "286",
+"descripcion": "funza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "288",
+"descripcion": "fúquene",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "290",
+"descripcion": "fusagasugá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "293",
+"descripcion": "gachalá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "295",
+"descripcion": "gachancipá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "297",
+"descripcion": "gachetá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "299",
+"descripcion": "gama",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "307",
+"descripcion": "girardot",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "312",
+"descripcion": "granada",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "317",
+"descripcion": "guacheta",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "320",
+"descripcion": "guaduas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "322",
+"descripcion": "guasca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "324",
+"descripcion": "guataquí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "326",
+"descripcion": "guatavita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "328",
+"descripcion": "guayabal de síquima",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "335",
+"descripcion": "guayabetal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "339",
+"descripcion": "gutiérrez",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "368",
+"descripcion": "jerusalén",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "372",
+"descripcion": "junín",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "377",
+"descripcion": "la calera",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "040002",
+"descripcion": "la florida",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "797001",
+"descripcion": "la gran vía",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "386",
+"descripcion": "la mesa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "394",
+"descripcion": "la palma",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "398",
+"descripcion": "la peña",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "402",
+"descripcion": "la vega",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "245002",
+"descripcion": "la victoria",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "407",
+"descripcion": "lenguazaque",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "335004",
+"descripcion": "limoncitos",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "426",
+"descripcion": "machetá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "430",
+"descripcion": "madrid",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "436",
+"descripcion": "manta",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "438",
+"descripcion": "medina",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "473",
+"descripcion": "mosquera",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "483",
+"descripcion": "nariño",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "486",
+"descripcion": "nemocón",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "488",
+"descripcion": "nilo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "489",
+"descripcion": "nimaima",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "491",
+"descripcion": "nocaima",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "513",
+"descripcion": "pacho",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "518",
+"descripcion": "paime",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "524",
+"descripcion": "pandi",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "530",
+"descripcion": "paratebueno",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "535",
+"descripcion": "pasca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "488002",
+"descripcion": "pueblo nuevo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "430004",
+"descripcion": "puente de piedra",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "594002",
+"descripcion": "puente quetame",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "320003",
+"descripcion": "puerto bogotá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "572",
+"descripcion": "puerto salgar",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "580",
+"descripcion": "puli",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "592",
+"descripcion": "quebradanegra",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "594",
+"descripcion": "quetame",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "596",
+"descripcion": "quipile",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "612",
+"descripcion": "ricaurte",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "645",
+"descripcion": "san antonio del tequendama",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "649",
+"descripcion": "san bernardo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "653",
+"descripcion": "san cayetano",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "658",
+"descripcion": "san francisco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "386003",
+"descripcion": "san joaquín (c)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "662",
+"descripcion": "san juan de rio seco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "645001",
+"descripcion": "santandercito",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "718",
+"descripcion": "sasaima",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "736",
+"descripcion": "sesquile",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "740",
+"descripcion": "sibaté",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "743",
+"descripcion": "silvania",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "745",
+"descripcion": "simijaca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "754",
+"descripcion": "soacha",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "758",
+"descripcion": "sopó",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "769",
+"descripcion": "subachoque",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "743005",
+"descripcion": "subia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "772",
+"descripcion": "suesca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "777",
+"descripcion": "supata",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "779",
+"descripcion": "susa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "781",
+"descripcion": "sutatausa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "785",
+"descripcion": "tabio",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "793",
+"descripcion": "tausa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "797",
+"descripcion": "tena",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "799",
+"descripcion": "tenjo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "805",
+"descripcion": "tibacuy",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "807",
+"descripcion": "tibiritá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "817013",
+"descripcion": "tibito",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "592003",
+"descripcion": "tobia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "815",
+"descripcion": "tocaima",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "817",
+"descripcion": "tocancipá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "488900",
+"descripcion": "tolemaida-melgar",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "823",
+"descripcion": "topaipí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "839",
+"descripcion": "ubalá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "841",
+"descripcion": "ubaque",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "843",
+"descripcion": "ubaté",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "845",
+"descripcion": "une",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "851",
+"descripcion": "útica",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "506",
+"descripcion": "venecia (c)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "862",
+"descripcion": "vergara",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "867",
+"descripcion": "viani",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "871",
+"descripcion": "villagómez",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "873",
+"descripcion": "villapinzón",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "875",
+"descripcion": "villeta",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "878",
+"descripcion": "viota",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "885",
+"descripcion": "yacopi",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "898",
+"descripcion": "zipacón",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "899",
+"descripcion": "zipaquirá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "290012",
+"descripcion": "EL TRIUNFO",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "662001",
+"descripcion": "CAMBAO",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "530001",
+"descripcion": "MAYA",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "377015",
+"descripcion": "SAN CAYETANO",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "25",
+"codigo": "288001",
+"descripcion": "CAPELLANIA",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "94",
+"descripcion": "GUAINÍA",
+"ciudades": [
+{
+"departamento_codigo": "94",
+"codigo": "001",
+"descripcion": "PUERTO INIRIDA",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "95",
+"descripcion": "GUAVIARE",
+"ciudades": [
+{
+"departamento_codigo": "95",
+"codigo": "015",
+"descripcion": "calamar",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "95",
+"codigo": "025",
+"descripcion": "el retorno",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "95",
+"codigo": "200",
+"descripcion": "miraflores",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "95",
+"codigo": "001",
+"descripcion": "san jose del guaviare",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "41",
+"descripcion": "HUILA",
+"ciudades": [
+{
+"departamento_codigo": "41",
+"codigo": "006",
+"descripcion": "acevedo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "013",
+"descripcion": "agrado",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "016",
+"descripcion": "aipe",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "020",
+"descripcion": "algeciras",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "026",
+"descripcion": "altamira",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "078",
+"descripcion": "baraya",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "396001",
+"descripcion": "belén (h)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "551001",
+"descripcion": "bruselas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "001001",
+"descripcion": "caguán",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "132",
+"descripcion": "campoalegre",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "206",
+"descripcion": "colombia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "524006",
+"descripcion": "el juncal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "244",
+"descripcion": "elías",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "001003",
+"descripcion": "fortalecillas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "298",
+"descripcion": "garzón",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "306",
+"descripcion": "gigante",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "319",
+"descripcion": "guadalupe",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "770002",
+"descripcion": "guayabal (hul)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "349",
+"descripcion": "hobo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "357",
+"descripcion": "íquira",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "378",
+"descripcion": "la argentina",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "396",
+"descripcion": "la plata",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "483",
+"descripcion": "nátaga",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "001",
+"descripcion": "neiva",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "503",
+"descripcion": "oporapa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "797001",
+"descripcion": "pacarni",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "518",
+"descripcion": "paicol",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "524",
+"descripcion": "palermo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "530",
+"descripcion": "palestina",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "548",
+"descripcion": "pital",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "551",
+"descripcion": "pitalito",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "615",
+"descripcion": "rivera",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "660",
+"descripcion": "saladoblanco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "668",
+"descripcion": "san agustín",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "359",
+"descripcion": "san josé de isnos",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "676",
+"descripcion": "santa maría",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "770",
+"descripcion": "suaza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "791",
+"descripcion": "tarquí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "799",
+"descripcion": "tello",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "801",
+"descripcion": "teruel",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "797",
+"descripcion": "tesalia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "807",
+"descripcion": "timana",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "615001",
+"descripcion": "ulloa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "872",
+"descripcion": "villavieja",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "885",
+"descripcion": "yaguara",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "298004",
+"descripcion": "zuluaga",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "41",
+"codigo": "770008",
+"descripcion": "AVISPERO",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "44",
+"descripcion": "LA GUAJIRA",
+"ciudades": [
+{
+"departamento_codigo": "44",
+"codigo": "035",
+"descripcion": "albania",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "078",
+"descripcion": "barrancas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "090",
+"descripcion": "dibulla",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "098",
+"descripcion": "distracción",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "110",
+"descripcion": "el molino",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "279",
+"descripcion": "fonseca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "378",
+"descripcion": "hatonuevo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "420",
+"descripcion": "la jagua del pilar",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "560010",
+"descripcion": "la paz",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "430",
+"descripcion": "maicao",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "560",
+"descripcion": "manaure",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "090003",
+"descripcion": "mingueo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "090004",
+"descripcion": "palomino",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "430007",
+"descripcion": "paraguachón",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "001",
+"descripcion": "riohacha",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "650",
+"descripcion": "san juan del cesar",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "847",
+"descripcion": "uribia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "855",
+"descripcion": "urumita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "874",
+"descripcion": "villanueva",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "44",
+"codigo": "035001",
+"descripcion": "CUESTECITAS",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "47",
+"descripcion": "MAGDALENA",
+"ciudades": [
+{
+"departamento_codigo": "47",
+"codigo": "030",
+"descripcion": "algarrobo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "053",
+"descripcion": "aracataca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "001011",
+"descripcion": "buritaca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "258003",
+"descripcion": "carreto",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "161",
+"descripcion": "cerro san antonio",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "170",
+"descripcion": "chivolo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "189",
+"descripcion": "ciénaga",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "245",
+"descripcion": "el banco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "058",
+"descripcion": "el difícil",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "258",
+"descripcion": "el piñón",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "268",
+"descripcion": "el retén",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "288",
+"descripcion": "fundación",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "001038",
+"descripcion": "gaira",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "980001",
+"descripcion": "guacamayal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "001006",
+"descripcion": "guachaca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "318",
+"descripcion": "guamal (mag)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "980003",
+"descripcion": "la gran vía",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "460",
+"descripcion": "nueva granada (m)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "745003",
+"descripcion": "palermo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "541",
+"descripcion": "pedraza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "545",
+"descripcion": "pijiño",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "551",
+"descripcion": "pivijay",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "555",
+"descripcion": "plato",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "980",
+"descripcion": "prado - sevilla",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "570",
+"descripcion": "puebloviejo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "960",
+"descripcion": "punta de piedras",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "605",
+"descripcion": "remolino",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "258005",
+"descripcion": "sabanas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "675",
+"descripcion": "salamina",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "660",
+"descripcion": "san angel",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "692",
+"descripcion": "san sebastián de buenavista",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "703",
+"descripcion": "san zenón",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "707",
+"descripcion": "santa ana (m)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "720",
+"descripcion": "santa barbara de pinto",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "001",
+"descripcion": "santa marta",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "980007",
+"descripcion": "santa rosalía",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "318012",
+"descripcion": "sitio nuevo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "745",
+"descripcion": "sitionuevo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "001010",
+"descripcion": "taganga",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "798",
+"descripcion": "tenerife",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "001009",
+"descripcion": "MINCA",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "47",
+"codigo": "205",
+"descripcion": "CONCORDIA",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "50",
+"descripcion": "META",
+"ciudades": [
+{
+"departamento_codigo": "50",
+"codigo": "006",
+"descripcion": "acacías",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "001015",
+"descripcion": "alto pompeya",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "001019",
+"descripcion": "apiay",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "110",
+"descripcion": "barranca de upía",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "124",
+"descripcion": "cabuyaro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "150",
+"descripcion": "castilla la nueva",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "223",
+"descripcion": "cubarral",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "226",
+"descripcion": "cumaral",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "245",
+"descripcion": "el calvario",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "251",
+"descripcion": "el castillo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "270",
+"descripcion": "el dorado",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "287",
+"descripcion": "fuente de oro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "313",
+"descripcion": "granada (m)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "318",
+"descripcion": "guamal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "350",
+"descripcion": "la macarena",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "680003",
+"descripcion": "la palmera",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "400",
+"descripcion": "lejanías",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "325",
+"descripcion": "mapiripán",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "330",
+"descripcion": "mesetas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "573003",
+"descripcion": "pachaquiaro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "450",
+"descripcion": "puerto concordia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "568",
+"descripcion": "puerto gaitán",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "577",
+"descripcion": "puerto lleras",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "573",
+"descripcion": "puerto lópez",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "590",
+"descripcion": "puerto rico",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "606",
+"descripcion": "restrepo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "680",
+"descripcion": "san carlos de guaroa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "683",
+"descripcion": "san juan de arama",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "350003",
+"descripcion": "san juan del losada",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "686",
+"descripcion": "san juanito",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "689",
+"descripcion": "san martín",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "370",
+"descripcion": "uribe",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "001",
+"descripcion": "villavicencio",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "711",
+"descripcion": "vistahermosa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "150001",
+"descripcion": "SAN LORENZO",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "251001",
+"descripcion": "MEDELLIN DEL ARIARI",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "50",
+"codigo": "370001",
+"descripcion": "LA JULIA",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "52",
+"descripcion": "NARIÑO",
+"ciudades": [
+{
+"departamento_codigo": "52",
+"codigo": "838001",
+"descripcion": "albán",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "022",
+"descripcion": "aldana",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "036",
+"descripcion": "ancuya",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "079",
+"descripcion": "barbacoas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "083",
+"descripcion": "belén",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "051",
+"descripcion": "berruecos",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "490",
+"descripcion": "bocas de satinga",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "110",
+"descripcion": "buesaco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "224",
+"descripcion": "carlosama",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "001001",
+"descripcion": "catambuco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "240",
+"descripcion": "chachagüí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "207",
+"descripcion": "consacá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "210",
+"descripcion": "contadero",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "215",
+"descripcion": "cordoba n",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "560011",
+"descripcion": "cuaspud nucleo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "227",
+"descripcion": "cumbal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "233",
+"descripcion": "cumbitara",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "250",
+"descripcion": "el charco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "001003",
+"descripcion": "el encano",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "254",
+"descripcion": "el peñol",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "256",
+"descripcion": "el rosario",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "258",
+"descripcion": "el tablón de gomez",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "260",
+"descripcion": "el tambo (na)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "287",
+"descripcion": "funes",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "203",
+"descripcion": "genova (n)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "699",
+"descripcion": "guachaves",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "317",
+"descripcion": "guachucal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "320",
+"descripcion": "guaitarilla",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "323",
+"descripcion": "gualmatán",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "352",
+"descripcion": "iles",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "354",
+"descripcion": "imués",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "356",
+"descripcion": "ipiales",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "696",
+"descripcion": "iscuande",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "378",
+"descripcion": "la cruz",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "381",
+"descripcion": "la florida (n)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "385",
+"descripcion": "la llanada",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "390",
+"descripcion": "la tola",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "399",
+"descripcion": "la unión",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "405",
+"descripcion": "leiva",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "411",
+"descripcion": "linares",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "473",
+"descripcion": "mosquera",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "480",
+"descripcion": "nariño",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "207003",
+"descripcion": "olaya herrera",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "506",
+"descripcion": "ospina",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "001",
+"descripcion": "pasto",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "427",
+"descripcion": "payan",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "435",
+"descripcion": "piedrancha",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "540",
+"descripcion": "policarpa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "560",
+"descripcion": "potosí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "565",
+"descripcion": "providencia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "573",
+"descripcion": "puerres",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "585",
+"descripcion": "pupiales",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "427006",
+"descripcion": "ricaurte (n)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "612",
+"descripcion": "ricaurte (na)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "520",
+"descripcion": "salahonda",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "678",
+"descripcion": "samaniego",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "683003",
+"descripcion": "san bernardo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "019",
+"descripcion": "san josé",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "621",
+"descripcion": "roberto payán",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "687",
+"descripcion": "san lorenzo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "693",
+"descripcion": "san pablo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "694",
+"descripcion": "san pedro de cartago",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "683",
+"descripcion": "sandona",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "683004",
+"descripcion": "santa barbara",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "720",
+"descripcion": "sapuyes",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "418",
+"descripcion": "sotomayor",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "786",
+"descripcion": "taminango",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "788",
+"descripcion": "tangua",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "835",
+"descripcion": "tumaco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "838",
+"descripcion": "tuquerres",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "885",
+"descripcion": "yacuanquer",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "52",
+"codigo": "685",
+"descripcion": "SAN BERNARDO",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "54",
+"descripcion": "NORTE DE SANTANDER",
+"ciudades": [
+{
+"departamento_codigo": "54",
+"codigo": "003",
+"descripcion": "abrego",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "498002",
+"descripcion": "aguas claras",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "051",
+"descripcion": "arboledas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "099",
+"descripcion": "bochalema",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "109",
+"descripcion": "bucarasica",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "128",
+"descripcion": "cáchira",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "125",
+"descripcion": "cácota",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "810017",
+"descripcion": "campo dos",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "172",
+"descripcion": "chinácota",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "174",
+"descripcion": "chitagá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "206",
+"descripcion": "convención",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "001",
+"descripcion": "cúcuta",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "223",
+"descripcion": "cucutilla",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "239",
+"descripcion": "durania",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "245",
+"descripcion": "el carmen",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "250",
+"descripcion": "el tarra",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "261",
+"descripcion": "el zulia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "313",
+"descripcion": "gramalote",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "344",
+"descripcion": "hacarí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "347",
+"descripcion": "herrán",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "099002",
+"descripcion": "la donjuana",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "385",
+"descripcion": "la esperanza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "498009",
+"descripcion": "la floresta",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "001033",
+"descripcion": "la jarra",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "398",
+"descripcion": "la playa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "206012",
+"descripcion": "la vega",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "377",
+"descripcion": "labateca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "405",
+"descripcion": "los patios",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "418",
+"descripcion": "lourdes",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "480",
+"descripcion": "mutiscua",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "498",
+"descripcion": "ocaña",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "874008",
+"descripcion": "palo gordo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "518",
+"descripcion": "pamplona",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "520",
+"descripcion": "pamplonita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "553",
+"descripcion": "puerto santander",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "599",
+"descripcion": "ragonvalia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "660",
+"descripcion": "salazar",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "820008",
+"descripcion": "san bernardo de bata",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "670",
+"descripcion": "san calixto",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "673",
+"descripcion": "san cayetano",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "680",
+"descripcion": "santiago",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "720",
+"descripcion": "sardinata",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "743",
+"descripcion": "silos",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "800",
+"descripcion": "teorama",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "810",
+"descripcion": "tibu",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "820",
+"descripcion": "toledo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "871",
+"descripcion": "villa caro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "54",
+"codigo": "874",
+"descripcion": "villa del rosario",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "86",
+"descripcion": "PUTUMAYO",
+"ciudades": [
+{
+"departamento_codigo": "86",
+"codigo": "219",
+"descripcion": "colon",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "86",
+"codigo": "757",
+"descripcion": "la dorada (p)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "86",
+"codigo": "865",
+"descripcion": "la hormiga",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "86",
+"codigo": "001",
+"descripcion": "mocoa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "86",
+"codigo": "320",
+"descripcion": "orito",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "86",
+"codigo": "568",
+"descripcion": "puerto asis",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "86",
+"codigo": "569",
+"descripcion": "puerto caicedo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "86",
+"codigo": "571",
+"descripcion": "puerto guzman",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "86",
+"codigo": "755",
+"descripcion": "san francisco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "86",
+"codigo": "568019",
+"descripcion": "santana",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "86",
+"codigo": "760",
+"descripcion": "santiago",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "86",
+"codigo": "749",
+"descripcion": "sibundoy",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "86",
+"codigo": "885",
+"descripcion": "villagarzon",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "86",
+"codigo": "573",
+"descripcion": "PUERTO LEGUIZAMO",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "63",
+"descripcion": "QUINDÍO",
+"ciudades": [
+{
+"departamento_codigo": "63",
+"codigo": "001",
+"descripcion": "armenia (q)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "63",
+"codigo": "130001",
+"descripcion": "barcelona",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "63",
+"codigo": "111",
+"descripcion": "buenavista",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "63",
+"codigo": "130",
+"descripcion": "calarcá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "63",
+"codigo": "190",
+"descripcion": "circasia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "63",
+"codigo": "212",
+"descripcion": "córdoba",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "63",
+"codigo": "001001",
+"descripcion": "el caimo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "63",
+"codigo": "272",
+"descripcion": "filandia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "63",
+"codigo": "302",
+"descripcion": "genova (q)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "63",
+"codigo": "401",
+"descripcion": "la tebaida",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "63",
+"codigo": "470",
+"descripcion": "montenegro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "63",
+"codigo": "548",
+"descripcion": "pijao",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "63",
+"codigo": "470003",
+"descripcion": "pueblo tapado",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "63",
+"codigo": "594",
+"descripcion": "quimbaya",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "63",
+"codigo": "690",
+"descripcion": "salento",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "66",
+"descripcion": "RISARALDA",
+"ciudades": [
+{
+"departamento_codigo": "66",
+"codigo": "001001",
+"descripcion": "altagracia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "66",
+"codigo": "045",
+"descripcion": "apía",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "66",
+"codigo": "075",
+"descripcion": "balboa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "66",
+"codigo": "088",
+"descripcion": "belén de umbría",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "66",
+"codigo": "170",
+"descripcion": "dosquebradas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "66",
+"codigo": "001049",
+"descripcion": "el crucero de combia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "66",
+"codigo": "318",
+"descripcion": "guática",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "66",
+"codigo": "594002",
+"descripcion": "irra",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "66",
+"codigo": "383",
+"descripcion": "la celia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "66",
+"codigo": "400",
+"descripcion": "la virginia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "66",
+"codigo": "440",
+"descripcion": "marsella",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "66",
+"codigo": "456",
+"descripcion": "mistrato",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "66",
+"codigo": "001",
+"descripcion": "pereira",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "66",
+"codigo": "572",
+"descripcion": "pueblo rico",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "66",
+"codigo": "594",
+"descripcion": "quinchia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "66",
+"codigo": "682",
+"descripcion": "santa rosa de cabal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "66",
+"codigo": "687",
+"descripcion": "santuario",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "66",
+"codigo": "001004",
+"descripcion": "CAIMALITO",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "68",
+"descripcion": "SANTANDER",
+"ciudades": [
+{
+"departamento_codigo": "68",
+"codigo": "307007",
+"descripcion": "acapulco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "013",
+"descripcion": "aguada",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "020",
+"descripcion": "albania (s)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "051",
+"descripcion": "aratoca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "077",
+"descripcion": "barbosa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "079",
+"descripcion": "barichara",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "081",
+"descripcion": "barrancabermeja",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "092",
+"descripcion": "betulia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "101",
+"descripcion": "bolivar",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "001",
+"descripcion": "bucaramanga",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "121",
+"descripcion": "cabrera",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "132",
+"descripcion": "california (s)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "147",
+"descripcion": "capitanejo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "152",
+"descripcion": "carcasi",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "160",
+"descripcion": "cepita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "162",
+"descripcion": "cerrito",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "167",
+"descripcion": "charala",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "169",
+"descripcion": "charta",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "176",
+"descripcion": "chima (s)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "179",
+"descripcion": "chipata",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "190",
+"descripcion": "cimitarra",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "077001",
+"descripcion": "cite",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "207",
+"descripcion": "concepcion",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "209",
+"descripcion": "confines",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "211",
+"descripcion": "contratacion",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "217",
+"descripcion": "coromoro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "229",
+"descripcion": "curiti",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "235",
+"descripcion": "el carmen de chucuri",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "081001",
+"descripcion": "el centro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "245",
+"descripcion": "el guacamayo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "081002",
+"descripcion": "el llanito",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "250",
+"descripcion": "el peñon",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "255",
+"descripcion": "el playon",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "264",
+"descripcion": "encino",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "266",
+"descripcion": "enciso",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "271",
+"descripcion": "florian",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "276",
+"descripcion": "floridablanca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "296",
+"descripcion": "galan (s)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "298",
+"descripcion": "gambita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "307",
+"descripcion": "giron",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "318",
+"descripcion": "guaca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "320",
+"descripcion": "guadalupe",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "322",
+"descripcion": "guapota",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "324",
+"descripcion": "guavata",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "327",
+"descripcion": "guepsa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "344",
+"descripcion": "hato (s)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "368",
+"descripcion": "jesus maria",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "370",
+"descripcion": "jordan sube",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "377",
+"descripcion": "la belleza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "397",
+"descripcion": "la paz",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "385",
+"descripcion": "landazuri",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "406",
+"descripcion": "lebrija",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "081009",
+"descripcion": "los laureles",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "418",
+"descripcion": "los santos",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "425",
+"descripcion": "macaravita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "432",
+"descripcion": "malaga",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "444",
+"descripcion": "matanza",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "464",
+"descripcion": "mogotes",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "468",
+"descripcion": "molagavita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "498",
+"descripcion": "ocamonte",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "500",
+"descripcion": "oiba",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "770001",
+"descripcion": "olival",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "502",
+"descripcion": "onzaga",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "522",
+"descripcion": "palmar (s)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "524",
+"descripcion": "palmas del socorro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "533",
+"descripcion": "paramo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "547",
+"descripcion": "piedecuesta",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "549",
+"descripcion": "pinchote",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "572",
+"descripcion": "puente nacional",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "575015",
+"descripcion": "puente sogamoso",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "190002",
+"descripcion": "puerto araujo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "573",
+"descripcion": "puerto parra",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "575",
+"descripcion": "puerto wilches",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "615",
+"descripcion": "rionegro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "655",
+"descripcion": "sabana de torres",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "669",
+"descripcion": "san andres",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "673",
+"descripcion": "san benito",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "673003",
+"descripcion": "san benito nuevo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "679",
+"descripcion": "san gil",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "682",
+"descripcion": "san joaquín",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "684",
+"descripcion": "san josé de miranda",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "686",
+"descripcion": "san miguel",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "615031",
+"descripcion": "san rafael",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "689",
+"descripcion": "san vicente de chucurí",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "705",
+"descripcion": "santa barbara",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "720",
+"descripcion": "santa helena del opón",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "745",
+"descripcion": "simacota",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "755",
+"descripcion": "socorro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "092011",
+"descripcion": "sogamoso",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "770",
+"descripcion": "suaita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "773",
+"descripcion": "sucre",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "780",
+"descripcion": "suratá",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "092008",
+"descripcion": "tienda nueva",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "820",
+"descripcion": "tona",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "770003",
+"descripcion": "vado real",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "855",
+"descripcion": "valle de san josé",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "861",
+"descripcion": "velez",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "867",
+"descripcion": "vetas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "872",
+"descripcion": "villanueva",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "689012",
+"descripcion": "yarima",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "895",
+"descripcion": "zapatoca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "820001",
+"descripcion": "BERLIN",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "217001",
+"descripcion": "CINCELADA",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "68",
+"codigo": "081010",
+"descripcion": "LA FORTUNA",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "70",
+"descripcion": "SUCRE",
+"ciudades": [
+{
+"departamento_codigo": "70",
+"codigo": "110",
+"descripcion": "buenavista",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "124",
+"descripcion": "caimito",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "230",
+"descripcion": "chalan",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "215",
+"descripcion": "corozal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "221",
+"descripcion": "coveñas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "233",
+"descripcion": "el roble",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "235",
+"descripcion": "galeras",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "265",
+"descripcion": "guaranda",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "823018",
+"descripcion": "guayabal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "400",
+"descripcion": "la union (s)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "418",
+"descripcion": "los palmitos",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "429",
+"descripcion": "majagual",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "473",
+"descripcion": "morroa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "508",
+"descripcion": "ovejas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "523",
+"descripcion": "palmito",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "204",
+"descripcion": "ricaurte (coloso)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "670",
+"descripcion": "sampues",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "678",
+"descripcion": "san benito abad",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "702",
+"descripcion": "san juan de betulia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "708",
+"descripcion": "san marcos",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "713",
+"descripcion": "san onofre",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "717",
+"descripcion": "san pedro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "742",
+"descripcion": "since",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "001",
+"descripcion": "sincelejo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "771",
+"descripcion": "sucre (s)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "820",
+"descripcion": "tolu",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "823",
+"descripcion": "tolu viejo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "70",
+"codigo": "678012",
+"descripcion": "GUAYABAL",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "73",
+"descripcion": "TOLIMA",
+"ciudades": [
+{
+"departamento_codigo": "73",
+"codigo": "024",
+"descripcion": "alpujarra",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "026",
+"descripcion": "alvarado",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "030",
+"descripcion": "ambalema",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "055",
+"descripcion": "armero",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "067",
+"descripcion": "ataco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "001001",
+"descripcion": "buenos aires",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "124",
+"descripcion": "cajamarca",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "148",
+"descripcion": "carmen de apicala",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "168",
+"descripcion": "chaparral",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "268001",
+"descripcion": "chicoral",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "217",
+"descripcion": "coyaima",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "226",
+"descripcion": "cunday",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "236",
+"descripcion": "dolores",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "268",
+"descripcion": "espinal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "270",
+"descripcion": "falan",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "275",
+"descripcion": "flandes",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "283",
+"descripcion": "fresno",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "555002",
+"descripcion": "gaitania",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "200001",
+"descripcion": "gualanday",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "319",
+"descripcion": "guamo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "616001",
+"descripcion": "herrera",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "347",
+"descripcion": "herveo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "349",
+"descripcion": "honda",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "001",
+"descripcion": "ibague",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "352",
+"descripcion": "icononzo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "408",
+"descripcion": "lerida",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "411",
+"descripcion": "libano",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "443",
+"descripcion": "mariquita",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "449",
+"descripcion": "melgar",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "461",
+"descripcion": "murillo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "483",
+"descripcion": "natagaima",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "504",
+"descripcion": "ortega",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "030004",
+"descripcion": "pajonales",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "520",
+"descripcion": "palocabildo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "547",
+"descripcion": "piedras",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "555",
+"descripcion": "planadas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "563",
+"descripcion": "prado",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "585",
+"descripcion": "purificacion",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "616",
+"descripcion": "rioblanco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "622",
+"descripcion": "roncesvalles",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "624",
+"descripcion": "rovira",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "671",
+"descripcion": "saldaña",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "675",
+"descripcion": "san antonio",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "678",
+"descripcion": "san luis",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "686",
+"descripcion": "santa isabel",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "067007",
+"descripcion": "santiago perez",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "770",
+"descripcion": "suarez",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "854",
+"descripcion": "valle de san juan",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "861",
+"descripcion": "venadillo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "870",
+"descripcion": "villahermosa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "873",
+"descripcion": "villarrica (t)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "152",
+"descripcion": "CASABIANCA",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "043",
+"descripcion": "ANZOATEGUI",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "200",
+"descripcion": "COELLO",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "73",
+"codigo": "504008",
+"descripcion": "OLAYA HERRERA",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "76",
+"descripcion": "VALLE ",
+"ciudades": [
+{
+"departamento_codigo": "76",
+"codigo": "020",
+"descripcion": "alcala",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "520002",
+"descripcion": "amaime",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "036",
+"descripcion": "andalucia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "041",
+"descripcion": "anserma nuevo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "054",
+"descripcion": "argelia (v)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "100",
+"descripcion": "bolivar (v)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "233002",
+"descripcion": "borrero ayerbe",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "109",
+"descripcion": "buenaventura",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "111",
+"descripcion": "buga",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "113",
+"descripcion": "bugalagrande",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "122",
+"descripcion": "caicedonia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "001",
+"descripcion": "cali",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "130",
+"descripcion": "candelaria",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "147",
+"descripcion": "cartago",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "001024",
+"descripcion": "cascajal i",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "233",
+"descripcion": "dagua",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "126",
+"descripcion": "darien (calima)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "243",
+"descripcion": "el aguila",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "130003",
+"descripcion": "el cabuyal (v)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "246",
+"descripcion": "el cairo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "130004",
+"descripcion": "el carmelo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "248",
+"descripcion": "el cerrito",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "250",
+"descripcion": "el dovio",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "111002",
+"descripcion": "el placer (v)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "233011",
+"descripcion": "el queremal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "001001",
+"descripcion": "el saladito",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "275",
+"descripcion": "florida",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "306",
+"descripcion": "ginebra",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "318004",
+"descripcion": "guabitas",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "318",
+"descripcion": "guacari",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "364",
+"descripcion": "jamundi",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "377",
+"descripcion": "la cumbre",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "895002",
+"descripcion": "la paila",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "400",
+"descripcion": "la union (v)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "403",
+"descripcion": "la victoria (v)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "497",
+"descripcion": "obando",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "520",
+"descripcion": "palmira",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "563",
+"descripcion": "pradera",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "606",
+"descripcion": "restrepo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "616",
+"descripcion": "riofrio",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "622",
+"descripcion": "roldanillo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "520026",
+"descripcion": "rozo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "275011",
+"descripcion": "san antonio de los caballeros",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "670",
+"descripcion": "san pedro(v)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "248009",
+"descripcion": "santa elena",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "736",
+"descripcion": "sevilla",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "823",
+"descripcion": "toro",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "828",
+"descripcion": "trujillo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "834",
+"descripcion": "tulua",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "845",
+"descripcion": "ulloa",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "863",
+"descripcion": "versalles",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "869",
+"descripcion": "vijes",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "130008",
+"descripcion": "villa gorgona",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "890",
+"descripcion": "yotoco",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "892",
+"descripcion": "yumbo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "109078",
+"descripcion": "zaragoza (v)",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "895",
+"descripcion": "zarzal",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "126013",
+"descripcion": "PUENTE TIERRA",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "109900",
+"descripcion": "BAHÍA MÁLAGA",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "76",
+"codigo": "233017",
+"descripcion": "LOBO GUERRERO",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "97",
+"descripcion": "VAUPÉS",
+"ciudades": [
+{
+"departamento_codigo": "97",
+"codigo": "161",
+"descripcion": "caruru",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "97",
+"codigo": "666",
+"descripcion": "taraira",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "97",
+"codigo": "001",
+"descripcion": "mitu",
+"habilitar_envio": 1
+}
+]
+},
+{
+"codigo": "99",
+"descripcion": "VICHADA",
+"ciudades": [
+{
+"departamento_codigo": "99",
+"codigo": "773",
+"descripcion": "cumaribo",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "99",
+"codigo": "524",
+"descripcion": "la primavera",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "99",
+"codigo": "624",
+"descripcion": "santa rosalia",
+"habilitar_envio": 1
+},
+{
+"departamento_codigo": "99",
+"codigo": "001",
+"descripcion": "puerto carreño",
+"habilitar_envio": 1
+}
+]
+}
+]
+}
