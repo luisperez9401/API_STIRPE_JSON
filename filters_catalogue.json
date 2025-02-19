@@ -1,0 +1,1643 @@
+{
+"tallas": [
+{
+"id": "XS",
+"descripcion": "XS"
+},
+{
+"id": "SS",
+"descripcion": "S"
+},
+{
+"id": "04",
+"descripcion": "04"
+},
+{
+"id": "MM",
+"descripcion": "M"
+},
+{
+"id": "05",
+"descripcion": "05"
+},
+{
+"id": "LL",
+"descripcion": "L"
+},
+{
+"id": "06",
+"descripcion": "06"
+},
+{
+"id": "08",
+"descripcion": "08"
+},
+{
+"id": "10",
+"descripcion": "10"
+},
+{
+"id": "12",
+"descripcion": "12"
+},
+{
+"id": "14",
+"descripcion": "14"
+},
+{
+"id": "16",
+"descripcion": "16"
+}
+],
+"tallas_todo": [
+{
+"id": "00",
+"descripcion": "LASIFICAR"
+},
+{
+"id": "04",
+"descripcion": "04"
+},
+{
+"id": "05",
+"descripcion": "05"
+},
+{
+"id": "06",
+"descripcion": "06"
+},
+{
+"id": "08",
+"descripcion": "08"
+},
+{
+"id": "09",
+"descripcion": "09"
+},
+{
+"id": "10",
+"descripcion": "10"
+},
+{
+"id": "11",
+"descripcion": "11"
+},
+{
+"id": "15",
+"descripcion": "11.5"
+},
+{
+"id": "12",
+"descripcion": "12"
+},
+{
+"id": "125",
+"descripcion": "125"
+},
+{
+"id": "13",
+"descripcion": "13"
+},
+{
+"id": "14",
+"descripcion": "14"
+},
+{
+"id": "16",
+"descripcion": "16"
+},
+{
+"id": "20",
+"descripcion": "20"
+},
+{
+"id": "26",
+"descripcion": "26"
+},
+{
+"id": "28",
+"descripcion": "28"
+},
+{
+"id": "30",
+"descripcion": "30"
+},
+{
+"id": "31",
+"descripcion": "31"
+},
+{
+"id": "32",
+"descripcion": "32"
+},
+{
+"id": "33",
+"descripcion": "33"
+},
+{
+"id": "34",
+"descripcion": "34"
+},
+{
+"id": "35",
+"descripcion": "35"
+},
+{
+"id": "36",
+"descripcion": "36"
+},
+{
+"id": "37",
+"descripcion": "37"
+},
+{
+"id": "38",
+"descripcion": "38"
+},
+{
+"id": "39",
+"descripcion": "39"
+},
+{
+"id": "45",
+"descripcion": "4.5"
+},
+{
+"id": "40",
+"descripcion": "40"
+},
+{
+"id": "41",
+"descripcion": "41"
+},
+{
+"id": "42",
+"descripcion": "42"
+},
+{
+"id": "43",
+"descripcion": "43"
+},
+{
+"id": "44",
+"descripcion": "44"
+},
+{
+"id": "50",
+"descripcion": "5.0"
+},
+{
+"id": "55",
+"descripcion": "5.5"
+},
+{
+"id": "60",
+"descripcion": "6.0"
+},
+{
+"id": "65",
+"descripcion": "6.5"
+},
+{
+"id": "70",
+"descripcion": "7.0"
+},
+{
+"id": "75",
+"descripcion": "7.5"
+},
+{
+"id": "80",
+"descripcion": "8.0"
+},
+{
+"id": "85",
+"descripcion": "8.5"
+},
+{
+"id": "90",
+"descripcion": "9.0"
+},
+{
+"id": "95",
+"descripcion": "9.5"
+},
+{
+"id": "LL",
+"descripcion": "L"
+},
+{
+"id": "LXL",
+"descripcion": "LXL"
+},
+{
+"id": "ML",
+"descripcion": "M"
+},
+{
+"id": "MM",
+"descripcion": "M"
+},
+{
+"id": "SS",
+"descripcion": "S"
+},
+{
+"id": "SM",
+"descripcion": "S"
+},
+{
+"id": "UN",
+"descripcion": "UNICA"
+},
+{
+"id": "XL",
+"descripcion": "XL"
+},
+{
+"id": "XS",
+"descripcion": "XS"
+},
+{
+"id": "XSS",
+"descripcion": "XSS"
+},
+{
+"id": "XXL",
+"descripcion": "XXL"
+},
+{
+"id": "XXS",
+"descripcion": "XXS"
+}
+],
+"colores": [
+{
+"id": "BL",
+"descripcion": "BLANCO",
+"color_hx": "#FFFFFF"
+},
+{
+"id": "AR",
+"descripcion": "ARENA",
+"color_hx": "#FFFBE3"
+},
+{
+"id": "CR",
+"descripcion": "CRUDO",
+"color_hx": "#FFEAD7"
+},
+{
+"id": "BG",
+"descripcion": "BEIGE",
+"color_hx": "#F5F5DC"
+},
+{
+"id": "GR",
+"descripcion": "GRIS",
+"color_hx": "#9D9D9D"
+},
+{
+"id": "KQ",
+"descripcion": "CAQUI",
+"color_hx": "#9C866B"
+},
+{
+"id": "AZ",
+"descripcion": "AZUL",
+"color_hx": "#2196F3"
+},
+{
+"id": "FS",
+"descripcion": "FUCSIA",
+"color_hx": "#FA3BFF"
+},
+{
+"id": "CM",
+"descripcion": "CAMEL",
+"color_hx": "#C7883B"
+},
+{
+"id": "VT",
+"descripcion": "VINOTINTO",
+"color_hx": "#741D2A"
+},
+{
+"id": "VD",
+"descripcion": "VERDE",
+"color_hx": "#20CE00"
+},
+{
+"id": "CF",
+"descripcion": "CAFÉ",
+"color_hx": "#844205"
+},
+{
+"id": "RJ",
+"descripcion": "ROJO",
+"color_hx": "#ff0000"
+},
+{
+"id": "TR",
+"descripcion": "TERRACOTA",
+"color_hx": "#bd3120"
+},
+{
+"id": "VO",
+"descripcion": "VERDE OSCURO",
+"color_hx": "#004F07"
+},
+{
+"id": "NG",
+"descripcion": "NEGRO",
+"color_hx": "#000000"
+}
+],
+"colores_todo": [
+{
+"id": "AM",
+"descripcion": "AMARILLO",
+"color_hx": "#FFD800"
+},
+{
+"id": "AL",
+"descripcion": "AMARILLO CLARO",
+"color_hx": "#f7f77f"
+},
+{
+"id": "AR",
+"descripcion": "ARENA",
+"color_hx": "#FFFBE3"
+},
+{
+"id": "AZ",
+"descripcion": "AZUL",
+"color_hx": "#2196F3"
+},
+{
+"id": "AC",
+"descripcion": "AZUL CLARO",
+"color_hx": "#2BB7FF"
+},
+{
+"id": "AD",
+"descripcion": "AZUL MEDIO",
+"color_hx": "#2196F3"
+},
+{
+"id": "AV",
+"descripcion": "AZUL NAVY",
+"color_hx": "#0080A5"
+},
+{
+"id": "AO",
+"descripcion": "AZUL OSCURO",
+"color_hx": "#2196F3"
+},
+{
+"id": "AP",
+"descripcion": "AZUL PETROLEO",
+"color_hx": "#000B57"
+},
+{
+"id": "AY",
+"descripcion": "AZUL REY",
+"color_hx": "#2196F3"
+},
+{
+"id": "BG",
+"descripcion": "BEIGE",
+"color_hx": "#F5F5DC"
+},
+{
+"id": "BC",
+"descripcion": "BEIGE CLARO",
+"color_hx": "#eddec6"
+},
+{
+"id": "BL",
+"descripcion": "BLANCO",
+"color_hx": "#FFFFFF"
+},
+{
+"id": "BH",
+"descripcion": "BLANCO HUESO",
+"color_hx": "#eeebe7"
+},
+{
+"id": "CF",
+"descripcion": "CAFÉ",
+"color_hx": "#844205"
+},
+{
+"id": "CC",
+"descripcion": "CAFE CLARO",
+"color_hx": "#da946f"
+},
+{
+"id": "CD",
+"descripcion": "CAFE MEDIO",
+"color_hx": "#bd7553"
+},
+{
+"id": "CM",
+"descripcion": "CAMEL",
+"color_hx": "#C7883B"
+},
+{
+"id": "KQ",
+"descripcion": "CAQUI",
+"color_hx": "#9C866B"
+},
+{
+"id": "CP",
+"descripcion": "CHAMPAN",
+"color_hx": "#f2e3d3"
+},
+{
+"id": "CO",
+"descripcion": "CORAL",
+"color_hx": "#FF2F84"
+},
+{
+"id": "CS",
+"descripcion": "CORAL OSCURO",
+"color_hx": "#c85844"
+},
+{
+"id": "CR",
+"descripcion": "CRUDO",
+"color_hx": "#FFEAD7"
+},
+{
+"id": "CB",
+"descripcion": "CURUBA",
+"color_hx": "#f6ba94"
+},
+{
+"id": "DO",
+"descripcion": "DORADO",
+"color_hx": "#FFBF00"
+},
+{
+"id": "FS",
+"descripcion": "FUCSIA",
+"color_hx": "#FA3BFF"
+},
+{
+"id": "GR",
+"descripcion": "GRIS",
+"color_hx": "#9D9D9D"
+},
+{
+"id": "GC",
+"descripcion": "GRIS CLARO",
+"color_hx": "#CCCCCC"
+},
+{
+"id": "GJ",
+"descripcion": "GRIS JASPE",
+"color_hx": "#9D9D9D"
+},
+{
+"id": "GM",
+"descripcion": "GRIS MEDIO",
+"color_hx": "#dbdbdb"
+},
+{
+"id": "GO",
+"descripcion": "GRIS OSCURO",
+"color_hx": "#808080"
+},
+{
+"id": "KO",
+"descripcion": "KAQUI OSCURO",
+"color_hx": "#8b864e"
+},
+{
+"id": "LD",
+"descripcion": "LADRILLO",
+"color_hx": "#db6d50"
+},
+{
+"id": "LA",
+"descripcion": "LAVENDER",
+"color_hx": "#d9aaf6"
+},
+{
+"id": "LI",
+"descripcion": "LILA",
+"color_hx": "#85008F"
+},
+{
+"id": "LM",
+"descripcion": "LIMA",
+"color_hx": "#bcf100"
+},
+{
+"id": "MD",
+"descripcion": "MANDARINA",
+"color_hx": "#f78100"
+},
+{
+"id": "MR",
+"descripcion": "MORADO",
+"color_hx": "#7000B2"
+},
+{
+"id": "MC",
+"descripcion": "MORADO CLARO",
+"color_hx": "#CA7AF5"
+},
+{
+"id": "MO",
+"descripcion": "MORADO OSCURO",
+"color_hx": "#580088"
+},
+{
+"id": "MT",
+"descripcion": "MOSTAZA",
+"color_hx": "#ffa347"
+},
+{
+"id": "MU",
+"descripcion": "MULTICOLORES",
+"color_hx": "#b510a5"
+},
+{
+"id": "NJ",
+"descripcion": "NARANJA",
+"color_hx": "#EE5200"
+},
+{
+"id": "NM",
+"descripcion": "NARANJA MEDIO",
+"color_hx": "#FFA500"
+},
+{
+"id": "NG",
+"descripcion": "NEGRO",
+"color_hx": "#000000"
+},
+{
+"id": "NC",
+"descripcion": "NEGRO CLARO",
+"color_hx": "#313439"
+},
+{
+"id": "NI",
+"descripcion": "NIGHT",
+"color_hx": "#040346"
+},
+{
+"id": "NU",
+"descripcion": "NUDE",
+"color_hx": "#e8cbc1"
+},
+{
+"id": "OC",
+"descripcion": "OCRE",
+"color_hx": "#c77321"
+},
+{
+"id": "OR",
+"descripcion": "ORO ROSA",
+"color_hx": "#ffc0cb"
+},
+{
+"id": "PR",
+"descripcion": "PALO DE ROSA",
+"color_hx": "#ecbbba"
+},
+{
+"id": "PT",
+"descripcion": "PLATEADO",
+"color_hx": "#C8C8C8"
+},
+{
+"id": "RJ",
+"descripcion": "ROJO",
+"color_hx": "#ff0000"
+},
+{
+"id": "RM",
+"descripcion": "ROJO MEDIO",
+"color_hx": "#ee0000"
+},
+{
+"id": "RO",
+"descripcion": "ROJO OSCURO",
+"color_hx": "#cd0000"
+},
+{
+"id": "RS",
+"descripcion": "ROSADO",
+"color_hx": "#ffb5c5"
+},
+{
+"id": "RC",
+"descripcion": "ROSADO CLARO",
+"color_hx": "#ffc0cb"
+},
+{
+"id": "RE",
+"descripcion": "ROSADO MEDIO",
+"color_hx": "#f7bbce"
+},
+{
+"id": "RN",
+"descripcion": "ROSADO NEON",
+"color_hx": "#FF8BE3"
+},
+{
+"id": "TP",
+"descripcion": "TAUPE",
+"color_hx": "#C1B096"
+},
+{
+"id": "TR",
+"descripcion": "TERRACOTA",
+"color_hx": "#bd3120"
+},
+{
+"id": "AT",
+"descripcion": "TURQUI",
+"color_hx": "#142462"
+},
+{
+"id": "CU",
+"descripcion": "UNICO",
+"color_hx": "#CCCCCC"
+},
+{
+"id": "VD",
+"descripcion": "VERDE",
+"color_hx": "#20CE00"
+},
+{
+"id": "VG",
+"descripcion": "VERDE AGUAMARINA",
+"color_hx": "#028194"
+},
+{
+"id": "VB",
+"descripcion": "VERDE BRILLANTE",
+"color_hx": "#499B1D"
+},
+{
+"id": "VC",
+"descripcion": "VERDE CLARO",
+"color_hx": "#7BFFA1"
+},
+{
+"id": "VJ",
+"descripcion": "VERDE JADE",
+"color_hx": "#2fa48b"
+},
+{
+"id": "VM",
+"descripcion": "VERDE MEDIO",
+"color_hx": "#499B1D"
+},
+{
+"id": "VO",
+"descripcion": "VERDE OSCURO",
+"color_hx": "#004F07"
+},
+{
+"id": "VT",
+"descripcion": "VINOTINTO",
+"color_hx": "#741D2A"
+}
+],
+"marcas": [
+{
+"value": "derek",
+"text": "Derek",
+"query_name": "marcas"
+},
+{
+"value": "lovely",
+"text": "Derek lovely",
+"query_name": "marcas"
+},
+{
+"value": "gas",
+"text": "Gas",
+"query_name": "marcas"
+},
+{
+"value": "typer",
+"text": "Typer",
+"query_name": "marcas"
+},
+{
+"value": "unser",
+"text": "Unser",
+"query_name": "marcas"
+}
+],
+"marcas_todo": [
+{
+"value": "47",
+"text": "'47",
+"slug": "47"
+},
+{
+"value": "adidasoriginals",
+"text": "Adidas originals",
+"slug": "adidasoriginals"
+},
+{
+"value": "alpinestars",
+"text": "Alpinestars",
+"slug": "alpinestars"
+},
+{
+"value": "americanino",
+"text": "Americanino",
+"slug": "americanino"
+},
+{
+"value": "artdist",
+"text": "Artdist",
+"slug": "artdist"
+},
+{
+"value": "asics",
+"text": "Asics",
+"slug": "asics"
+},
+{
+"value": "bigstar",
+"text": "Big star",
+"slug": "bigstar"
+},
+{
+"value": "blackoud",
+"text": "Blackoud",
+"slug": "blackoud"
+},
+{
+"value": "chevignon",
+"text": "Chevignon",
+"slug": "chevignon"
+},
+{
+"value": "clover",
+"text": "Clover",
+"slug": "clover"
+},
+{
+"value": "cubitt",
+"text": "Cubitt",
+"slug": "cubitt"
+},
+{
+"value": "derek",
+"text": "Derek",
+"slug": "derek"
+},
+{
+"value": "lovely",
+"text": "Derek lovely",
+"slug": "lovely"
+},
+{
+"value": "diesel",
+"text": "Diesel",
+"slug": "diesel"
+},
+{
+"value": "edc",
+"text": "Edc by esprit",
+"slug": "edc"
+},
+{
+"value": "gshock",
+"text": "G-shock",
+"slug": "gshock"
+},
+{
+"value": "gas",
+"text": "Gas",
+"slug": "gas"
+},
+{
+"value": "girbaud",
+"text": "Girbaud",
+"slug": "girbaud"
+},
+{
+"value": "goorin",
+"text": "Goorin bros",
+"slug": "goorin"
+},
+{
+"value": "groggy",
+"text": "Groggy",
+"slug": "groggy"
+},
+{
+"value": "hurley",
+"text": "Hurley",
+"slug": "hurley"
+},
+{
+"value": "jansport",
+"text": "Jansport",
+"slug": "jansport"
+},
+{
+"value": "john_hatter",
+"text": "John hatter",
+"slug": "john_hatter"
+},
+{
+"value": "lecoqsportif",
+"text": "Le coq sportif",
+"slug": "lecoqsportif"
+},
+{
+"value": "levis",
+"text": "Levis",
+"slug": "levis"
+},
+{
+"value": "michaelkors",
+"text": "Michael kors",
+"slug": "michaelkors"
+},
+{
+"value": "monastery",
+"text": "Monastery",
+"slug": "monastery"
+},
+{
+"value": "mulco",
+"text": "Mulco",
+"slug": "mulco"
+},
+{
+"value": "mundus",
+"text": "Mundus",
+"slug": "mundus"
+},
+{
+"value": "nautica",
+"text": "Nautica",
+"slug": "nautica"
+},
+{
+"value": "newbalance",
+"text": "New balance",
+"slug": "newbalance"
+},
+{
+"value": "newera",
+"text": "New era",
+"slug": "newera"
+},
+{
+"value": "nike",
+"text": "Nike",
+"slug": "nike"
+},
+{
+"value": "oakley",
+"text": "Oakley",
+"slug": "oakley"
+},
+{
+"value": "puma",
+"text": "Puma",
+"slug": "puma"
+},
+{
+"value": "rayban",
+"text": "Ray-ban",
+"slug": "rayban"
+},
+{
+"value": "reebok",
+"text": "Reebok",
+"slug": "reebok"
+},
+{
+"value": "replay",
+"text": "Replay",
+"slug": "replay"
+},
+{
+"value": "rsperformance",
+"text": "Rs performance",
+"slug": "rsperformance"
+},
+{
+"value": "scout",
+"text": "Scout",
+"slug": "scout"
+},
+{
+"value": "skechers",
+"text": "Skechers",
+"slug": "skechers"
+},
+{
+"value": "steve_madden",
+"text": "Steve madden",
+"slug": "steve_madden"
+},
+{
+"value": "superdry",
+"text": "Superdry",
+"slug": "superdry"
+},
+{
+"value": "typer",
+"text": "Typer",
+"slug": "typer"
+},
+{
+"value": "unico",
+"text": "Único",
+"slug": "unico"
+},
+{
+"value": "unser",
+"text": "Unser",
+"slug": "unser"
+},
+{
+"value": "vogue",
+"text": "Vogue",
+"slug": "vogue"
+}
+],
+"precios": [
+{
+"min": "73950",
+"max": "292950"
+}
+],
+"descuentos": [
+{
+"value": 50,
+"text": "Hasta 50%"
+}
+],
+"categorias": [
+{
+"slug": "ropa",
+"text": "Ropa",
+"cantidad": 1449
+},
+{
+"slug": "zapatos",
+"text": "Zapatos",
+"cantidad": 146
+},
+{
+"slug": "accesorios",
+"text": "Accesorios",
+"cantidad": 298
+}
+],
+"subcategorias": [
+{
+"slug": "ropa-chaquetas",
+"text": "Chaquetas"
+},
+{
+"slug": "ropa-jeans",
+"text": "Jeans"
+},
+{
+"slug": "ropa-blusas",
+"text": "Blusas"
+},
+{
+"slug": "ropa-camisas",
+"text": "Camisas"
+},
+{
+"slug": "ropa-shorts",
+"text": "Shorts"
+},
+{
+"slug": "ropa-buzos",
+"text": "Buzos"
+},
+{
+"slug": "ropa-camisetas",
+"text": "Camisetas"
+},
+{
+"slug": "ropa-medias",
+"text": "Medias"
+},
+{
+"slug": "ropa-polos",
+"text": "Polos"
+},
+{
+"slug": "ropa-pantalones",
+"text": "Pantalones"
+},
+{
+"slug": "ropa-tops",
+"text": "Tops"
+},
+{
+"slug": "ropa-chalecos",
+"text": "Chalecos"
+},
+{
+"slug": "ropa-vestidos",
+"text": "Vestidos"
+},
+{
+"slug": "ropa-overoles",
+"text": "Overoles"
+},
+{
+"slug": "ropa-faldas",
+"text": "Faldas"
+},
+{
+"slug": "ropa-trajedebano",
+"text": "Traje de baño"
+},
+{
+"slug": "ropa-cardigans",
+"text": "Cardigans"
+},
+{
+"slug": "ropa-pijamas",
+"text": "Pijamas"
+},
+{
+"slug": "ropa-accesoriosbolsos",
+"text": "Accesorios"
+},
+{
+"slug": "ropa-enterizosyconjuntos",
+"text": "Enterizos y conjuntos"
+},
+{
+"slug": "ropa-ropainterior",
+"text": "Ropa interior"
+}
+],
+"generos": [
+{
+"slug": "hombre",
+"text": "Hombre",
+"cantidad": 18,
+"id": "001"
+},
+{
+"slug": "mujer",
+"text": "Mujer",
+"cantidad": 60,
+"id": "002"
+}
+],
+"subcategorias_todo": [
+{
+"value": "accesoriosbolsos",
+"text": "Accesorios"
+},
+{
+"value": "accesorioscabello",
+"text": "Accesorios para el cabello"
+},
+{
+"value": "anillos",
+"text": "Anillos"
+},
+{
+"value": "antibacterial",
+"text": "Antibacterial"
+},
+{
+"value": "aretes",
+"text": "Aretes"
+},
+{
+"value": "baletas",
+"text": "Baletas"
+},
+{
+"value": "bambas",
+"text": "Bambas"
+},
+{
+"value": "bermudas",
+"text": "Bermudas"
+},
+{
+"value": "bermudaspantalonetas",
+"text": "Bermudas y pantalonetas"
+},
+{
+"value": "billeteras",
+"text": "Billeteras"
+},
+{
+"value": "blazer",
+"text": "Blazer"
+},
+{
+"value": "blusas",
+"text": "Blusas"
+},
+{
+"value": "bolsos",
+"text": "Bolsos"
+},
+{
+"value": "botas",
+"text": "Botas"
+},
+{
+"value": "botasybotines",
+"text": "Botas y botines"
+},
+{
+"value": "boxer",
+"text": "Boxer"
+},
+{
+"value": "brillo",
+"text": "Brillo"
+},
+{
+"value": "browkit",
+"text": "Brow kit"
+},
+{
+"value": "topicserum",
+"text": "Btx topic serum"
+},
+{
+"value": "bufandas",
+"text": "Bufandas"
+},
+{
+"value": "bufandasycorbatas",
+"text": "Bufandas y corbatas"
+},
+{
+"value": "buzos",
+"text": "Buzos"
+},
+{
+"value": "camisas",
+"text": "Camisas"
+},
+{
+"value": "camisetas",
+"text": "Camisetas"
+},
+{
+"value": "canguros",
+"text": "Canguros"
+},
+{
+"value": "capry",
+"text": "Capry"
+},
+{
+"value": "cardigans",
+"text": "Cardigans"
+},
+{
+"value": "chalecos",
+"text": "Chalecos"
+},
+{
+"value": "chaquetas",
+"text": "Chaquetas"
+},
+{
+"value": "collares",
+"text": "Collares"
+},
+{
+"value": "collarescadenas",
+"text": "Collares y cadenas"
+},
+{
+"value": "conjuntos",
+"text": "Conjuntos"
+},
+{
+"value": "correas",
+"text": "Correas"
+},
+{
+"value": "desmaquillante",
+"text": "Crema desmaquillante"
+},
+{
+"value": "cremas",
+"text": "Cremas"
+},
+{
+"value": "electronico",
+"text": "Electrónicos"
+},
+{
+"value": "enterizos",
+"text": "Enterizos"
+},
+{
+"value": "enterizosyconjuntos",
+"text": "Enterizos y conjuntos"
+},
+{
+"value": "escudofacial",
+"text": "Escudo facial"
+},
+{
+"value": "facematte",
+"text": "Face matte"
+},
+{
+"value": "faldas",
+"text": "Faldas"
+},
+{
+"value": "funda_de_pc",
+"text": "Funda de pc"
+},
+{
+"value": "gafas",
+"text": "Gafas"
+},
+{
+"value": "gorras",
+"text": "Gorras"
+},
+{
+"value": "iluminador",
+"text": "Iluminador"
+},
+{
+"value": "jeans",
+"text": "Jeans"
+},
+{
+"value": "jogger",
+"text": "Jogger"
+},
+{
+"value": "joyeria",
+"text": "JoyerÍa"
+},
+{
+"value": "kit",
+"text": "Kit"
+},
+{
+"value": "labial",
+"text": "Labial"
+},
+{
+"value": "leggins",
+"text": "Leggins"
+},
+{
+"value": "llaveros",
+"text": "Llaveros"
+},
+{
+"value": "maletas",
+"text": "Maletas"
+},
+{
+"value": "maletines",
+"text": "Maletines"
+},
+{
+"value": "manillas",
+"text": "Manillas"
+},
+{
+"value": "maquillaje",
+"text": "Maquillaje"
+},
+{
+"value": "medias",
+"text": "Medias"
+},
+{
+"value": "mocacines",
+"text": "Mocacines"
+},
+{
+"value": "morrales",
+"text": "Morrales"
+},
+{
+"value": "nauticos",
+"text": "Nauticos"
+},
+{
+"value": "overoles",
+"text": "Overoles"
+},
+{
+"value": "panoletas",
+"text": "PaÑoletas"
+},
+{
+"value": "pantalones",
+"text": "Pantalones"
+},
+{
+"value": "pantalonetas",
+"text": "Pantalonetas"
+},
+{
+"value": "parlantes",
+"text": "Parlantes"
+},
+{
+"value": "perfumes",
+"text": "Perfumes"
+},
+{
+"value": "pijamas",
+"text": "Pijamas"
+},
+{
+"value": "polos",
+"text": "Polos"
+},
+{
+"value": "polvocompacto",
+"text": "Polvo compacto"
+},
+{
+"value": "polvosellante",
+"text": "Polvo compacto sellante"
+},
+{
+"value": "publicidad",
+"text": "Publicidad"
+},
+{
+"value": "pulseras",
+"text": "Pulseras"
+},
+{
+"value": "relojes",
+"text": "Relojes"
+},
+{
+"value": "ropainterior",
+"text": "Ropa interior"
+},
+{
+"value": "rubor",
+"text": "Rubor"
+},
+{
+"value": "sandalias",
+"text": "Sandalias"
+},
+{
+"value": "sets",
+"text": "Sets"
+},
+{
+"value": "shorts",
+"text": "Shorts"
+},
+{
+"value": "sombras",
+"text": "Sombras"
+},
+{
+"value": "sombreros",
+"text": "Sombreros"
+},
+{
+"value": "splash",
+"text": "Splash"
+},
+{
+"value": "sticker",
+"text": "Sticker de uñas"
+},
+{
+"value": "sudadera",
+"text": "Sudaderas"
+},
+{
+"value": "tacones",
+"text": "Tacones"
+},
+{
+"value": "tapabocas",
+"text": "Tapabocas"
+},
+{
+"value": "tenis",
+"text": "Tenis"
+},
+{
+"value": "termos",
+"text": "Termos"
+},
+{
+"value": "tops",
+"text": "Tops"
+},
+{
+"value": "trajedebano",
+"text": "Traje de baño"
+},
+{
+"value": "vestidos",
+"text": "Vestidos"
+}
+],
+"filtros_simples": [],
+"atajos": [
+{
+"slug": "mujer-ropa-jeans",
+"text": "JEANS"
+},
+{
+"slug": "mujer-ropa-shorts",
+"text": "SHORTS"
+},
+{
+"slug": "mujer-ropa-medias",
+"text": "MEDIAS"
+},
+{
+"slug": "mujer-ropa-pantalones",
+"text": "PANTALONES"
+},
+{
+"slug": "mujer-ropa-faldas",
+"text": "FALDAS"
+},
+{
+"slug": "mujer-ropa-trajedebano",
+"text": "Traje de baño"
+},
+{
+"slug": "mujer-ropa-ropainterior",
+"text": "ROPA INTERIOR"
+}
+],
+"colecciones": [
+{
+"title": "Colecciones",
+"items": [
+{
+"slug": "casual",
+"text": "Casual",
+"query_name": "colecciones"
+},
+{
+"slug": "jeans_wear",
+"text": "Jeans Wear",
+"query_name": "colecciones"
+},
+{
+"slug": "lovely",
+"text": "Lovely",
+"query_name": "colecciones"
+},
+{
+"slug": "party",
+"text": "Party",
+"query_name": "colecciones"
+},
+{
+"slug": "premiun",
+"text": "Premiun",
+"query_name": "colecciones"
+}
+],
+"query_name": "colecciones"
+}
+],
+"colecciones_todo": [
+{
+"value": "casual",
+"text": "Casual",
+"slug": "casual"
+},
+{
+"value": "jeans_wear",
+"text": "Jeans Wear",
+"slug": "jeans_wear"
+},
+{
+"value": "party",
+"text": "Party",
+"slug": "party"
+},
+{
+"value": "premiun",
+"text": "Premiun",
+"slug": "premiun"
+},
+{
+"value": "lovely",
+"text": "Lovely",
+"slug": "lovely"
+},
+{
+"value": "luxury",
+"text": "Luxury",
+"slug": "luxury"
+},
+{
+"value": "work_day",
+"text": "Work Day",
+"slug": "work_day"
+},
+{
+"value": "boho_chic",
+"text": "Boho Chic",
+"slug": "boho_chic"
+},
+{
+"value": "deportivo",
+"text": "Deportivo",
+"slug": "deportivo"
+},
+{
+"value": "glam",
+"text": "Glam",
+"slug": "glam"
+}
+],
+"destacados_todo": [
+{
+"value": "sale",
+"text": "Descuentos",
+"slug": "sale"
+},
+{
+"value": "mas_visto",
+"text": "Novedades",
+"slug": "mas_visto"
+},
+{
+"value": "mas_vendido",
+"text": "Lo más vendido",
+"slug": "mas_vendido"
+},
+{
+"value": "novedades",
+"text": "Novedades",
+"slug": "novedades"
+},
+{
+"value": "exclusivo_online",
+"text": "Exclusivo online",
+"slug": "exclusivo_online"
+}
+],
+"destacados": [
+{
+"slug": "novedades",
+"text": "Novedades",
+"cantidad": 0,
+"query_name": "destacado"
+},
+{
+"slug": "sale",
+"text": "Descuentos",
+"cantidad": 0,
+"query_name": "destacado"
+},
+{
+"slug": "mas_visto",
+"text": "Más visto",
+"cantidad": 0,
+"query_name": "destacado"
+},
+{
+"slug": "mas_vendido",
+"text": "Más vendido",
+"cantidad": 0,
+"query_name": "destacado"
+},
+{
+"slug": "exclusivo_online",
+"text": "Exclusivo online",
+"cantidad": 0,
+"query_name": "destacado"
+}
+]
+}
