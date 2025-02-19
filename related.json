@@ -1,0 +1,423 @@
+{
+    "productos": [
+        {
+            "producto_sku": "835089",
+            "producto_titulo": "Gus Gorra Combinada Con Bordados Y Malla Unser",
+            "producto_precio": "107950",
+            "producto_precio_antes": "0.00",
+            "producto_porcentaje_dcto": 0,
+            "marca": "Unser",
+            "color": "CF",
+            "publicado": 1,
+            "categoria": "Accesorios",
+            "marca_slug": "unser",
+            "dia_siniva": 0,
+            "producto_precio_siniva": 90714,
+            "url": "product-835089-GUS-GORRA-COMBINADA-CON-BORDADOS-Y-MALLA-UNSER",
+            "tallas": [
+                {
+                    "id": "UN",
+                    "descripcion": "TALLA UNICA",
+                    "name": "\u00danica",
+                    "stock": 195,
+                    "orden": "0.0"
+                }
+            ],
+            "imagenes": [
+                "https:\/\/cdn.baguer.co\/uploads\/2025\/02\/gus-gorra-combinada-con-bordados-y-malla-unser-cafe-835089CF.webp_VyHw8lQogUq3BFtpvMO143c7grB6RK.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2025\/02\/gus-gorra-combinada-con-bordados-y-malla-unser-cafe-835089CF_A.webp_QgfEak4CMYMGD9NskTFVj7PhFfwQLG.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2025\/02\/gus-gorra-combinada-con-bordados-y-malla-unser-cafe-835089CF_B.webp_7YsHsEenvLEBx9JwAg3DsEx6pxcKk1.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2025\/02\/gus-gorra-combinada-con-bordados-y-malla-unser-cafe-835089CF_C.webp_GVepdF8efRSCquoHMIrxSYlip38cAJ.webp"
+            ],
+            "tags": [
+                {
+                    "tag": "nuevo",
+                    "value": "15",
+                    "color_fondo": "#001f5d",
+                    "color_texto": "#ffffff"
+                }
+            ]
+        },
+        {
+            "producto_sku": "830969",
+            "producto_titulo": "Gorra Para Hombre Unicolor Con Estampado En Parte Frontal Unser",
+            "producto_precio": "93950",
+            "producto_precio_antes": "0.00",
+            "producto_porcentaje_dcto": 0,
+            "marca": "Unser",
+            "color": "NG",
+            "publicado": 1,
+            "categoria": "Accesorios",
+            "marca_slug": "unser",
+            "dia_siniva": 0,
+            "producto_precio_siniva": 78950,
+            "url": "product-830969-GORRA-PARA-HOMBRE-UNICOLOR-CON-ESTAMPADO-EN-PARTE-FRONTAL-UNSER",
+            "tallas": [
+                {
+                    "id": "UN",
+                    "descripcion": "TALLA UNICA",
+                    "name": "\u00danica",
+                    "stock": 37,
+                    "orden": "0.0"
+                }
+            ],
+            "imagenes": [
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/08\/gorra-para-hombre-unicolor-con-estampado-en-parte-frontal-unser-negro-830969NG.jpg_6fn2wcSeVroOW1xqKx6M4urqeHUeWQf7EdBxAcMePpKEaCGhfo.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/08\/gorra-para-hombre-unicolor-con-estampado-en-parte-frontal-unser-negro-830969NG_A.jpg_eC5dJOcJ0bBYCcIlAOkI5mo6McYuw17IAcw7ToKSzV99JMoHVn.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/08\/gorra-para-hombre-unicolor-con-estampado-en-parte-frontal-unser-negro-830969NG_B.jpg_ZMj0Fd4pDlgTZ1LUyF2Un78z0l8jZiBLpEJ59ALH9vHeVGB4Ko.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/08\/gorra-para-hombre-unicolor-con-estampado-en-parte-frontal-unser-negro-830969NG_C.jpg_YqFmMspHmgnpn6YVGWGeLhTaXaze2eoCgFMOVjXxzGnTPpmDTz.webp"
+            ],
+            "tags": []
+        },
+        {
+            "producto_sku": "835307",
+            "producto_titulo": "Gorra Para Hombre Combinada Con Malla Y Bordado En Parte Frontal Unser",
+            "producto_precio": "93950",
+            "producto_precio_antes": "0.00",
+            "producto_porcentaje_dcto": 0,
+            "marca": "Unser",
+            "color": "KQ",
+            "publicado": 1,
+            "categoria": "Accesorios",
+            "marca_slug": "unser",
+            "dia_siniva": 0,
+            "producto_precio_siniva": 78950,
+            "url": "product-835307-GORRA-PARA-HOMBRE-COMBINADA-CON-MALLA-Y-BORDADO-EN-PARTE-FRONTAL-UNSER",
+            "tallas": [
+                {
+                    "id": "UN",
+                    "descripcion": "TALLA UNICA",
+                    "name": "\u00danica",
+                    "stock": 158,
+                    "orden": "0.0"
+                }
+            ],
+            "imagenes": [
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/gorra-para-hombre-combinada-con-malla-y-bordado-en-parte-frontal-unser-caqui-835307KQ.jpg_VpHaTROw5XxuS5wQjveh0mGTXNHetQLnynwBGGdAIcaQK7DoiF.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/gorra-para-hombre-combinada-con-malla-y-bordado-en-parte-frontal-unser-caqui-835307KQ_A.jpg_cJb4gDeB46oEFeOFS0S2Zh8Jd26U7qWqPt3i3SuEEMJslpZUU5.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/gorra-para-hombre-combinada-con-malla-y-bordado-en-parte-frontal-unser-caqui-835307KQ_B.jpg_v18GJ8NGfCRT7WyAYe8GtRhUD4Ii1TlaZJ81VLYjXXXK4ortNh.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/gorra-para-hombre-combinada-con-malla-y-bordado-en-parte-frontal-unser-caqui-835307KQ_C.jpg_QfgGoYht1xkPkuwsG8Rt9uiKFW5A3Wleu6nDyzDMJIRGAcEnDN.webp"
+            ],
+            "tags": []
+        },
+        {
+            "producto_sku": "832957",
+            "producto_titulo": "Gorra Para Hombre Unicolor Con Bordado En Parte Frontal Unser",
+            "producto_precio": "93950",
+            "producto_precio_antes": "0.00",
+            "producto_porcentaje_dcto": 0,
+            "marca": "Unser",
+            "color": "AZ",
+            "publicado": 1,
+            "categoria": "Accesorios",
+            "marca_slug": "unser",
+            "dia_siniva": 0,
+            "producto_precio_siniva": 78950,
+            "url": "product-832957-GORRA-PARA-HOMBRE-UNICOLOR-CON-BORDADO-EN-PARTE-FRONTAL-UNSER",
+            "tallas": [
+                {
+                    "id": "UN",
+                    "descripcion": "TALLA UNICA",
+                    "name": "\u00danica",
+                    "stock": 70,
+                    "orden": "0.0"
+                }
+            ],
+            "imagenes": [
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/05\/gorra-para-hombre-unicolor-con-bordado-en-parte-frontal-unser-azul-832957AZ.jpg_78BlwC952TfzxGnxMYvCOALx2cgjNHBC2CRvq1jbKvC3gv0q3s.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/05\/gorra-para-hombre-unicolor-con-bordado-en-parte-frontal-unser-azul-832957AZ_A.jpg_CAODQft8LRWIclrwT96hLnpV9q5Xt9ev6XldLcgY4q2wsuQoZb.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/05\/gorra-para-hombre-unicolor-con-bordado-en-parte-frontal-unser-azul-832957AZ_B.jpg_KblXRmMohUHM4KGLMAelGMPPxyBY5RDUGroXTV4IDiaxKg4cxa.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/05\/gorra-para-hombre-unicolor-con-bordado-en-parte-frontal-unser-azul-832957AZ_C.jpg_Cxuzimb6W6kLSEmOsjV2Z6mr8GvuYl3zKqDrhj1fL9FJuD3psM.webp"
+            ],
+            "tags": []
+        },
+        {
+            "producto_sku": "832958",
+            "producto_titulo": "Gorra Para Hombre Unicolor Con Estampado En Parte Frontal Unser",
+            "producto_precio": "93950",
+            "producto_precio_antes": "0.00",
+            "producto_porcentaje_dcto": 0,
+            "marca": "Unser",
+            "color": "BL",
+            "publicado": 1,
+            "categoria": "Accesorios",
+            "marca_slug": "unser",
+            "dia_siniva": 0,
+            "producto_precio_siniva": 78950,
+            "url": "product-832958-GORRA-PARA-HOMBRE-UNICOLOR-CON-ESTAMPADO-EN-PARTE-FRONTAL-UNSER",
+            "tallas": [
+                {
+                    "id": "UN",
+                    "descripcion": "TALLA UNICA",
+                    "name": "\u00danica",
+                    "stock": 21,
+                    "orden": "0.0"
+                }
+            ],
+            "imagenes": [
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/06\/gorra-para-hombre-unicolor-con-estampado-en-parte-frontal-unser-blanco-832958BL.jpg_9rHeEesLNsaIB3LOwb8nPrU5lCTE56lC9vCThbC1iR6JilLNnH.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/06\/gorra-para-hombre-unicolor-con-estampado-en-parte-frontal-unser-blanco-832958BL_A.jpg_bqPUUZrh92WI6VMS9Rvug5ehQORPjTsRQIjWqGtxUGu52w1oek.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/06\/gorra-para-hombre-unicolor-con-estampado-en-parte-frontal-unser-blanco-832958BL_B.jpg_05cGfRr5VWSchfLavhNZDNQHCvrc4w0Goj2gzBaCR0aog7qQB2.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/06\/gorra-para-hombre-unicolor-con-estampado-en-parte-frontal-unser-blanco-832958BL_C.jpg_KZuVuiDklHXo03EhNx50PSiF8X71DmTweWyZzpEmslkLJSxgJu.webp"
+            ],
+            "tags": []
+        },
+        {
+            "producto_sku": "834118",
+            "producto_titulo": "Gorra Para Hombre Unicolor Con Bordado En Parte Frontal Unser",
+            "producto_precio": "93950",
+            "producto_precio_antes": "0.00",
+            "producto_porcentaje_dcto": 0,
+            "marca": "Unser",
+            "color": "AZ",
+            "publicado": 1,
+            "categoria": "Accesorios",
+            "marca_slug": "unser",
+            "dia_siniva": 0,
+            "producto_precio_siniva": 78950,
+            "url": "product-834118-GORRA-PARA-HOMBRE-UNICOLOR-CON-BORDADO-EN-PARTE-FRONTAL-UNSER",
+            "tallas": [
+                {
+                    "id": "UN",
+                    "descripcion": "TALLA UNICA",
+                    "name": "\u00danica",
+                    "stock": 107,
+                    "orden": "0.0"
+                }
+            ],
+            "imagenes": [
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/08\/gorra-para-hombre-unicolor-con-bordado-en-parte-frontal-unser-azul-834118AZ.jpg_dXG13t45x5DBiJ2hZgR2DWt3M1wuStsaPIchakSEHgZQrT2BlL.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/08\/gorra-para-hombre-unicolor-con-bordado-en-parte-frontal-unser-azul-834118AZ_A.jpg_WaUJzj8SMCNjWlDLocoyunb6cYQVx5w0ba1GPTG3fp5kOt1gdn.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/08\/gorra-para-hombre-unicolor-con-bordado-en-parte-frontal-unser-azul-834118AZ_B.jpg_GFxAzUND6vSzLn34c9RrvSnKdSpoSPAGrweENMbe04HDeNZgB2.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/08\/gorra-para-hombre-unicolor-con-bordado-en-parte-frontal-unser-azul-834118AZ_C.jpg_F7aLqKLYb4KTed7BCdRXYc9V2XBw0CMXF7G0OltVjpTJpVM2IB.webp"
+            ],
+            "tags": []
+        },
+        {
+            "producto_sku": "834225",
+            "producto_titulo": "Gorra Para Hombre Combinada Con Malla Y Bordado En Parte Frontal Unser",
+            "producto_precio": "93950",
+            "producto_precio_antes": "0.00",
+            "producto_porcentaje_dcto": 0,
+            "marca": "Unser",
+            "color": "GR",
+            "publicado": 1,
+            "categoria": "Accesorios",
+            "marca_slug": "unser",
+            "dia_siniva": 0,
+            "producto_precio_siniva": 78950,
+            "url": "product-834225-GORRA-PARA-HOMBRE-COMBINADA-CON-MALLA-Y-BORDADO-EN-PARTE-FRONTAL-UNSER",
+            "tallas": [
+                {
+                    "id": "UN",
+                    "descripcion": "TALLA UNICA",
+                    "name": "\u00danica",
+                    "stock": 23,
+                    "orden": "0.0"
+                }
+            ],
+            "imagenes": [
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/gorra-para-hombre-combinada-con-malla-y-bordado-en-parte-frontal-unser-gris-834225GR.jpg_T4wXVVZRzHto4pM8myqfTqmHavUXcXQkPepfLo4ipE2mtpkQ72.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/gorra-para-hombre-combinada-con-malla-y-bordado-en-parte-frontal-unser-gris-834225GR_A.jpg_rn0gVmJRMlwcWMcSxixUZU7a1SkqX8QhkUbzJurW7yql0NUHbE.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/gorra-para-hombre-combinada-con-malla-y-bordado-en-parte-frontal-unser-gris-834225GR_B.jpg_ub35zt22orlvsM07hQeLc7soRV4KProqmjUG0XUu8fFD96vb5o.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/gorra-para-hombre-combinada-con-malla-y-bordado-en-parte-frontal-unser-gris-834225GR_C.jpg_stOEqujCCmpYV8T9SsXgoK6YHf9hrGNdHR6qqITHdyb92KTNqp.webp"
+            ],
+            "tags": []
+        },
+        {
+            "producto_sku": "834226",
+            "producto_titulo": "Joel Gorra Combinada Con Bordados Y Malla Unser",
+            "producto_precio": "93950",
+            "producto_precio_antes": "0.00",
+            "producto_porcentaje_dcto": 0,
+            "marca": "Unser",
+            "color": "CF",
+            "publicado": 1,
+            "categoria": "Accesorios",
+            "marca_slug": "unser",
+            "dia_siniva": 0,
+            "producto_precio_siniva": 78950,
+            "url": "product-834226-JOEL-GORRA-COMBINADA-CON-BORDADOS-Y-MALLA-UNSER",
+            "tallas": [
+                {
+                    "id": "UN",
+                    "descripcion": "TALLA UNICA",
+                    "name": "\u00danica",
+                    "stock": 30,
+                    "orden": "0.0"
+                }
+            ],
+            "imagenes": [
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/joel-gorra-combinada-con-bordados-y-malla-unser-cafe-834226CF.jpg_bzz3z213rbNb217iDHMnpQshYCwt2Y62zZYX6q94R3hVyPJ27I.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/joel-gorra-combinada-con-bordados-y-malla-unser-cafe-834226CF_A.jpg_aKJEaea7pB6CVp5vxV7fjdYGQv1H79clHJntVef0Go5wZAkuTj.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/joel-gorra-combinada-con-bordados-y-malla-unser-cafe-834226CF_B.jpg_vRFfEiIBd2strJNQduvE6cAzx6i460voFtbiEy29SnsktWuzfL.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/joel-gorra-combinada-con-bordados-y-malla-unser-cafe-834226CF_C.jpg_ECi5BxLEfOl4gmrmmcwfPDrlWUvX1bDgsEArVTwjN2dYtNRrRZ.webp"
+            ],
+            "tags": []
+        },
+        {
+            "producto_sku": "834227",
+            "producto_titulo": "Marlon Gorra Combinada Con Estampado Y Bordado Unser",
+            "producto_precio": "93950",
+            "producto_precio_antes": "0.00",
+            "producto_porcentaje_dcto": 0,
+            "marca": "Unser",
+            "color": "VT",
+            "publicado": 1,
+            "categoria": "Accesorios",
+            "marca_slug": "unser",
+            "dia_siniva": 0,
+            "producto_precio_siniva": 78950,
+            "url": "product-834227-MARLON-GORRA-COMBINADA-CON-ESTAMPADO-Y-BORDADO-UNSER",
+            "tallas": [
+                {
+                    "id": "UN",
+                    "descripcion": "TALLA UNICA",
+                    "name": "\u00danica",
+                    "stock": 136,
+                    "orden": "0.0"
+                }
+            ],
+            "imagenes": [
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/marlon-gorra-combinada-con-estampado-y-bordado-unser-vinotinto-834227VT.jpg_v4vRjn0CbMhy2wniRZZaP2Q3Hh6Lf51nVBMQlakRugPMoRTADW.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/marlon-gorra-combinada-con-estampado-y-bordado-unser-vinotinto-834227VT_A.jpg_3P4ri6941UUSEYtQBeSNIfynKNFJFYmYB4uycCyxO0mawdsJqO.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/marlon-gorra-combinada-con-estampado-y-bordado-unser-vinotinto-834227VT_B.jpg_tKR1W8knKrp1pEPTOBgE5Zfkk2ynVrcCLdltdxsdP1CRe13pdx.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/marlon-gorra-combinada-con-estampado-y-bordado-unser-vinotinto-834227VT_C.jpg_N4z3deoIS9OydjzFlbUiaD9TX5KUrXeUzR9A16sIBn382Hc5Vz.webp"
+            ],
+            "tags": []
+        },
+        {
+            "producto_sku": "834228",
+            "producto_titulo": "Gorra Para Hombre Combinada Con Malla Y Bordado En Parte Frontal Unser",
+            "producto_precio": "93950",
+            "producto_precio_antes": "0.00",
+            "producto_porcentaje_dcto": 0,
+            "marca": "Unser",
+            "color": "KQ",
+            "publicado": 1,
+            "categoria": "Accesorios",
+            "marca_slug": "unser",
+            "dia_siniva": 0,
+            "producto_precio_siniva": 78950,
+            "url": "product-834228-GORRA-PARA-HOMBRE-COMBINADA-CON-MALLA-Y-BORDADO-EN-PARTE-FRONTAL-UNSER",
+            "tallas": [
+                {
+                    "id": "UN",
+                    "descripcion": "TALLA UNICA",
+                    "name": "\u00danica",
+                    "stock": 51,
+                    "orden": "0.0"
+                }
+            ],
+            "imagenes": [
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/gorra-para-hombre-combinada-con-malla-y-bordado-en-parte-frontal-unser-caqui-834228KQ.jpg_WvTq4WVNDhYSgkhQ6p4pRtRwYES0WWBPWzyuEntse7vKFz1j9G.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/gorra-para-hombre-combinada-con-malla-y-bordado-en-parte-frontal-unser-caqui-834228KQ_A.jpg_A0Anf6u4WmdqV9A0o39BLi8KQPyQrdkbHy7N8MB5z3PsDvGrCs.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/gorra-para-hombre-combinada-con-malla-y-bordado-en-parte-frontal-unser-caqui-834228KQ_B.jpg_NFgNRt7UaOxeTfUOuyICaqjO17NDi6ecCEy09URXK6o4DcvhOH.webp",
+                "https:\/\/cdn.baguer.co\/uploads\/2024\/12\/gorra-para-hombre-combinada-con-malla-y-bordado-en-parte-frontal-unser-caqui-834228KQ_C.jpg_MrpILYH1tAhFsVuoOScHVLukkyhSiOXkcm3jZDufIPRtuW3rZG.webp"
+            ],
+            "tags": []
+        }
+    ],
+    "productos_analytics": [
+        {
+            "name": "GUS GORRA COMBINADA CON BORDADOS Y MALLA UNSER",
+            "id": "835089",
+            "price": 107950,
+            "brand": "UNSER",
+            "category": "Accesorios",
+            "variant": "CF",
+            "list": "Listar Accesorios",
+            "position": 1
+        },
+        {
+            "name": "GORRA PARA HOMBRE UNICOLOR CON ESTAMPADO EN PARTE FRONTAL UNSER",
+            "id": "830969",
+            "price": 93950,
+            "brand": "UNSER",
+            "category": "Accesorios",
+            "variant": "NG",
+            "list": "Listar Accesorios",
+            "position": 2
+        },
+        {
+            "name": "GORRA PARA HOMBRE COMBINADA CON MALLA Y BORDADO EN PARTE FRONTAL UNSER",
+            "id": "835307",
+            "price": 93950,
+            "brand": "UNSER",
+            "category": "Accesorios",
+            "variant": "KQ",
+            "list": "Listar Accesorios",
+            "position": 3
+        },
+        {
+            "name": "GORRA PARA HOMBRE UNICOLOR CON BORDADO EN PARTE FRONTAL UNSER",
+            "id": "832957",
+            "price": 93950,
+            "brand": "UNSER",
+            "category": "Accesorios",
+            "variant": "AZ",
+            "list": "Listar Accesorios",
+            "position": 4
+        },
+        {
+            "name": "GORRA PARA HOMBRE UNICOLOR CON ESTAMPADO EN PARTE FRONTAL UNSER",
+            "id": "832958",
+            "price": 93950,
+            "brand": "UNSER",
+            "category": "Accesorios",
+            "variant": "BL",
+            "list": "Listar Accesorios",
+            "position": 5
+        },
+        {
+            "name": "GORRA PARA HOMBRE UNICOLOR CON BORDADO EN PARTE FRONTAL UNSER",
+            "id": "834118",
+            "price": 93950,
+            "brand": "UNSER",
+            "category": "Accesorios",
+            "variant": "AZ",
+            "list": "Listar Accesorios",
+            "position": 6
+        },
+        {
+            "name": "GORRA PARA HOMBRE COMBINADA CON MALLA Y BORDADO EN PARTE FRONTAL UNSER",
+            "id": "834225",
+            "price": 93950,
+            "brand": "UNSER",
+            "category": "Accesorios",
+            "variant": "GR",
+            "list": "Listar Accesorios",
+            "position": 7
+        },
+        {
+            "name": "JOEL GORRA COMBINADA CON BORDADOS Y MALLA UNSER",
+            "id": "834226",
+            "price": 93950,
+            "brand": "UNSER",
+            "category": "Accesorios",
+            "variant": "CF",
+            "list": "Listar Accesorios",
+            "position": 8
+        },
+        {
+            "name": "MARLON GORRA COMBINADA CON ESTAMPADO Y BORDADO UNSER",
+            "id": "834227",
+            "price": 93950,
+            "brand": "UNSER",
+            "category": "Accesorios",
+            "variant": "VT",
+            "list": "Listar Accesorios",
+            "position": 9
+        },
+        {
+            "name": "GORRA PARA HOMBRE COMBINADA CON MALLA Y BORDADO EN PARTE FRONTAL UNSER",
+            "id": "834228",
+            "price": 93950,
+            "brand": "UNSER",
+            "category": "Accesorios",
+            "variant": "KQ",
+            "list": "Listar Accesorios",
+            "position": 10
+        }
+    ]
+}
