@@ -1,0 +1,427 @@
+{
+"videos": {
+"hombre": {
+"prenda_superior": "https://cdn.baguer.co/guia_tallas/hombre_prenda_superior_st.mp4",
+"prenda_inferior": "https://cdn.baguer.co/guia_tallas/hombre_prenda_inferior_st.mp4",
+"calzado": "https://cdn.baguer.co/guia_tallas/hombre_calzado_st.mp4"
+},
+"mujer": {
+"prenda_superior": "https://cdn.baguer.co/guia_tallas/mujer_prenda_superior_st.mp4",
+"prenda_inferior": "https://cdn.baguer.co/guia_tallas/mujer_prenda_inferior_st.mp4",
+"calzado": "https://cdn.baguer.co/guia_tallas/mujer_calzado_st.mp4",
+"vestidos": "https://cdn.baguer.co/guia_tallas/mujer_prenda_superior_st.mp4"
+}
+},
+"marcas": [
+{
+"id": "053",
+"descripcion": "Adidas Originals",
+"slug": "adidasoriginals",
+"logo": "https://cdn.baguer.co/brands/img_logo_bw0xLmQTT1K0DiYvsOzvIViSwYm518GwDPh1623871889.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_yUnStrYvK1LpbrbdqktIhExzfEpzkRvIetV1733331337.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_bw0xLmQTT1K0DiYvsOzvIViSwYm518GwDPh1623871889.svg"
+},
+{
+"id": "007",
+"descripcion": "Americanino",
+"slug": "americanino",
+"logo": "https://cdn.baguer.co/brands/img_logo_utwH2mdI7RgTcxVgedNHAkNFKHHIRyaHn0X1623871981.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_C93QqDB75mL3a1yskaZ97m6WFRKiGJxYDYM1733162902.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_utwH2mdI7RgTcxVgedNHAkNFKHHIRyaHn0X1623871981.svg"
+},
+{
+"id": "170",
+"descripcion": "ArtDist",
+"slug": "artdist",
+"logo": "https://cdn.baguer.co/brands/img_logo_white_Ij8rVnonNQebEKgq8T1pGxC292EhC3rM6Ir1733518716.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_MN4yC5yoxqBCIjgGrCobqn8zXhECQdQSDOZ1733518716.webp",
+"color_fondo": "#000000",
+"color_texto": "#000000",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_white_Ij8rVnonNQebEKgq8T1pGxC292EhC3rM6Ir1733518716.svg"
+},
+{
+"id": "130",
+"descripcion": "Asics",
+"slug": "asics",
+"logo": "https://cdn.baguer.co/brands/img_logo_vcNv15Pzu5MhF0LlMI0foOW4Ys5tFRLyYAK1733518434.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_OxdvWk44XGuUaHka6TvEsdtMKiqIrlrKR7X1733518434.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_vcNv15Pzu5MhF0LlMI0foOW4Ys5tFRLyYAK1733518434.svg"
+},
+{
+"id": "011",
+"descripcion": "Big Star",
+"slug": "bigstar",
+"logo": "https://cdn.baguer.co/brands/img_logo_jgOVH0fekF5VOB5L8gsux3Cp3JMMFaDDgtH1623872102.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_VUbzS3VKl6Siz97bZyXJnLvk1PuLb9I9AIc1694449521.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_jgOVH0fekF5VOB5L8gsux3Cp3JMMFaDDgtH1623872102.svg"
+},
+{
+"id": "004",
+"descripcion": "Chevignon",
+"slug": "chevignon",
+"logo": "https://cdn.baguer.co/brands/img_logo_7hgrGuEUg4KxuvN2EQIIZR2I7hVkNaN3BrG1623872117.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_lqJZWmoWtRsLeZmFMiWBqwEUbb8D30eBuUC1733162954.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_7hgrGuEUg4KxuvN2EQIIZR2I7hVkNaN3BrG1623872117.svg"
+},
+{
+"id": "155",
+"descripcion": "Clemont",
+"slug": "clemont",
+"logo": "https://cdn.baguer.co/brands/img_logo_white_6QIjgHeHfKRioOMUHtYZWCoFhPTqs26PEEy1712871859.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_FZOIQFz1fQ062bv5L44j1ND1hWMshL6vntX1712871859.webp",
+"color_fondo": "#000000",
+"color_texto": "#000000",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_white_6QIjgHeHfKRioOMUHtYZWCoFhPTqs26PEEy1712871859.svg"
+},
+{
+"id": "121",
+"descripcion": "Clover",
+"slug": "clover",
+"logo": "https://cdn.baguer.co/brands/img_logo_8qkXCvKRBSHf4S5XpIhuFu4F83kEapqvAIg1623872132.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_3BXfSPz8wbGU6HSeY7QlOLQxXFjo9XXBXp71733162980.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_8qkXCvKRBSHf4S5XpIhuFu4F83kEapqvAIg1623872132.svg"
+},
+{
+"id": "066",
+"descripcion": "Converse",
+"slug": "converse",
+"logo": "https://cdn.baguer.co/brands/img_logo_white_a6l4KVjfXa19roltgMxXrz8ydOh8vnK05YU1662757638.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_5iS80vi3RoxXikAxDaiUyNTofYLwOYM5VA21694202867.webp",
+"color_fondo": "#000000",
+"color_texto": "#000000",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_white_a6l4KVjfXa19roltgMxXrz8ydOh8vnK05YU1662757638.svg"
+},
+{
+"id": "136",
+"descripcion": "Crew",
+"slug": "crew",
+"logo": "https://cdn.baguer.co/brands/img_logo_white_67uso6bes13iMkXUekN5bfaGa4qTPeQbUdS1668020688.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_ED2ny1JMy7U86OkdcsKbT85pqQZvMg1gLUM1733163059.webp",
+"color_fondo": "#bcd2b6",
+"color_texto": "#31352c",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_white_67uso6bes13iMkXUekN5bfaGa4qTPeQbUdS1668020688.svg"
+},
+{
+"id": "019",
+"descripcion": "Derek",
+"slug": "derek",
+"logo": "https://cdn.baguer.co/brands/img_logo_NzNgkzLK29xvTU27Mkayg4OWPfnrBK1UHdB1623872194.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_zFM7K1N7KbR9r4zB5CSVehALGTu7u0S59Zm1733163108.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_NzNgkzLK29xvTU27Mkayg4OWPfnrBK1UHdB1623872194.svg"
+},
+{
+"id": "135",
+"descripcion": "Derek Lovely",
+"slug": "lovely",
+"logo": "https://cdn.baguer.co/brands/img_logo_eoWWouGMhmQOL7CqrU0kYFf5z1toERB5Cik1733171727.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_29K12nGKpNHc70ZFp2xQG5q7xo9gAgHSheW1733163770.webp",
+"color_fondo": "#000000",
+"color_texto": "#000000",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_eoWWouGMhmQOL7CqrU0kYFf5z1toERB5Cik1733171727.svg"
+},
+{
+"id": "032",
+"descripcion": "Diesel",
+"slug": "diesel",
+"logo": "https://cdn.baguer.co/brands/img_logo_7XQ8xFB947mk1udyyj7QCOUgr4dhhHjoUit1623872217.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_jKtCOEFGBavHDvkLDpT6JIRMVVtpaFmR7vA1694449626.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_7XQ8xFB947mk1udyyj7QCOUgr4dhhHjoUit1623872217.svg"
+},
+{
+"id": "050",
+"descripcion": "edc By Esprit",
+"slug": "edc",
+"logo": "https://cdn.baguer.co/brands/img_logo_Bk59Jgd92KjTrDz1SdwS85POxtgzqZRbnNK1623872272.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_nai5zaaPyGh68UPIsN97PetpfI2ZR5liX7y1694449692.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_Bk59Jgd92KjTrDz1SdwS85POxtgzqZRbnNK1623872272.svg"
+},
+{
+"id": "057",
+"descripcion": "Fila",
+"slug": "fila",
+"logo": "https://cdn.baguer.co/brands/img_logo_nw6Na5TCa7shkUHjz2tfivo4D5CFHqWRAxZ1623872311.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_vATvGfID26U0MhRsTsDqguaLugyQQVuv0t21694449737.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_nw6Na5TCa7shkUHjz2tfivo4D5CFHqWRAxZ1623872311.svg"
+},
+{
+"id": "018",
+"descripcion": "Gas",
+"slug": "gas",
+"logo": "https://cdn.baguer.co/brands/img_logo_WDNjSqD0gKxIRw9U6c7qAZ9vB4gC1NOiVpl1630510491.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_QpKFmrbztiTR8pdNXvSGWyq9EiLvjowPlFa1733331372.webp",
+"color_fondo": "#afadff",
+"color_texto": "#ffffff",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_WDNjSqD0gKxIRw9U6c7qAZ9vB4gC1NOiVpl1630510491.svg"
+},
+{
+"id": "067",
+"descripcion": "Girbaud",
+"slug": "girbaud",
+"logo": "https://cdn.baguer.co/brands/img_logo_EKxmbYAcnSm3fasZqnmHGCGWYufmWmi1bWz1623872374.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_jqF7VTdJZAZTpHk4wQlZhOt34IeMoctbbpe1733163236.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_EKxmbYAcnSm3fasZqnmHGCGWYufmWmi1bWz1623872374.svg"
+},
+{
+"id": "127",
+"descripcion": "Goorin Bros",
+"slug": "goorin",
+"logo": "https://cdn.baguer.co/brands/img_logo_o0QVfbPAZaIKP4Bs0tYY0lOQ5bdv4xbdI1J1623872392.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_fjSrT9rLUzabvCTnePj4W4AuGYeYIIFC3QV1694203141.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_o0QVfbPAZaIKP4Bs0tYY0lOQ5bdv4xbdI1J1623872392.svg"
+},
+{
+"id": "017",
+"descripcion": "Groggy",
+"slug": "groggy",
+"logo": "https://cdn.baguer.co/brands/img_logo_wXhFerWmYBhYRrfoOOYnukMNCW1QNurQHoS1630510364.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_0xbA8nXV7QNpeSYO90nUpX6j5oX8cWF61lM1733331415.webp",
+"color_fondo": "#000000",
+"color_texto": "#000000",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_wXhFerWmYBhYRrfoOOYnukMNCW1QNurQHoS1630510364.svg"
+},
+{
+"id": "142",
+"descripcion": "Hurley",
+"slug": "hurley",
+"logo": "https://cdn.baguer.co/brands/img_logo_white_evs7fugbBmmdwaJZGA6OzO3PcJmICCgzici1686160281.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_JKEP3vQIgshrjAxmFqRvQQ1ScZpeXy95qkR1694449940.webp",
+"color_fondo": "#000000",
+"color_texto": "#ffffff",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_white_evs7fugbBmmdwaJZGA6OzO3PcJmICCgzici1686160281.svg"
+},
+{
+"id": "126",
+"descripcion": "Jack & Jones",
+"slug": "jackjones",
+"logo": "https://cdn.baguer.co/brands/img_logo_y9W1qC49iQ6wIQWSZp9ZMPEpquXM8fvGF2k1623872456.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_B72ddp0OFDwEVLkbxP5CH97xbo4IbvzNBKj1643224853.jpg",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_y9W1qC49iQ6wIQWSZp9ZMPEpquXM8fvGF2k1623872456.svg"
+},
+{
+"id": "092",
+"descripcion": "Le Coq Sportif",
+"slug": "lecoqsportif",
+"logo": "https://cdn.baguer.co/brands/img_logo_RyY3tP3QBw7j6R9CouYjn1Hlcsbb4mezSyw1623872503.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_YNMfLTXecnr2k1RieD5VEkd5qtjJQar1CZm1733163346.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_RyY3tP3QBw7j6R9CouYjn1Hlcsbb4mezSyw1623872503.svg"
+},
+{
+"id": "068",
+"descripcion": "Levis",
+"slug": "levis",
+"logo": "https://cdn.baguer.co/brands/img_logo_9VbGEkHxc38CL2kRuo8VHvrGpN1oHYTiVhj1729789014.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_mpcOOixZfHSvZDyK96UAN7IiHFQnPzwtHsh1729544081.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_9VbGEkHxc38CL2kRuo8VHvrGpN1oHYTiVhj1729789014.svg"
+},
+{
+"id": "006",
+"descripcion": "Liquid",
+"slug": "liquid",
+"logo": "https://cdn.baguer.co/brands/img_logo_ZySEcUXA29xHH6PwhcSXov5NeZQcbnKDEi01651091283.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_pcM0MIEZvFskpCqbIAFKcadJCskTpfN3TkN1694450052.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_ZySEcUXA29xHH6PwhcSXov5NeZQcbnKDEi01651091283.svg"
+},
+{
+"id": "156",
+"descripcion": "Monastery",
+"slug": "monastery",
+"logo": "https://cdn.baguer.co/brands/img_logo_uq53iBe1cUu8bHeC8bVrOd8d0YvyaSGX9wJ1718378125.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_QKqtiWidsw4WA9TCXWmlOcIZ5Fz9tYR3hgn1718315376.webp",
+"color_fondo": "#000000",
+"color_texto": "#000000",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_uq53iBe1cUu8bHeC8bVrOd8d0YvyaSGX9wJ1718378125.svg"
+},
+{
+"id": "085",
+"descripcion": "New Balance",
+"slug": "newbalance",
+"logo": "https://cdn.baguer.co/brands/img_logo_fZgnkQ76M61XvwhdrbZy5dxMh4TkY7Qtko41623872553.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_Tfvr12TsOP2VGUyMVca2tTyEnhzYKcBUxm91733163421.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_fZgnkQ76M61XvwhdrbZy5dxMh4TkY7Qtko41623872553.svg"
+},
+{
+"id": "087",
+"descripcion": "Nike",
+"slug": "nike",
+"logo": "https://cdn.baguer.co/brands/img_logo_FUXhRQVid7v2PVWEj0bNWJ6YS8SgWulK5mV1623872607.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_mtE9Jq7rXFY9I12LBfoalftYpR4NdP7hTbU1694203417.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_FUXhRQVid7v2PVWEj0bNWJ6YS8SgWulK5mV1623872607.svg"
+},
+{
+"id": "152",
+"descripcion": "On Running",
+"slug": "onrunning",
+"logo": "https://cdn.baguer.co/brands/img_logo_lUEkjM872GUZTO4FaZHG3WMwmWzHUFbmM021702471782.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_h8YwMEw2QglV4klJkJyAiF0FyCfCo5h07Vn1702400696.webp",
+"color_fondo": "#000000",
+"color_texto": "#000000",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_lUEkjM872GUZTO4FaZHG3WMwmWzHUFbmM021702471782.svg"
+},
+{
+"id": "151",
+"descripcion": "Pepe Jeans",
+"slug": "pepe_jeans",
+"logo": "https://cdn.baguer.co/brands/img_logo_white_dWrnyzLZ7wEqakvfDdb9sQljKfFBKx0RFvI1701358946.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_ZqQqkoGNuxJ7mxYNrFvPyU6adTMKFZpbJ831702326413.webp",
+"color_fondo": "#000000",
+"color_texto": "#000000",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_white_dWrnyzLZ7wEqakvfDdb9sQljKfFBKx0RFvI1701358946.svg"
+},
+{
+"id": "033",
+"descripcion": "Puma",
+"slug": "puma",
+"logo": "https://cdn.baguer.co/brands/img_logo_Yr9i9XfWiHkQbkOz98tBAKa9gUA87QqWlWE1623872644.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_5RWtzGTZ3dBV6vMx13Dn2SOfWoA3ittAYdg1733331454.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_Yr9i9XfWiHkQbkOz98tBAKa9gUA87QqWlWE1623872644.svg"
+},
+{
+"id": "056",
+"descripcion": "Reebok",
+"slug": "reebok",
+"logo": "https://cdn.baguer.co/brands/img_logo_dPVO868mkyeGgHNtscTSP4YRzaGbvmnHEgO1623872701.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_r83RtxAQLjzjNy8oxS7CO6ZAano9355LQvu1694203620.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_dPVO868mkyeGgHNtscTSP4YRzaGbvmnHEgO1623872701.svg"
+},
+{
+"id": "149",
+"descripcion": "Replay",
+"slug": "replay",
+"logo": "https://cdn.baguer.co/brands/img_logo_white_g9ZPeecWJCCcKCjjTqGwk0W07B2u9cvfTxi1702582985.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_dYar12x3ceLZXP1LG10UeuVxJvtVufBxW7z1702583533.webp",
+"color_fondo": "#000000",
+"color_texto": "#000000",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_white_g9ZPeecWJCCcKCjjTqGwk0W07B2u9cvfTxi1702582985.svg"
+},
+{
+"id": "098",
+"descripcion": "Roxy",
+"slug": "roxy",
+"logo": "https://cdn.baguer.co/brands/img_logo_xeyh85KDwMzlX4MQFzhznvhf0VrJhSrGXH41623872727.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_stJrGRo2fumMm39RGEMpkvIZYLCTGXSULgv1694450312.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_xeyh85KDwMzlX4MQFzhznvhf0VrJhSrGXH41623872727.svg"
+},
+{
+"id": "134",
+"descripcion": "RS Performance",
+"slug": "rsperformance",
+"logo": "https://cdn.baguer.co/brands/img_logo_white_LheVoA7EG7QzXtbGyWO0htrEAqyMgDwuV3u1662757320.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_FmfN4rGHEr1SmVv69a35QXY5hRlqE26ayvT1694203704.webp",
+"color_fondo": "#000000",
+"color_texto": "#000000",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_white_LheVoA7EG7QzXtbGyWO0htrEAqyMgDwuV3u1662757320.svg"
+},
+{
+"id": "122",
+"descripcion": "Scout",
+"slug": "scout",
+"logo": "https://cdn.baguer.co/brands/img_logo_9ZUShvBaWKOgOFUijmB0CRjsrs1XcwVLIAg1623872744.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_xDUQ2vLk2NXyUWF6ljPMODJBmxJDoDThYRx1694450353.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_9ZUShvBaWKOgOFUijmB0CRjsrs1XcwVLIAg1623872744.svg"
+},
+{
+"id": "055",
+"descripcion": "Skechers",
+"slug": "skechers",
+"logo": "https://cdn.baguer.co/brands/img_logo_kWv5LBRUW3SwUqOdA0h6PwOlSBzqDih1hVi1623872760.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_iyWPR8knW0g6r3MQmxrYGQ1PumgyL0EMjxh1694203762.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_kWv5LBRUW3SwUqOdA0h6PwOlSBzqDih1hVi1623872760.svg"
+},
+{
+"id": "097",
+"descripcion": "Superdry",
+"slug": "superdry",
+"logo": "https://cdn.baguer.co/brands/img_logo_orTF24YApfzWXRtTk4PAQ0wAv6w93QOJ3d01623872777.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_oFobhfcb5Y4pymhYJujQP1ywI8isqmeySgL1694450399.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_orTF24YApfzWXRtTk4PAQ0wAv6w93QOJ3d01623872777.svg"
+},
+{
+"id": "118",
+"descripcion": "Typer",
+"slug": "typer",
+"logo": "https://cdn.baguer.co/brands/img_logo_emIbQ6w9Er9QCU0Czgyc1O8uL5PMbG5NzHd1623872823.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_JebEetTuyNGtUvL94R1JhevMROihuB7HOgi1733331285.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_emIbQ6w9Er9QCU0Czgyc1O8uL5PMbG5NzHd1623872823.svg"
+},
+{
+"id": "029",
+"descripcion": "Único",
+"slug": "unico",
+"logo": "https://cdn.baguer.co/brands/img_logo_W2A8fRnEYIS0zPxyEvb7iV7ov9NqRqYTrOO1623872835.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_XaNN3UIuraYqqvj5aVBdHEmssko3zVNoL8i1694450449.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_W2A8fRnEYIS0zPxyEvb7iV7ov9NqRqYTrOO1623872835.svg"
+},
+{
+"id": "002",
+"descripcion": "Unser",
+"slug": "unser",
+"logo": "https://cdn.baguer.co/brands/img_logo_KR0TVEUeynLttszV4LJ8leLj4UpL7cPZcHW1623872853.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_S86ukZO35ddFtriGQD0chA4tP9V7yqKQs8k1733331274.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_KR0TVEUeynLttszV4LJ8leLj4UpL7cPZcHW1623872853.svg"
+},
+{
+"id": "063",
+"descripcion": "Vans",
+"slug": "vans",
+"logo": "https://cdn.baguer.co/brands/img_logo_JRf0yh6OkUZWIiORiSh3Q3Msn1UKtelaB7o1623872867.svg",
+"banner": "https://cdn.baguer.co/brands/img_banner_VH3wfBk04dXfy5qobPJXXSj8OLM3vmkH1FA1694203946.webp",
+"color_fondo": "#c8d7e5",
+"color_texto": "#001f5d",
+"logo_white": "https://cdn.baguer.co/brands/https://cdn.baguer.co/brands/img_logo_JRf0yh6OkUZWIiORiSh3Q3Msn1UKtelaB7o1623872867.svg"
+}
+]
+}
