@@ -1,0 +1,102 @@
+{
+"producto": {
+"producto_promocion": "N",
+"producto_sku": "835088",
+"titulo": "Cesar gorra combinada con bordados y malla unser",
+"marca": "Unser",
+"marca_img_logo": "https://cdn.baguer.co/brands/img_logo_KR0TVEUeynLttszV4LJ8leLj4UpL7cPZcHW1623872853.svg",
+"precio": "93950",
+"precio_antes": "0",
+"composicion": "*60 % poliéster \n40 % algodón",
+"subcategoria": "Gorras",
+"subcategoria_slug": "gorras",
+"descuento": null,
+"cuota_cupo": "11826",
+"fecha_sugerido": "2025-02-15 00:00:00",
+"genero": "Hombre",
+"descripcion": "GORRA PARA HOMBRE, VISERA CURVA, COMBINADA, CON BORDADOS, ACABADO EFECTO INDIGO EN FRENTE Y MALLA EN POSTERIOR",
+"tipo_prenda_descripcion": "",
+"categoria": "Accesorios",
+"marca_id": "002",
+"marca_descripcion": "Unser",
+"marca_slug": "unser",
+"genero_id": "001",
+"genero_descripcion": "Hombre",
+"publicado": 1,
+"tipoprenda_id": "011",
+"origen": "COLOMBIA",
+"importador": "BAGUER",
+"lavado": "LIMPIAR CON UN PAÑO HUMEDO, NO USAR DETERGENTES NI BLANQUEADORES, EVITAR EL CONTACTO CON ACEITES Y GRASAS.",
+"disponibilidad_tienda": 1,
+"exclusivo_online": 0,
+"descuento_estrategia": {
+"aplica_estrategia": 0,
+"tag": null
+},
+"aplica_estrategia": 0,
+"producto_aplica_estrategia": 0,
+"dia_siniva": 0,
+"producto_precio_siniva": 78950,
+"cant_cuotas": 10,
+"categoria_slug": "accesorios",
+"genero_slug": "hombre",
+"lavado_cuidado": "",
+"referencias": [
+{
+"color_id": "AZ",
+"color_nombre": "Azul",
+"color_hx": "#2196F3",
+"color_textura": "https://cdn.baguer.co/uploads/2025/02/cesar-gorra-combinada-con-bordados-y-malla-unser-azul-835088AZ_Z.webp_NGM5iYBe13mSAQm3eUZIv39xKSW37E.webp",
+"tallas": [
+{
+"id": "UN",
+"descripcion": "TALLA UNICA",
+"name": "Única",
+"stock": 202,
+"orden": "0.0",
+"alerta_stock": 0
+}
+],
+"imagenes": [
+"https://cdn.baguer.co/uploads/2025/02/cesar-gorra-combinada-con-bordados-y-malla-unser-azul-835088AZ.webp_Re6qWTbb0PbJNrgDW1xpLkKmpryhbK.webp",
+"https://cdn.baguer.co/uploads/2025/02/cesar-gorra-combinada-con-bordados-y-malla-unser-azul-835088AZ_A.webp_CJhXLkPOP0BS1YljRcCjgerkei6VDz.webp",
+"https://cdn.baguer.co/uploads/2025/02/cesar-gorra-combinada-con-bordados-y-malla-unser-azul-835088AZ_B.webp_k1VeoHhSfPPvq27Q5qtFHdtWycTe2U.webp",
+"https://cdn.baguer.co/uploads/2025/02/cesar-gorra-combinada-con-bordados-y-malla-unser-azul-835088AZ_C.webp_RkAGTPDwnMiOvl64yHXtEJmIeZYNVw.webp"
+],
+"imagenes_miniatura": [
+"https://cdn.baguer.co/uploads/2025/02/cesar-gorra-combinada-con-bordados-y-malla-unser-azul-835088AZ.webp_41TJhNPD21lwUssEwb5pC5CUCRM6uZ.webp",
+"https://cdn.baguer.co/uploads/2025/02/cesar-gorra-combinada-con-bordados-y-malla-unser-azul-835088AZ_A.webp_yHWRqAowZmh7B5arj3Yzx4eeZS093C.webp",
+"https://cdn.baguer.co/uploads/2025/02/cesar-gorra-combinada-con-bordados-y-malla-unser-azul-835088AZ_B.webp_PkhvuHmscz60mxBHKqxlJDcoOOsnlN.webp",
+"https://cdn.baguer.co/uploads/2025/02/cesar-gorra-combinada-con-bordados-y-malla-unser-azul-835088AZ_C.webp_xmGSUSyEMR66HJ0vYPl3oHaP6kGFt6.webp"
+],
+"video": "",
+"modelo": null,
+"habilitado": true,
+"outfit": null,
+"tags": [
+{
+"tag": "nuevo",
+"value": "15",
+"color_fondo": "#001f5d",
+"color_texto": "#ffffff"
+}
+]
+}
+],
+"valoraciones": [],
+"url": "product-835088-Cesar-gorra-combinada-con-bordados-y-malla-unser",
+"estrategia_venta": null,
+"productos_analytics": [
+{
+"list": "Listar Gorras",
+"id": "835088",
+"name": "Cesar gorra combinada con bordados y malla unser",
+"brand": "Unser",
+"category": "Gorras",
+"price": "93950",
+"variant": "AZ",
+"position": 1
+}
+]
+}
+}
