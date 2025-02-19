@@ -1,0 +1,30 @@
+[
+  {
+    "id": "stirpe_megamall",
+    "city": "Bucaramanga",
+    "store_name": "Stirpe Megamall",
+    "store_map": "https://www.google.com/maps/place/Stirpe/@7.1307126,-73.1141623,17z/data=!3m1!4b1!4m5!3m4!1s0x8e681567fa9a5a4d:0x40788c5944f261b3!8m2!3d7.1308503!4d-73.1119819",
+    "store_tel": "Tel: 3003870181 Ext 540",
+    "address": "Centro Comercial Megamall Local 9 y 10 Piso 2",
+    "latitude": "7.13073",
+    "longitude": "-73.112",
+    "stock": 2
+  },
+  {
+    "id": "stirpe_cacique",
+    "city": "Bucaramanga",
+    "store_name": "Stirpe Cacique",
+    "store_map": "https://www.google.com/maps/place/Stirpe/@7.1307126,-73.1141623,17z/data=!3m1!4b1!4m5!3m4!1s0x8e681567fa9a5a4d:0x40788c5944f261b3!8m2!3d7.1308503!4d-73.1119819",
+    "store_tel": "Tel: 3003870181 Ext 540",
+    "alert": {
+      "id": "alert",
+      "icon": "fire",
+      "text": "ÚLTIMAS UNIDADES",
+      "backgroundColor": "#EDE734"
+    },
+    "address": "Transversal 93 #34 -99 Lc 258 CC.",
+    "latitude": "7.13073",
+    "longitude": "-73.112",
+    "stock": 2
+  }
+]
