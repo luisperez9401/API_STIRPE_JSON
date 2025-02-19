@@ -1,0 +1,121 @@
+{
+  "id": "1",
+  "title": "Newsletter",
+  "background_color": "#2680EB",
+  "text_color": "#ffffff",
+  "content": {
+    "title": "Regístrate y recibe el 15% de descuento",
+    "description": "Descubre tendencias, promociones y mucho más"
+  },
+  "cta_button": {
+    "content": "Suscribirme",
+    "type": "primary"
+  },
+  "modal": {
+    "title": "Únete al universo Stirpe",
+    "subtitle": "Conoce nuestras ofertas, novedades y tendencias",
+    "image": "https://cdn.baguer.co/uploads/img_newsletter_stirpeUFoBytFCH0p7416aF7sSCZSDuRXW0SJZpPT1733262721.jpg?ar=35-72",
+    "form": {
+      "fields": [
+        {
+          "name": "name",
+          "label": "Nombre - Apellidos",
+          "type": "text",
+          "validators": [
+            {
+              "rule": "required",
+              "errorMessage": "El nombre es obligatorio"
+            }
+          ]
+        },
+        {
+          "name": "phone",
+          "label": "Teléfono celular",
+          "type": "tel",
+          "validators": [
+            {
+              "rule": "required",
+              "errorMessage": "El teléfono es obligatorio"
+            },
+            {
+              "rule": "phone",
+              "errorMessage": "Ingresa un número valido"
+            }
+          ]
+        },
+        {
+          "name": "email",
+          "label": "Correo electrónico",
+          "type": "email",
+          "validators": [
+            {
+              "rule": "required",
+              "errorMessage": "El Correo electrónico es obligatorio"
+            },
+            {
+              "rule": "email",
+              "errorMessage": "Ingresa un correo electrónico valido"
+            }
+          ]
+        },
+        {
+          "name": "birthdate",
+          "label": "Fecha de cumpleaños",
+          "type": "date",
+          "validators": [
+            {
+              "rule": "required",
+              "errorMessage": "La fecha es obligatoria"
+            }
+          ]
+        },
+        {
+          "title": "Me interesa productos de: ",
+          "name": "gender",
+          "type": "radio",
+          "options": [
+            {
+              "name": "Hombre",
+              "label": "Hombre"
+            },
+            {
+              "name": "Mujer",
+              "label": "Mujer"
+            }
+          ],
+          "validators": [
+            {
+              "rule": "required",
+              "errorMessage": "Este campo es obligatorio"
+            }
+          ]
+        },
+        {
+          "name": "terms",
+          "label": "He leído y acepto la <strong>Política de Privacidad</strong> y <strong>Tratamiento de datos personales</strong>. Acepto recibir novedades y promociones.Aplican Términos y Condiciones",
+          "type": "checkbox",
+          "validators": [
+            {
+              "rule": "required",
+              "errorMessage": "Este campo es obligatorio"
+            }
+          ]
+        }
+      ],
+      "cta_button": {
+        "text": "Suscribirme",
+        "type": "primary"
+      }
+    },
+    "approveFormData": {
+      "title": "¡Ahora haces parte de la exclusivo universo de Stirpe!",
+      "description": "Muy pronto recibirás promociones exclusivas, ventas de locura y mucho más ",
+      "img": "_nuxt/assets/images/newsletter-approve.svg",
+      "cta_button": {
+        "type": "primary",
+        "text": "¡Entendido!"
+      },
+      "auxText": "Inscribiéndote aceptas nuestra política de privacidad<br> .Respetamos tu privacidad, te puedes de desuscribir en cualquier momento"
+    }
+  }
+}
