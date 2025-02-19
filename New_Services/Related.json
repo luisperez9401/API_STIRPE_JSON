@@ -1,0 +1,223 @@
+[
+  {
+    "productName": "Elian T-shirt Oversize Estampada Typer",
+    "productDescription": "Descubre la comodidad sin sacrificar el estilo con nuestra t-shirt Alex. Versátil y fácil de combinar, es la opción perfecta para cualquier ocasión.",
+    "careInstructions": "<div class=\"container mx-auto text-sm space-y-4\">\n  <div class=\"flex items-start sm:w-1/3 md:w-1/3 lg:w-1/3 items-center mb-4\">\n    <img class=\"pr-2 h-6 w-6 me-3\" width=\"30\" height=\"30\" alt=\"Lavar a máquina max 30°c centrifugado corto\" src=\"https://api.stirpe.co/img/icons/lavado/max_30_grados.svg\">\n    <span class=\"text-[#001F5D] pt-1.5\">Lavar a máquina max 30°c centrifugado corto</span>\n  </div>\n\n  <div class=\"flex items-start sm:w-1/3 md:w-1/3 lg:w-1/3 items-center mb-4\">\n    <img class=\"pr-2 h-6 w-6 me-3\" width=\"30\" height=\"30\" alt=\"No usar cloro\" src=\"https://api.stirpe.co/img/icons/lavado/no_cloro.svg\">\n    <span class=\"text-[#001F5D] pt-1.5\">No usar cloro</span>\n  </div>\n\n  <div class=\"flex items-start sm:w-1/3 md:w-1/3 lg:w-1/3 items-center mb-4\">\n    <img class=\"pr-2 h-6 w-6 me-3\" width=\"30\" height=\"30\" alt=\"Plancha max 110°c\" src=\"https://api.stirpe.co/img/icons/lavado/plancha_max.svg\">\n    <span class=\"text-[#001F5D] pt-1.5\">Plancha max 110°c</span>\n  </div>\n\n  <div class=\"flex items-start sm:w-1/3 md:w-1/3 lg:w-1/3 items-center mb-4\">\n    <img class=\"pr-2 h-6 w-6 me-3\" width=\"30\" height=\"30\" alt=\"No limpiar en seco\" src=\"https://api.stirpe.co/img/icons/lavado/no_limpiar_seco.svg\">\n    <span class=\"text-[#001F5D] pt-1.5\">No limpiar en seco</span>\n  </div>\n\n  <div class=\"flex items-start sm:w-1/3 md:w-1/3 lg:w-1/3 items-center mb-4\">\n    <img class=\"pr-2 h-6 w-6 me-3\" width=\"30\" height=\"30\" alt=\"No limpiar en seco\" src=\"https://api.stirpe.co/img/icons/lavado/no_secadora.svg\">\n    <span class=\"text-[#001F5D]\">No se puede usar secadora</span>\n  </div>\n</div>",
+    "sku": "833702",
+    "category": "T-Shirts",
+    "brand": {
+      "id": "118",
+      "name": "Typer",
+      "logo": "https://cdn.baguer.co/brands/img_logo_emIbQ6w9Er9QCU0Czgyc1O8uL5PMbG5NzHd1623872823.svg"
+    },
+    "route": "product-833702-ELIAN-T-SHIRT-OVERSIZE-ESTAMPADA-TYPER",
+    "price": "214950",
+    "discountPrice": "0",
+    "originCountry": "Colombia",
+    "clothingType": "superior",
+    "importer": "Baguer SAS",
+    "composition": "62% poliester 33% algodon 5% spandex",
+    "references": [
+      {
+        "id": "RJ",
+        "colorHx": "#ffa347",
+        "colorName": "Mostaza",
+        "colorTexture": "https://cdn.baguer.co/uploads/2024/09/833535mt-zjpg-x4zekmqjyepeqx7gja1ems4lagaewkqixhvnc6nlzul7wwxza41725901048.jpg",
+        "aviable": true,
+        "images": [
+          "https://cdn.baguer.co/uploads/2024/10/elian-t-shirt-oversize-estampada-typer-blanco-833702BL.jpg_LFxzn1lmcltWHvicRAMrooya1C6wZ3pAYlcfm3hZMys9mktZWW.webp?ar=961-1088",
+          "https://cdn.baguer.co/uploads/2024/10/elian-t-shirt-oversize-estampada-typer-blanco-833702BL_A.jpg_g3zmJ3UAyO5L6YXkg9Hr1vTW622CjrppfBM5OPOt9VCfqgzupK.webp?ar=961-1088",
+          "https://cdn.baguer.co/uploads/2024/10/elian-t-shirt-oversize-estampada-typer-blanco-833702BL_B.jpg_wQ50FqeHa8m0qKKckZtadhiwjg7D1MNC1MDcPrcUVFzGaRXXCE.webp?ar=961-1088"
+        ],
+        "tags": [
+          {
+            "id": "212",
+            "text": "-30%",
+            "textColor": "#ffffff",
+            "backgroundColor": "#0076FF"
+          }
+        ],
+        "sizes": [
+          {
+            "id": "39",
+            "descripcion": "TALLA S",
+            "name": "39",
+            "stock": 52
+          },
+          {
+            "id": "40",
+            "descripcion": "TALLA M",
+            "name": "40",
+            "stock": 57
+          },
+          {
+            "id": "41",
+            "descripcion": "TALLA L",
+            "name": "41",
+            "stock": 25
+          },
+          {
+            "id": "42",
+            "descripcion": "TALLA XL",
+            "name": "42",
+            "stock": 12
+          }
+        ]
+      },
+      {
+        "id": "VD",
+        "colorHx": "#20CE00",
+        "colorName": "Verde",
+        "colorTexture": "https://cdn.baguer.co/uploads/2024/09/833535vd-zjpg-8ukhineog39ktxv7aq4wigfbrocpubzpzbziuha8t7wucwzixf1725901052.jpg",
+        "aviable": true,
+        "images": [
+          "https://cdn.baguer.co/uploads/2024/09/833535vdjpg-o59vnvxobsjykkebdlz6h3ztoueu4hc274qba5mdlx38tkjcwi1725901049.jpg?ar=961-1088",
+          "https://cdn.baguer.co/uploads/2024/09/833535vd-ajpg-wxq8udiz6kgvhxcc06zh8zji17qfq5ll6a3pq4aojdjb1q2lf91725901050.jpg?ar=961-1088",
+          "https://cdn.baguer.co/uploads/2024/09/833535vd-bjpg-eghsjrpwbopc7ifi5rwpni0wtjytamip8tfwcmzh53cjisrm8f1725901051.jpg?ar=961-1088",
+          "https://cdn.baguer.co/uploads/2024/09/833535vd-ojpg-zcffjs5xxudxflad6m3air3tqhuz21ktp20w5hw10cbeoa3xse1725901051.jpg?ar=961-1088"
+        ],
+        "tags": [
+          {
+            "id": "212",
+            "text": "-30%",
+            "textColor": "#ffffff",
+            "backgroundColor": "#0076FF"
+          }
+        ],
+        "sizes": [
+          {
+            "id": "SS",
+            "descripcion": "TALLA S",
+            "name": "S",
+            "stock": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sku": "128050",
+    "price": 202300,
+    "discountPrice": 289000,
+    "productName": "Gorra monastery dadra cap",
+    "productDescription": "Gorra elaborada en tejido aterciopelado, con bordado frontal en plateado. El sistema de cierre está confeccionado en cuero 100% y lleva la marca. DADRA es la pieza que complementa tus atuendos con detalles únicos y originales.",
+    "gender": "hombre",
+    "breadcrumbs": [
+      {
+        "name": "Hombre",
+        "route": "/hombre"
+      },
+      {
+        "name": "Accesorios",
+        "route": "/hombre-accesorios"
+      },
+      {
+        "name": "Gorras",
+        "route": "/hombre-accesorios-gorras"
+      },
+      {
+        "name": "Gorra monastery dadra cap",
+        "route": "/product-128050-GORRA-MONASTERY-NASCAR-CAP"
+      }
+    ],
+    "brand": {
+      "id": "1",
+      "name": "Monastery",
+      "logo": "https://cdn.baguer.co/brands/img_logo_uq53iBe1cUu8bHeC8bVrOd8d0YvyaSGX9wJ1718378125.svg"
+    },
+    "references": [
+      {
+        "id": "NG",
+        "colorHx": "#000000",
+        "colorName": "Negro",
+        "colorTexture": "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG_Z.jpg_gWUuPLj81QCDB3f56rdXYZ6ID3sNU4vTXBv4SFoVOlLMLL1Ktd.jpg",
+        "aviable": true,
+        "images": [
+          "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG.jpg_k3KxYEgCTAFOl03ld7Uk32vigwGsj6YDWhvcqXKwHfVGFd2BAW.jpg?ar=809-917",
+          "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG_A.jpg_M3xi31h5MZOtx12Rw6YL5BiJVVVczfBHCntplR5u9YY6OFjEpL.jpg?ar=809-917",
+          "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG_B.jpg_00GOOVclI2UUNJeY10vCtr6QvjATs6ulHvYIUjAeyYgbprOx5s.jpg?ar=809-917",
+          "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG_C.jpg_P5ih3bYo3kOWcR1r9JRi7oxBTghvkcClJrtsvFuNq5pm9AuDOL.jpg?ar=809-917"
+        ],
+        "imagesZoom": [
+          "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG.jpg_k3KxYEgCTAFOl03ld7Uk32vigwGsj6YDWhvcqXKwHfVGFd2BAW.jpg?ar=809-917",
+          "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG_A.jpg_M3xi31h5MZOtx12Rw6YL5BiJVVVczfBHCntplR5u9YY6OFjEpL.jpg?ar=809-917",
+          "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG_B.jpg_00GOOVclI2UUNJeY10vCtr6QvjATs6ulHvYIUjAeyYgbprOx5s.jpg?ar=809-917",
+          "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG_C.jpg_P5ih3bYo3kOWcR1r9JRi7oxBTghvkcClJrtsvFuNq5pm9AuDOL.jpg?ar=809-917"
+        ],
+        "tags": [
+          {
+            "id": "212",
+            "text": "-30%",
+            "textColor": "#ffffff",
+            "backgroundColor": "#0076FF"
+          }
+        ],
+        "sizes": [
+          {
+            "id": "UN",
+            "descripcion": "Única",
+            "name": "UN",
+            "stock": 23
+          },
+          {
+            "id": "SS",
+            "descripcion": "Única",
+            "name": "S",
+            "stock": 23
+          },
+          {
+            "id": "LL",
+            "descripcion": "Única",
+            "name": "L",
+            "stock": 23
+          }
+        ],
+        "video": "",
+        "model": "Altura modelo: <b>175 cm</b> usa talla <b>S</b>."
+      },
+      {
+        "id": "NG",
+        "colorHx": "#000000",
+        "colorName": "Negro",
+        "colorTexture": "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG_Z.jpg_gWUuPLj81QCDB3f56rdXYZ6ID3sNU4vTXBv4SFoVOlLMLL1Ktd.jpg",
+        "aviable": false,
+        "images": [
+          "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG.jpg_k3KxYEgCTAFOl03ld7Uk32vigwGsj6YDWhvcqXKwHfVGFd2BAW.jpg",
+          "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG_A.jpg_M3xi31h5MZOtx12Rw6YL5BiJVVVczfBHCntplR5u9YY6OFjEpL.jpg",
+          "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG_B.jpg_00GOOVclI2UUNJeY10vCtr6QvjATs6ulHvYIUjAeyYgbprOx5s.jpg",
+          "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG_C.jpg_P5ih3bYo3kOWcR1r9JRi7oxBTghvkcClJrtsvFuNq5pm9AuDOL.jpg"
+        ],
+        "imagesZoom": [
+          "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG.jpg_k3KxYEgCTAFOl03ld7Uk32vigwGsj6YDWhvcqXKwHfVGFd2BAW.jpg",
+          "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG_A.jpg_M3xi31h5MZOtx12Rw6YL5BiJVVVczfBHCntplR5u9YY6OFjEpL.jpg",
+          "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG_B.jpg_00GOOVclI2UUNJeY10vCtr6QvjATs6ulHvYIUjAeyYgbprOx5s.jpg",
+          "https://cdn.baguer.co/uploads/2024/10/gorra-monastery-dadra-cap-negro-128050NG_C.jpg_P5ih3bYo3kOWcR1r9JRi7oxBTghvkcClJrtsvFuNq5pm9AuDOL.jpg"
+        ],
+        "tags": [
+          {
+            "id": "2",
+            "text": "Nuevo",
+            "textColor": "#ffffff",
+            "backgroundColor": "#000000"
+          }
+        ],
+        "sizes": [
+          {
+            "id": "UN",
+            "descripcion": "Única",
+            "name": "UN",
+            "stock": 23,
+            "location": ["Bucaramanga", "Manizales"]
+          }
+        ],
+        "video": "",
+        "model": "Altura modelo: <b>175 cm</b> usa talla <b>S</b>."
+      }
+    ],
+    "productOrigin": "Colombia",
+    "carrier": "GRUPO EMPRESARIAL PEMC S.A.S.",
+    "composition": "100% cuero 100%",
+    "clothingType": "superior",
+    "ratings": []
+  }
+]
