@@ -1,0 +1,188 @@
+{
+"bancos": [
+{
+"pseCode": "1815",
+"description": "ALIANZA FIDUCIARIA S.A."
+},
+{
+"pseCode": "1052",
+"description": "AV VILLAS"
+},
+{
+"pseCode": "1558",
+"description": "BAN100"
+},
+{
+"pseCode": "1059",
+"description": "BANCAMIA S.A."
+},
+{
+"pseCode": "1040",
+"description": "BANCO AGRARIO DE COLOMBIA"
+},
+{
+"pseCode": "1032",
+"description": "BANCO CAJA SOCIAL"
+},
+{
+"pseCode": "1066",
+"description": "BANCO COOPERATIVO COOPCENTRAL"
+},
+{
+"pseCode": "1001",
+"description": "BANCO DE BOGOTÁ"
+},
+{
+"pseCode": "1059",
+"description": "BANCO DE LAS MICROFINANZAS BANCAMIA"
+},
+{
+"pseCode": "1023",
+"description": "BANCO DE OCCIDENTE"
+},
+{
+"pseCode": "1062",
+"description": "BANCO FALABELLA"
+},
+{
+"pseCode": "1063",
+"description": "BANCO FINANDINA"
+},
+{
+"pseCode": "1012",
+"description": "BANCO GNB SUDAMERIS"
+},
+{
+"pseCode": "1006",
+"description": "BANCO ITAÚ"
+},
+{
+"pseCode": "1047",
+"description": "BANCO MUNDO MUJER"
+},
+{
+"pseCode": "1060",
+"description": "BANCO PICHINCHA"
+},
+{
+"pseCode": "1002",
+"description": "BANCO POPULAR"
+},
+{
+"pseCode": "1069",
+"description": "BANCO SERFINANZA"
+},
+{
+"pseCode": "1303",
+"description": "BANCO UNIÓN"
+},
+{
+"pseCode": "1007",
+"description": "BANCOLOMBIA"
+},
+{
+"pseCode": "1061",
+"description": "BANCOOMEVA"
+},
+{
+"pseCode": "1013",
+"description": "BBVA"
+},
+{
+"pseCode": "1808",
+"description": "BOLD CF"
+},
+{
+"pseCode": "1283",
+"description": "CFA COOPERATIVA FINANCIERA"
+},
+{
+"pseCode": "1009",
+"description": "CITIBANK"
+},
+{
+"pseCode": "1812",
+"description": "COINK SA"
+},
+{
+"pseCode": "1370",
+"description": "COLTEFINANCIERA"
+},
+{
+"pseCode": "1292",
+"description": "CONFIAR COOPERATIVA FINANCIERA"
+},
+{
+"pseCode": "1289",
+"description": "COTRAFA"
+},
+{
+"pseCode": "1816",
+"description": "CREZCAMOS S.A. COMPAÑÍA DE FINANCIAMIENTO"
+},
+{
+"pseCode": "1097",
+"description": "DALE!"
+},
+{
+"pseCode": "1551",
+"description": "DAVIPLATA"
+},
+{
+"pseCode": "1051",
+"description": "DAVIVIENDA"
+},
+{
+"pseCode": "1802",
+"description": "DING TECNIPAGOS S.A."
+},
+{
+"pseCode": "1637",
+"description": "FINANCIERA DANN REGIONAL - IRIS"
+},
+{
+"pseCode": "1071",
+"description": "J.P. MORGAN"
+},
+{
+"pseCode": "1286",
+"description": "JFK COOPERATIVA FINANCIERA"
+},
+{
+"pseCode": "1070",
+"description": "LULO BANK"
+},
+{
+"pseCode": "1801",
+"description": "MOVII"
+},
+{
+"pseCode": "1507",
+"description": "NEQUI"
+},
+{
+"pseCode": "1809",
+"description": "NU. COLOMBIA COMPAÑIA DE FINANCIAMIENTO S.A."
+},
+{
+"pseCode": "1803",
+"description": "POWWI"
+},
+{
+"pseCode": "1811",
+"description": "RAPPIPAY"
+},
+{
+"pseCode": "1065",
+"description": "SANTANDER"
+},
+{
+"pseCode": "1019",
+"description": "SCOTIABANK COLPATRIA"
+},
+{
+"pseCode": "1804",
+"description": "UALÁ"
+}
+]
+}
