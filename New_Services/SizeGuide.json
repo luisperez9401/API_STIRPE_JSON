@@ -1,0 +1,17 @@
+{
+  "category": "CAMISAS",
+  "header": "Prenda superior hombre",
+  "thead": ["Talla", "Pecho (cm)", "Cintura (cm)"],
+  "tbody": [
+    ["XS", "96", "81"],
+    ["S", "98", "83"],
+    ["M", "100", "85"],
+    ["L", "102", "87"],
+    ["XL", "104", "89"],
+    ["2XL", "106", "91"],
+    ["3XL", "108", "93"],
+    ["4XL", "110", "95"]
+  ],
+  "image_url": "_nuxt/assets/images/prenda-superior.svg?ar=155/288",
+  "img_logo_brand": "https://cdn.baguer.co/brands/img_logo_emIbQ6w9Er9QCU0Czgyc1O8uL5PMbG5NzHd1623872823.svg"
+}
