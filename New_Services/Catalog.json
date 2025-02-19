@@ -1,0 +1,562 @@
+{
+  "general_data": {
+    "title": "Hombre más vendido",
+    "subtitle": "Lo más vendido",
+    "description": "Primera tienda Online en Colombia donde compras tus marcas preferidas y pagas en cómodas cuotas semanales con nuestro Cupo Personal ¡Solicítalo YA!."
+  },
+  "products": {
+    "current_page": 1,
+    "data": [
+      {
+        "sku": "128643",
+        "price": 999900,
+        "discountPrice": 0,
+        "productName": "Tenis diesel s-brentha wl",
+        "productDescription": "Gorra elaborada en tejido aterciopelado, con bordado frontal en plateado. El sistema de cierre está confeccionado en cuero 100% y lleva la marca. DADRA es la pieza que complementa tus atuendos con detalles únicos y originales.",
+        "gender": "Hombre",
+        "breadcrumbs": [
+          {
+            "name": "Hombre",
+            "route": "/hombre"
+          },
+          {
+            "name": "Zapatos",
+            "route": "/hombre-zapatos"
+          },
+          {
+            "name": "Tenis",
+            "route": "/hombre-zapatos-tenis"
+          },
+          {
+            "name": "Tenis diesel s-brentha wl",
+            "route": "/product-128050-GORRA-MONASTERY-NASCAR-CAP"
+          }
+        ],
+        "brand": {
+          "id": "3",
+          "name": "Diesel",
+          "logo": "https://cdn.baguer.co/brands/img_logo_7XQ8xFB947mk1udyyj7QCOUgr4dhhHjoUit1623872217.svg"
+        },
+        "route": "product-128050-GORRA-MONASTERY-NASCAR-CAP",
+        "references": [
+          {
+            "id": "GR",
+            "colorHx": "#9D9D9D",
+            "colorName": "GRIS",
+            "colorTexture": "https://cdn.baguer.co/uploads/2024/10/128643gr-zjpg-ukftnmsmqxhqvr54pzjvm2pvjygawnhdp0krnnuvmila7k8wnc1729261039.jpg",
+            "aviable": true,
+            "images": [
+              "https://cdn.baguer.co/uploads/2024/10/128643grjpg-ke8ouit62hy6rdac5zb1tpafhnhxxjrddpi9unsb5videl4ifo1729261036.jpg"
+            ],
+            "tags": [
+              {
+                "id": "2",
+                "text": "Nuevo",
+                "textColor": "#ffffff",
+                "backgroundColor": "#000000"
+              }
+            ],
+            "sizes": [
+              {
+                "id": "90",
+                "descripcion": "Talla 9.0",
+                "name": "9.0",
+                "stock": 4
+              },
+              {
+                "id": "95",
+                "descripcion": "Talla 9.5",
+                "name": "9.5",
+                "stock": 4
+              },
+              {
+                "id": "10",
+                "descripcion": "Talla 10",
+                "name": "10",
+                "stock": 4
+              },
+              {
+                "id": "10.5",
+                "descripcion": "Talla 10.5",
+                "name": "10.5",
+                "stock": 4
+              },
+              {
+                "id": "11",
+                "descripcion": "Talla 11",
+                "name": "11",
+                "stock": 4
+              }
+            ],
+            "video": ""
+          }
+        ],
+        "quantity": 1
+      },
+      {
+        "productName": "Alex t-shirt combinada typer 1",
+        "sku": "123456",
+        "category": "T-Shirts",
+        "brand": {
+          "id": "118",
+          "name": "Typer",
+          "logo": "https://cdn.baguer.co/brands/img_logo_emIbQ6w9Er9QCU0Czgyc1O8uL5PMbG5NzHd1623872823.svg"
+        },
+        "route": "product-128050-GORRA-MONASTERY-NASCAR-CAP",
+        "price": "138950",
+        "discountPrice": "",
+        "references": [
+          {
+            "id": "RJ",
+            "colorHx": "#ffa347",
+            "colorName": "Mostaza",
+            "colorTexture": "https://cdn.baguer.co/uploads/2024/09/833535mt-zjpg-x4zekmqjyepeqx7gja1ems4lagaewkqixhvnc6nlzul7wwxza41725901048.jpg",
+            "aviable": true,
+            "images": [
+              "https://cdn.baguer.co/uploads/2024/09/833535mt-ajpg-ane9mnyoo0axbkxynvieh8vafhii3vu4jbtiljcdeqg0epzz3r1725901047.jpg?ar=961-1088",
+              "https://cdn.baguer.co/uploads/2024/09/833535mt-bjpg-alsfts9wuficx0nwopb0xejcban4awya59lrubcdxdgohnru5s1725901048.jpg?ar=961-1088",
+              "https://cdn.baguer.co/uploads/2024/09/833535mt-ojpg-zhorylnct9lmu1xdgzc0s2gvr1wlztibuofsd9i40tmariytvy1725901048.jpg?ar=961-1088"
+            ],
+            "tags": [
+              {
+                "id": "2",
+                "text": "Nuevo",
+                "textColor": "#ffffff",
+                "backgroundColor": "#000000"
+              }
+            ],
+            "sizes": [
+              {
+                "id": "39",
+                "descripcion": "TALLA S",
+                "name": "39",
+                "stock": 52
+              },
+              {
+                "id": "40",
+                "descripcion": "TALLA M",
+                "name": "40",
+                "stock": 57
+              },
+              {
+                "id": "41",
+                "descripcion": "TALLA L",
+                "name": "41",
+                "stock": 25
+              },
+              {
+                "id": "42",
+                "descripcion": "TALLA XL",
+                "name": "42",
+                "stock": 12
+              },
+              {
+                "id": "43",
+                "descripcion": "TALLA XL",
+                "name": "43",
+                "stock": 12
+              }
+            ]
+          },
+          {
+            "id": "VD",
+            "colorHx": "#20CE00",
+            "colorName": "Verde",
+            "colorTexture": "https://cdn.baguer.co/uploads/2024/09/833535vd-zjpg-8ukhineog39ktxv7aq4wigfbrocpubzpzbziuha8t7wucwzixf1725901052.jpg",
+            "aviable": false,
+            "images": [
+              "https://cdn.baguer.co/uploads/2024/09/833535vdjpg-o59vnvxobsjykkebdlz6h3ztoueu4hc274qba5mdlx38tkjcwi1725901049.jpg?ar=961-1088",
+              "https://cdn.baguer.co/uploads/2024/09/833535vd-ajpg-wxq8udiz6kgvhxcc06zh8zji17qfq5ll6a3pq4aojdjb1q2lf91725901050.jpg?ar=961-1088",
+              "https://cdn.baguer.co/uploads/2024/09/833535vd-bjpg-eghsjrpwbopc7ifi5rwpni0wtjytamip8tfwcmzh53cjisrm8f1725901051.jpg?ar=961-1088",
+              "https://cdn.baguer.co/uploads/2024/09/833535vd-ojpg-zcffjs5xxudxflad6m3air3tqhuz21ktp20w5hw10cbeoa3xse1725901051.jpg?ar=961-1088"
+            ],
+            "tags": [
+              {
+                "id": "2",
+                "text": "Nuevo :3",
+                "textColor": "#ffffff",
+                "backgroundColor": "#000000"
+              }
+            ],
+            "sizes": [
+              {
+                "id": "SS",
+                "descripcion": "TALLA S",
+                "name": "S",
+                "stock": 52
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Rodric camibuzo oversized estampado typer",
+        "sku": "832109",
+        "category": "Buzos",
+        "brand": {
+          "id": "118",
+          "name": "Typer",
+          "logo": "https://cdn.baguer.co/brands/img_logo_emIbQ6w9Er9QCU0Czgyc1O8uL5PMbG5NzHd1623872823.svg"
+        },
+        "route": "product-832109-Rodric-camibuzo-oversized-estampado-typer",
+        "price": "74380",
+        "discountPrice": "185950",
+        "references": [
+          {
+            "id": "AO",
+            "colorHx": "#2196F3",
+            "model": "Altura modelo: <b>180 cm</b> usa talla <b>S</b>.",
+            "video": "",
+            "colorName": "Azul Oscuro",
+            "colorTexture": "https://cdn.baguer.co/uploads/2024/02/832109ao-zjpg-l0frficx53sjzvylprechd09yoi1f9poekw4q8bklf87ajbddn1709245919.jpg",
+            "aviable": true,
+            "images": [
+              "https://cdn.baguer.co/uploads/2025/01/gorra-goorin-bros-howling-duck-negro-129749NG.jpg_EatwQ4gcNakFwrfEaIl5RaCG8f3yemUwaH2Aq0vqCzB0ZtkeC9.webp",
+              "https://cdn.baguer.co/uploads/2024/02/832109ao-ajpg-qovguoc86gvczbqbsrfyrdvlnuu5ebzoozuqiue0pwn2jmv1h51709245917.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109ao-bjpg-x6vkzqbg6ncffew2pkt9sxdj3u71ejycgk8gfpieh6g95xxamd1709245918.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109ao-cjpg-rxbrmjgjnmenci5z8nxzpknpjlgbu73cdm1c7ywegsvkjrr0r91709245918.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109ao-ojpg-jpshbx0ecyli4rjs92sillqopilflf4weip5oegnnopdvnzcrw1709245919.jpg"
+            ],
+            "tags": [
+              {
+                "id": "24",
+                "text": "60%",
+                "textColor": "#ffffff",
+                "backgroundColor": "#000000"
+              }
+            ],
+            "sizes": [
+              {
+                "id": "SS",
+                "descripcion": "TALLA S",
+                "name": "S",
+                "stock": 52
+              },
+              {
+                "id": "MM",
+                "descripcion": "TALLA M",
+                "name": "M",
+                "stock": 0
+              },
+              {
+                "id": "LL",
+                "descripcion": "TALLA L",
+                "name": "L",
+                "stock": 0
+              },
+              {
+                "id": "XL",
+                "descripcion": "TALLA XL",
+                "name": "XL",
+                "stock": 0
+              }
+            ]
+          },
+          {
+            "id": "BL",
+            "colorHx": "#ffffff",
+            "colorName": "Blanco",
+            "colorTexture": "https://cdn.baguer.co/uploads/2024/02/832109bl-zjpg-rbowatdmgwj8ief1qitn04q9xyhlbdffsyqhv7hsotvymoszo71709245923.jpg",
+            "aviable": true,
+            "images": [
+              "https://cdn.baguer.co/uploads/2024/02/832109bljpg-kjidp7rn4f995ahrnja9ahwknadsq2d0mzqzlwoxglzlqfaofh1709245920.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109bl-ajpg-q8qlefqp5tgnoacp9six4aqdvku58j3vwe3nagqmvey1bipmqg1709245921.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109bl-bjpg-vpmww3uqow8hfngclcjbtuzsrgbxywlajyippyymiqkvicohnl1709245921.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109bl-cjpg-nn3zylta7rruij8e2rnzdejh6io53mp13uv0u5exnfbpfpedxs1709245922.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109bl-ojpg-iotliloeia1ub9yyzuisokegy7tisu4idhuiq3fjjdo1tapizn1709245922.jpg"
+            ],
+            "tags": [
+              {
+                "id": "21423",
+                "text": "60%",
+                "textColor": "#ffffff",
+                "backgroundColor": "#000000"
+              }
+            ],
+            "sizes": [
+              {
+                "id": "SS",
+                "descripcion": "TALLA S",
+                "name": "S",
+                "stock": 0
+              },
+              {
+                "id": "MM",
+                "descripcion": "TALLA M",
+                "name": "M",
+                "stock": 0
+              },
+              {
+                "id": "LL",
+                "descripcion": "TALLA L",
+                "name": "L",
+                "stock": 0
+              },
+              {
+                "id": "XL",
+                "descripcion": "TALLA XL",
+                "name": "XL",
+                "stock": 0
+              }
+            ]
+          }
+        ],
+        "clothingType": "superior",
+        "gender": "hombre"
+      },
+      {
+        "productName": "Rodric camibuzo oversized estampado typer",
+        "sku": "832109",
+        "category": "Buzos",
+        "brand": {
+          "id": "118",
+          "name": "Typer",
+          "logo": "https://cdn.baguer.co/brands/img_logo_emIbQ6w9Er9QCU0Czgyc1O8uL5PMbG5NzHd1623872823.svg"
+        },
+        "route": "product-832109-Rodric-camibuzo-oversized-estampado-typer",
+        "price": "74380",
+        "discountPrice": "185950",
+        "references": [
+          {
+            "id": "AO",
+            "colorHx": "#2196F3",
+            "model": "Altura modelo: <b>180 cm</b> usa talla <b>S</b>.",
+            "video": "",
+            "colorName": "Azul Oscuro",
+            "colorTexture": "https://cdn.baguer.co/uploads/2024/02/832109ao-zjpg-l0frficx53sjzvylprechd09yoi1f9poekw4q8bklf87ajbddn1709245919.jpg",
+            "aviable": true,
+            "images": [
+              "https://cdn.baguer.co/uploads/2025/01/gorra-goorin-bros-howling-duck-negro-129749NG.jpg_EatwQ4gcNakFwrfEaIl5RaCG8f3yemUwaH2Aq0vqCzB0ZtkeC9.webp",
+              "https://cdn.baguer.co/uploads/2024/02/832109ao-ajpg-qovguoc86gvczbqbsrfyrdvlnuu5ebzoozuqiue0pwn2jmv1h51709245917.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109ao-bjpg-x6vkzqbg6ncffew2pkt9sxdj3u71ejycgk8gfpieh6g95xxamd1709245918.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109ao-cjpg-rxbrmjgjnmenci5z8nxzpknpjlgbu73cdm1c7ywegsvkjrr0r91709245918.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109ao-ojpg-jpshbx0ecyli4rjs92sillqopilflf4weip5oegnnopdvnzcrw1709245919.jpg"
+            ],
+            "tags": [
+              {
+                "id": "24",
+                "text": "60%",
+                "textColor": "#ffffff",
+                "backgroundColor": "#000000"
+              }
+            ],
+            "sizes": [
+              {
+                "id": "SS",
+                "descripcion": "TALLA S",
+                "name": "S",
+                "stock": 52
+              },
+              {
+                "id": "MM",
+                "descripcion": "TALLA M",
+                "name": "M",
+                "stock": 0
+              },
+              {
+                "id": "LL",
+                "descripcion": "TALLA L",
+                "name": "L",
+                "stock": 0
+              },
+              {
+                "id": "XL",
+                "descripcion": "TALLA XL",
+                "name": "XL",
+                "stock": 0
+              }
+            ]
+          },
+          {
+            "id": "BL",
+            "colorHx": "#ffffff",
+            "colorName": "Blanco",
+            "colorTexture": "https://cdn.baguer.co/uploads/2024/02/832109bl-zjpg-rbowatdmgwj8ief1qitn04q9xyhlbdffsyqhv7hsotvymoszo71709245923.jpg",
+            "aviable": true,
+            "images": [
+              "https://cdn.baguer.co/uploads/2024/02/832109bljpg-kjidp7rn4f995ahrnja9ahwknadsq2d0mzqzlwoxglzlqfaofh1709245920.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109bl-ajpg-q8qlefqp5tgnoacp9six4aqdvku58j3vwe3nagqmvey1bipmqg1709245921.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109bl-bjpg-vpmww3uqow8hfngclcjbtuzsrgbxywlajyippyymiqkvicohnl1709245921.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109bl-cjpg-nn3zylta7rruij8e2rnzdejh6io53mp13uv0u5exnfbpfpedxs1709245922.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109bl-ojpg-iotliloeia1ub9yyzuisokegy7tisu4idhuiq3fjjdo1tapizn1709245922.jpg"
+            ],
+            "tags": [
+              {
+                "id": "21423",
+                "text": "60%",
+                "textColor": "#ffffff",
+                "backgroundColor": "#000000"
+              }
+            ],
+            "sizes": [
+              {
+                "id": "SS",
+                "descripcion": "TALLA S",
+                "name": "S",
+                "stock": 0
+              },
+              {
+                "id": "MM",
+                "descripcion": "TALLA M",
+                "name": "M",
+                "stock": 0
+              },
+              {
+                "id": "LL",
+                "descripcion": "TALLA L",
+                "name": "L",
+                "stock": 0
+              },
+              {
+                "id": "XL",
+                "descripcion": "TALLA XL",
+                "name": "XL",
+                "stock": 0
+              }
+            ]
+          }
+        ],
+        "clothingType": "superior",
+        "gender": "hombre"
+      },
+      {
+        "productName": "Rodric camibuzo oversized estampado typer",
+        "sku": "832109",
+        "category": "Buzos",
+        "brand": {
+          "id": "118",
+          "name": "Typer",
+          "logo": "https://cdn.baguer.co/brands/img_logo_emIbQ6w9Er9QCU0Czgyc1O8uL5PMbG5NzHd1623872823.svg"
+        },
+        "route": "product-832109-Rodric-camibuzo-oversized-estampado-typer",
+        "price": "74380",
+        "discountPrice": "185950",
+        "references": [
+          {
+            "id": "AO",
+            "colorHx": "#2196F3",
+            "model": "Altura modelo: <b>180 cm</b> usa talla <b>S</b>.",
+            "video": "",
+            "colorName": "Azul Oscuro",
+            "colorTexture": "https://cdn.baguer.co/uploads/2024/02/832109ao-zjpg-l0frficx53sjzvylprechd09yoi1f9poekw4q8bklf87ajbddn1709245919.jpg",
+            "aviable": true,
+            "images": [
+              "https://cdn.baguer.co/uploads/2025/01/gorra-goorin-bros-howling-duck-negro-129749NG.jpg_EatwQ4gcNakFwrfEaIl5RaCG8f3yemUwaH2Aq0vqCzB0ZtkeC9.webp",
+              "https://cdn.baguer.co/uploads/2024/02/832109ao-ajpg-qovguoc86gvczbqbsrfyrdvlnuu5ebzoozuqiue0pwn2jmv1h51709245917.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109ao-bjpg-x6vkzqbg6ncffew2pkt9sxdj3u71ejycgk8gfpieh6g95xxamd1709245918.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109ao-cjpg-rxbrmjgjnmenci5z8nxzpknpjlgbu73cdm1c7ywegsvkjrr0r91709245918.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109ao-ojpg-jpshbx0ecyli4rjs92sillqopilflf4weip5oegnnopdvnzcrw1709245919.jpg"
+            ],
+            "tags": [
+              {
+                "id": "24",
+                "text": "60%",
+                "textColor": "#ffffff",
+                "backgroundColor": "#000000"
+              }
+            ],
+            "sizes": [
+              {
+                "id": "SS",
+                "descripcion": "TALLA S",
+                "name": "S",
+                "stock": 52
+              },
+              {
+                "id": "MM",
+                "descripcion": "TALLA M",
+                "name": "M",
+                "stock": 0
+              },
+              {
+                "id": "LL",
+                "descripcion": "TALLA L",
+                "name": "L",
+                "stock": 0
+              },
+              {
+                "id": "XL",
+                "descripcion": "TALLA XL",
+                "name": "XL",
+                "stock": 0
+              }
+            ]
+          },
+          {
+            "id": "BL",
+            "colorHx": "#ffffff",
+            "colorName": "Blanco",
+            "colorTexture": "https://cdn.baguer.co/uploads/2024/02/832109bl-zjpg-rbowatdmgwj8ief1qitn04q9xyhlbdffsyqhv7hsotvymoszo71709245923.jpg",
+            "aviable": true,
+            "images": [
+              "https://cdn.baguer.co/uploads/2024/02/832109bljpg-kjidp7rn4f995ahrnja9ahwknadsq2d0mzqzlwoxglzlqfaofh1709245920.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109bl-ajpg-q8qlefqp5tgnoacp9six4aqdvku58j3vwe3nagqmvey1bipmqg1709245921.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109bl-bjpg-vpmww3uqow8hfngclcjbtuzsrgbxywlajyippyymiqkvicohnl1709245921.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109bl-cjpg-nn3zylta7rruij8e2rnzdejh6io53mp13uv0u5exnfbpfpedxs1709245922.jpg",
+              "https://cdn.baguer.co/uploads/2024/02/832109bl-ojpg-iotliloeia1ub9yyzuisokegy7tisu4idhuiq3fjjdo1tapizn1709245922.jpg"
+            ],
+            "tags": [
+              {
+                "id": "21423",
+                "text": "60%",
+                "textColor": "#ffffff",
+                "backgroundColor": "#000000"
+              }
+            ],
+            "sizes": [
+              {
+                "id": "SS",
+                "descripcion": "TALLA S",
+                "name": "S",
+                "stock": 0
+              },
+              {
+                "id": "MM",
+                "descripcion": "TALLA M",
+                "name": "M",
+                "stock": 0
+              },
+              {
+                "id": "LL",
+                "descripcion": "TALLA L",
+                "name": "L",
+                "stock": 0
+              },
+              {
+                "id": "XL",
+                "descripcion": "TALLA XL",
+                "name": "XL",
+                "stock": 0
+              }
+            ]
+          }
+        ],
+        "clothingType": "superior",
+        "gender": "hombre"
+      }
+    ],
+    "first_page_url": "http://api.stirpe.co/api/products/catalogue/mas_vendido-hombre?page=1",
+    "from": 1,
+    "last_page": 2,
+    "last_page_url": "http://api.stirpe.co/api/products/catalogue/mas_vendido-hombre?page=2",
+    "next_page_url": null,
+    "path": "http://api.stirpe.co/api/products/catalogue/mas_vendido-hombre",
+    "per_page": 35,
+    "prev_page_url": null,
+    "to": 35,
+    "total": 55
+  },
+  "sales_strategy": {
+    "name": "Compra hoy y paga en 60 días",
+    "description": "Compra hoy y paga en 60 d&iacute;as del 15 al 20 de enero",
+    "url_analytics": "https://stirpe.co/politica-alianza-quac-compra",
+    "banner_desktop": "https://cdn.baguer.co/uploads/banners_estrategias/banner_movil_estrategia_venta96FwvScNGiMUu5xyxMXrmiDdWA2TQd065AX1737411590.jpg?ar=961-1088",
+    "banner_mobile": "https://cdn.baguer.co/uploads/banners_estrategias/banner_movil_estrategia_venta96FwvScNGiMUu5xyxMXrmiDdWA2TQd065AX1737411590.jpg?ar=961-1088",
+    "banner_full": null,
+    "priority_level": 3,
+    "background_color": "#000000",
+    "color_bg_btn": "#000000",
+    "color_text_btn": "#000000",
+    "banner_video": null
+  }
+}
