@@ -1,0 +1,7760 @@
+[
+  {
+    "code": "91",
+    "description": "AMAZONAS",
+    "cities": [
+      {
+        "departmentCode": "91",
+        "code": "001",
+        "description": "leticia",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "05",
+    "description": "ANTIOQUIA",
+    "cities": [
+      {
+        "departmentCode": "05",
+        "code": "002",
+        "description": "abejorral",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "004",
+        "description": "abriaqu\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "021",
+        "description": "alejandr\u00eda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "030",
+        "description": "amaga",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "031",
+        "description": "amalfi",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "034",
+        "description": "andes",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "036",
+        "description": "angelopolis",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "038",
+        "description": "angostura",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "040",
+        "description": "anori",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "044",
+        "description": "anza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "045",
+        "description": "apartad\u00f3",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "051",
+        "description": "arboletes",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "055",
+        "description": "argelia (a)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "059",
+        "description": "armenia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "079",
+        "description": "barbosa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "088",
+        "description": "bello",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "086",
+        "description": "belmira",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "091",
+        "description": "betania",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "093",
+        "description": "betulia (ant)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "107",
+        "description": "brice\u00f1o",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "113",
+        "description": "buritic\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "120",
+        "description": "c\u00e1ceres",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "125",
+        "description": "caicedo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "129",
+        "description": "caldas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "134",
+        "description": "campamento",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "138",
+        "description": "ca\u00f1asgordas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "142",
+        "description": "caracol\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "145",
+        "description": "caramanta",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "147",
+        "description": "carepa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "150",
+        "description": "carolina",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "893",
+        "description": "casabe - yondo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "154",
+        "description": "caucasia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "172",
+        "description": "chigorod\u00f3",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "190",
+        "description": "cisneros",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "101",
+        "description": "ciudad bolivar",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "197",
+        "description": "cocorna",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "206",
+        "description": "concepci\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "209",
+        "description": "concordia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "212",
+        "description": "copacabana",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "837001",
+        "description": "currulao",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "234",
+        "description": "dabeiba",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "237",
+        "description": "don matias",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "591004",
+        "description": "doradal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "240",
+        "description": "ebejico",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "250",
+        "description": "el bagre",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "148",
+        "description": "el carmen de viboral",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "697",
+        "description": "el santuario",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "819002",
+        "description": "el valle",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "264",
+        "description": "entrerrios",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "266",
+        "description": "envigado",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "282",
+        "description": "fredonia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "284",
+        "description": "frontino",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "306",
+        "description": "giraldo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "308",
+        "description": "girardota",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "310",
+        "description": "gomez plata",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "313",
+        "description": "granada",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "315",
+        "description": "guadalupe",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "318",
+        "description": "guarne",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "321",
+        "description": "guatap\u00e9",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "347",
+        "description": "heliconia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "353",
+        "description": "hispania",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "360",
+        "description": "itagu\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "361",
+        "description": "ituango",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "364",
+        "description": "jard\u00edn",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "368",
+        "description": "jeric\u00f3",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "376",
+        "description": "la ceja",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "380",
+        "description": "la estrella",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "390",
+        "description": "la pintada",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "585003",
+        "description": "la sierra",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "400",
+        "description": "la uni\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "425",
+        "description": "maceo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "440",
+        "description": "marinilla",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "001",
+        "description": "medell\u00edn",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "467",
+        "description": "montebello",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "475",
+        "description": "murindo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "480",
+        "description": "mutata",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "483",
+        "description": "nari\u00f1o",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "495",
+        "description": "nechi",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "490",
+        "description": "necocli",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "837002",
+        "description": "nueva colonia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "501",
+        "description": "olaya",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "789001",
+        "description": "palermo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "541",
+        "description": "pe\u00f1ol",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "543",
+        "description": "peque",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "576",
+        "description": "pueblorrico",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "579",
+        "description": "puerto berrio",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "250002",
+        "description": "puerto claver",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "585",
+        "description": "puerto nare",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "591002",
+        "description": "puerto perales nuevo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "591",
+        "description": "puerto triunfo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "604",
+        "description": "remedios",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "607",
+        "description": "retiro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "615",
+        "description": "rionegro (ant)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "628",
+        "description": "sabanalarga",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "631",
+        "description": "sabaneta",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "642",
+        "description": "salgar",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "647",
+        "description": "san andres de cuerquia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "001002",
+        "description": "san antonio de prado",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "649",
+        "description": "san carlos",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "411007",
+        "description": "san cristobal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "893005",
+        "description": "san francisco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "656",
+        "description": "san jer\u00f3nimo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "658",
+        "description": "san jos\u00e9 de la monta\u00f1a",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "659",
+        "description": "san juan de uraba",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "660",
+        "description": "san luis",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "664",
+        "description": "san pedro de los milagros",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "665",
+        "description": "san pedro de uraba",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "667",
+        "description": "san rafael",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "670",
+        "description": "san roque",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "674",
+        "description": "san vicente",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "679",
+        "description": "santa barbara",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "686",
+        "description": "santa rosa de osos",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "042",
+        "description": "santa f\u00e9 de antioquia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "690",
+        "description": "santo domingo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "736",
+        "description": "segovia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "756",
+        "description": "sons\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "761",
+        "description": "sopetr\u00e1n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "789",
+        "description": "t\u00e1mesis",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "790",
+        "description": "taraz\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "792",
+        "description": "tarso",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "809",
+        "description": "titirib\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "819",
+        "description": "toledo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "837",
+        "description": "turbo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "842",
+        "description": "uramita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "847",
+        "description": "urrao",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "854",
+        "description": "valdivia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "856",
+        "description": "valparaiso",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "858",
+        "description": "vegachi",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "861",
+        "description": "venecia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "873",
+        "description": "vigia del fuerte",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "885",
+        "description": "yali",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "887",
+        "description": "yarumal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "890",
+        "description": "yolombo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "05",
+        "code": "895",
+        "description": "zaragoza",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "81",
+    "description": "ARAUCA",
+    "cities": [
+      {
+        "departmentCode": "81",
+        "code": "001",
+        "description": "arauca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "81",
+        "code": "065",
+        "description": "arauquita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "81",
+        "code": "220",
+        "description": "cravo norte",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "81",
+        "code": "300",
+        "description": "fortul",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "81",
+        "code": "591",
+        "description": "puerto rondon",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "81",
+        "code": "736",
+        "description": "saravena",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "81",
+        "code": "794",
+        "description": "tame",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "88",
+    "description": "ARCHIPIELAGO DE SAN ANDR\u00c9S",
+    "cities": [
+      {
+        "departmentCode": "88",
+        "code": "001",
+        "description": "SAN ANDR\u00c9S",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "08",
+    "description": "ATL\u00c1NTICO",
+    "cities": [
+      {
+        "departmentCode": "08",
+        "code": "638001",
+        "description": "aguada de pablo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "078",
+        "description": "baranoa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "001",
+        "description": "barranquilla",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "078001",
+        "description": "campeche",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "137",
+        "description": "campo de la cruz",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "141",
+        "description": "candelaria",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "433001",
+        "description": "caracol\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "638002",
+        "description": "cascajal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "296",
+        "description": "galapa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "372",
+        "description": "juan de acosta",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "001001",
+        "description": "juan mina",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "638005",
+        "description": "la pe\u00f1a",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "421",
+        "description": "luruaco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "433",
+        "description": "malambo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "436",
+        "description": "manat\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "520",
+        "description": "palmar de varela",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "549",
+        "description": "piojo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "558",
+        "description": "polonuevo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "560",
+        "description": "ponedera",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "573",
+        "description": "puerto colombia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "560003",
+        "description": "puerto giraldo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "606",
+        "description": "repel\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "634",
+        "description": "sabanagrande",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "638",
+        "description": "sabanalarga",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "421005",
+        "description": "santa cruz",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "675",
+        "description": "santa luc\u00eda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "685",
+        "description": "santo tom\u00e1s",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "758",
+        "description": "soledad",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "770",
+        "description": "suan",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "832",
+        "description": "tubar\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "08",
+        "code": "849",
+        "description": "usiacur\u00ed",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "11",
+    "description": "BOGOT\u00c1",
+    "cities": [
+      {
+        "departmentCode": "11",
+        "code": "001",
+        "description": "bogot\u00e1",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "13",
+    "description": "BOL\u00cdVAR",
+    "cities": [
+      {
+        "departmentCode": "13",
+        "code": "006",
+        "description": "achi",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "030",
+        "description": "altos del rosario",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "042",
+        "description": "arenal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "052",
+        "description": "arjona b",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "062",
+        "description": "arroyohondo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "074",
+        "description": "barranco de loba",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "001004",
+        "description": "bayunca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "140",
+        "description": "calamar",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "160",
+        "description": "cantagallo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "001",
+        "description": "cartagena",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "430006",
+        "description": "cascajal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "188",
+        "description": "cicuco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "222",
+        "description": "clemencia b",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "244",
+        "description": "el carmen de bol\u00edvar",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "248",
+        "description": "el guamo (b)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "268",
+        "description": "el pe\u00f1\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "052002",
+        "description": "gambote",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "300",
+        "description": "hatillo de loba",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "430013",
+        "description": "juan arias",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "430",
+        "description": "magangu\u00e9",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "433",
+        "description": "mahates",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "433003",
+        "description": "malagana",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "440",
+        "description": "margarita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "442",
+        "description": "maria la baja b",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "468",
+        "description": "momp\u00f3s",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "473",
+        "description": "morales (b)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "490",
+        "description": "norosi",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "001009",
+        "description": "pasacaballos",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "549",
+        "description": "pinillos",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "001020",
+        "description": "pontezuela",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "430048",
+        "description": "punta de cartagena",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "580",
+        "description": "regidor",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "600",
+        "description": "rio viejo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "654005",
+        "description": "san cristobal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "647",
+        "description": "san estanislao",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "650",
+        "description": "san fernando (b)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "654",
+        "description": "san jacinto",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "655",
+        "description": "san jacinto del cauca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "657",
+        "description": "san juan nepomuceno",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "667",
+        "description": "san mart\u00edn de loba",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "670",
+        "description": "san pablo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "001012",
+        "description": "santa ana (b)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "673",
+        "description": "santa catalina",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "683",
+        "description": "santa rosa de lima",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "688",
+        "description": "santa rosa del sur",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "744",
+        "description": "simit\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "052004",
+        "description": "sincer\u00edn",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "760",
+        "description": "soplaviento b",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "780",
+        "description": "talaigua nuevo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "810011",
+        "description": "tiquisio nuevo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "836",
+        "description": "turbaco b",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "838",
+        "description": "turbana",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "873",
+        "description": "villanueva",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "430900",
+        "description": "yati",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "894",
+        "description": "zambrano",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "13",
+        "code": "212",
+        "description": "cordoba",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "15",
+    "description": "BOYAC\u00c1",
+    "cities": [
+      {
+        "departmentCode": "15",
+        "code": "022",
+        "description": "almeida",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "047",
+        "description": "aquitania",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "051",
+        "description": "arcabuco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "087",
+        "description": "bel\u00e9n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "491001",
+        "description": "belencito",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "090",
+        "description": "berbeo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "092",
+        "description": "bet\u00e9itiva",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "097",
+        "description": "boavita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "104",
+        "description": "boyac\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "106",
+        "description": "brice\u00f1o (b)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "109",
+        "description": "buenavista",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "114",
+        "description": "busbanza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "131",
+        "description": "caldas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "135",
+        "description": "campohermoso",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "162",
+        "description": "cerinza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "172",
+        "description": "chinavita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "176",
+        "description": "chiquinquir\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "232",
+        "description": "ch\u00edquiza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "180",
+        "description": "chiscas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "183",
+        "description": "chita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "185",
+        "description": "chitaraque",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "187",
+        "description": "chivata",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "236",
+        "description": "chivor",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "189",
+        "description": "ci\u00e9nega",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "204",
+        "description": "combit\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "212",
+        "description": "coper",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "215",
+        "description": "corrales",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "218",
+        "description": "covarach\u00eda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "223",
+        "description": "cubar\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "224",
+        "description": "cucaita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "226",
+        "description": "cu\u00edtiva",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "238",
+        "description": "duitama",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "244",
+        "description": "el cocuy",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "248",
+        "description": "el espino",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "272",
+        "description": "firavitoba",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "276",
+        "description": "floresta",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "293",
+        "description": "gachantiv\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "296",
+        "description": "gameza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "299",
+        "description": "garagoa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "317",
+        "description": "guacamayas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "322",
+        "description": "guateque",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "325",
+        "description": "guayat\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "332",
+        "description": "guican",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "362",
+        "description": "iza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "367",
+        "description": "jenesano",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "368",
+        "description": "jeric\u00f3",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "380",
+        "description": "la capilla",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "403",
+        "description": "la uvita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "401",
+        "description": "la victoria (b)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "377",
+        "description": "labranzagrande",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "425",
+        "description": "macanal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "442",
+        "description": "marip\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "455",
+        "description": "miraflores",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "464",
+        "description": "mongua",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "466",
+        "description": "mongu\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "469",
+        "description": "moniquir\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "476",
+        "description": "motavita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "480",
+        "description": "muzo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "491",
+        "description": "nobsa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "494",
+        "description": "nuevo col\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "500",
+        "description": "oicat\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "507",
+        "description": "otanche",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "511",
+        "description": "pachavita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "514",
+        "description": "paez",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "516",
+        "description": "paipa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "518",
+        "description": "pajarito",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "522",
+        "description": "panqueba",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "531",
+        "description": "pauna",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "537",
+        "description": "paz de rio",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "542",
+        "description": "pesca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "550",
+        "description": "pisba",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "572",
+        "description": "puerto boyac\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "580",
+        "description": "qu\u00edpama",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "599",
+        "description": "ramiriqu\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "600",
+        "description": "r\u00e1quira",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "621",
+        "description": "rond\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "632",
+        "description": "saboy\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "638",
+        "description": "s\u00e1chica",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "646",
+        "description": "samac\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "660",
+        "description": "san eduardo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "664",
+        "description": "san jos\u00e9 de pare",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "667",
+        "description": "san luis de gaceno",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "673",
+        "description": "san mateo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "676",
+        "description": "san miguel de sema",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "681",
+        "description": "san pablo de borbur",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "690",
+        "description": "santa mar\u00eda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "693",
+        "description": "santa rosa de viterbo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "696",
+        "description": "santa sof\u00eda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "686",
+        "description": "santana",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "720",
+        "description": "sativanorte",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "723",
+        "description": "sativasur",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "740",
+        "description": "siachoque",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "753",
+        "description": "soat\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "757",
+        "description": "socha",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "755",
+        "description": "socot\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "759",
+        "description": "sogamoso",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "761",
+        "description": "somondoco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "762",
+        "description": "sora",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "764",
+        "description": "sorac\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "763",
+        "description": "sotaquir\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "774",
+        "description": "susac\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "776",
+        "description": "sutamarch\u00e1n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "778",
+        "description": "sutatenza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "790",
+        "description": "tasco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "798",
+        "description": "tenza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "804",
+        "description": "tibana",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "806",
+        "description": "tibasosa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "808",
+        "description": "tinjac\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "810",
+        "description": "tipacoque",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "814",
+        "description": "toca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "816",
+        "description": "tog\u00fc\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "820",
+        "description": "t\u00f3paga",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "822",
+        "description": "tota",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "238011",
+        "description": "trinidad",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "001",
+        "description": "tunja",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "832",
+        "description": "tunungu\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "835",
+        "description": "turmequ\u00e9",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "837",
+        "description": "tuta",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "839",
+        "description": "tutaz\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "842",
+        "description": "\u00fambita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "861",
+        "description": "ventaquemada",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "407",
+        "description": "villa de leyva",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "879",
+        "description": "viracach\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "15",
+        "code": "897",
+        "description": "zetaquira",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "17",
+    "description": "CALDAS",
+    "cities": [
+      {
+        "departmentCode": "17",
+        "code": "013",
+        "description": "aguadas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "001010",
+        "description": "alto tablazo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "042",
+        "description": "anserma",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "050",
+        "description": "aranzazu",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "524001",
+        "description": "arauca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "001003",
+        "description": "bajo tablazo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "088",
+        "description": "belalcazar",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "541002",
+        "description": "bolivia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "174",
+        "description": "chinchin\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "272",
+        "description": "filadelfia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "380002",
+        "description": "guarinocito",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "380",
+        "description": "la dorada",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "541006",
+        "description": "la linda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "388",
+        "description": "la merced",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "001",
+        "description": "manizales",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "433",
+        "description": "manzanares",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "442",
+        "description": "marmato",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "444",
+        "description": "marquetalia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "446",
+        "description": "marulanda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "486",
+        "description": "neira",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "495",
+        "description": "norcasia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "513",
+        "description": "p\u00e1cora",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "524",
+        "description": "palestina",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "541",
+        "description": "pensilvania",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "614",
+        "description": "riosucio",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "616",
+        "description": "risaralda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "653",
+        "description": "salamina",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "662",
+        "description": "saman\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "272005",
+        "description": "samaria",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "665",
+        "description": "san jos\u00e9 (c)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "777",
+        "description": "supia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "867",
+        "description": "victoria",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "873",
+        "description": "villamar\u00eda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "17",
+        "code": "877",
+        "description": "viterbo",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "18",
+    "description": "CAQUET\u00c1",
+    "cities": [
+      {
+        "departmentCode": "18",
+        "code": "029",
+        "description": "albania",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "18",
+        "code": "094",
+        "description": "bel\u00e9n de los andaqu\u00edes",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "18",
+        "code": "753004",
+        "description": "campo hermoso",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "18",
+        "code": "150",
+        "description": "cartagena del chaira",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "18",
+        "code": "205",
+        "description": "curillo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "18",
+        "code": "247",
+        "description": "el doncello",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "18",
+        "code": "256",
+        "description": "el paujil",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "18",
+        "code": "001",
+        "description": "florencia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "18",
+        "code": "410",
+        "description": "la monta\u00f1ita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "18",
+        "code": "460",
+        "description": "milan",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "18",
+        "code": "479",
+        "description": "morelia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "18",
+        "code": "592",
+        "description": "puerto rico",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "18",
+        "code": "610",
+        "description": "san jos\u00e9 del fragua",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "18",
+        "code": "753",
+        "description": "san vicente del cagu\u00e1n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "18",
+        "code": "756",
+        "description": "solano",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "18",
+        "code": "785",
+        "description": "solita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "18",
+        "code": "860",
+        "description": "valparaiso (caq)",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "85",
+    "description": "CASANARE",
+    "cities": [
+      {
+        "departmentCode": "85",
+        "code": "010",
+        "description": "aguazul",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "015",
+        "description": "chameza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "125",
+        "description": "hato corozal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "001002",
+        "description": "la chaparrera",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "136",
+        "description": "la salina",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "139",
+        "description": "mani",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "162",
+        "description": "monterrey",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "225",
+        "description": "nunchia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "230",
+        "description": "orocue",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "410005",
+        "description": "paso cusiana",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "250",
+        "description": "paz de ariporo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "263",
+        "description": "pore",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "279",
+        "description": "recetor",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "300",
+        "description": "sabanalarga",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "315",
+        "description": "sacama",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "325",
+        "description": "san luis de palenque",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "400",
+        "description": "tamara",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "410",
+        "description": "tauramena",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "430",
+        "description": "trinidad",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "440",
+        "description": "villanueva (c)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "85",
+        "code": "001",
+        "description": "yopal",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "19",
+    "description": "CAUCA",
+    "cities": [
+      {
+        "departmentCode": "19",
+        "code": "022",
+        "description": "almaguer",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "050",
+        "description": "argelia (c)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "075",
+        "description": "balboa (c)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "517",
+        "description": "belalcazar",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "100",
+        "description": "bol\u00edvar (c)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "110",
+        "description": "buenos aires",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "130",
+        "description": "cajib\u00edo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "137",
+        "description": "caldono",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "142",
+        "description": "caloto",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "585",
+        "description": "coconuco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "212",
+        "description": "corinto",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "532",
+        "description": "el bordo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "532013",
+        "description": "el estrecho (c)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "050006",
+        "description": "el plateado",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "256",
+        "description": "el tambo (ca)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "290",
+        "description": "florencia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "300",
+        "description": "guachen\u00e9",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "318",
+        "description": "guapi",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "355",
+        "description": "inza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "364",
+        "description": "jambalo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "392",
+        "description": "la sierra",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "397",
+        "description": "la vega",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "450",
+        "description": "mercaderes",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "418",
+        "description": "micay",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "455",
+        "description": "miranda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "473",
+        "description": "morales (c)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "455005",
+        "description": "ortigal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "513",
+        "description": "padilla",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "760",
+        "description": "paispamba",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "532008",
+        "description": "patia (c)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "533",
+        "description": "piamonte",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "548",
+        "description": "piendamo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "001",
+        "description": "popay\u00e1n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "573",
+        "description": "puerto tejada",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "585004",
+        "description": "purace",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "622",
+        "description": "rosas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "693",
+        "description": "san sebasti\u00e1n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "001019",
+        "description": "santa rosa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "698",
+        "description": "santander de quilichao",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "693004",
+        "description": "santiago",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "743",
+        "description": "silvia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "780",
+        "description": "suarez",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "785",
+        "description": "sucre",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "807",
+        "description": "timbio",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "809",
+        "description": "timbiqu\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "821",
+        "description": "toribio",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "824",
+        "description": "totoro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "548001",
+        "description": "tunia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "19",
+        "code": "845",
+        "description": "villa rica",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "20",
+    "description": "CESAR",
+    "cities": [
+      {
+        "departmentCode": "20",
+        "code": "011",
+        "description": "aguachica",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "032",
+        "description": "astrea",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "045",
+        "description": "becerril",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "060",
+        "description": "bosconia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "013002",
+        "description": "casacaza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "175",
+        "description": "chimichagua",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "178",
+        "description": "chiriguan\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "013",
+        "description": "codazzi",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "228",
+        "description": "curuman\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "238",
+        "description": "el copey",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "011025",
+        "description": "el juncal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "250",
+        "description": "el paso",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "295",
+        "description": "gamarra",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "310",
+        "description": "gonzalez",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "383",
+        "description": "la gloria",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "400",
+        "description": "la jagua de ibirico",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "250002",
+        "description": "la loma",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "383010",
+        "description": "la mata",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "400900",
+        "description": "la mina",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "621",
+        "description": "la paz",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "178016",
+        "description": "la sierra",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "175009",
+        "description": "las vegas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "443",
+        "description": "manaure (c)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "001011",
+        "description": "mina drumond pribbenow",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "517",
+        "description": "pailitas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "550",
+        "description": "pelaya",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "570",
+        "description": "pueblo bello",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "614",
+        "description": "rio de oro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "710",
+        "description": "san alberto",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "750",
+        "description": "san diego",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "770",
+        "description": "san mart\u00edn (c)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "228002",
+        "description": "san roque",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "787",
+        "description": "tamalameque",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "20",
+        "code": "001",
+        "description": "valledupar",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "27",
+    "description": "CHOC\u00d3",
+    "cities": [
+      {
+        "departmentCode": "27",
+        "code": "006",
+        "description": "acand\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "450",
+        "description": "andagoya",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "810",
+        "description": "animas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "073",
+        "description": "bagado",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "075",
+        "description": "bahia solano mutis",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "615023",
+        "description": "bel\u00e9n de bajir\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "099",
+        "description": "bellavista",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "425",
+        "description": "bete",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "160",
+        "description": "c\u00e9rtegui",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "205",
+        "description": "condoto",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "150",
+        "description": "curbarado",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "245",
+        "description": "el carmen de atrato",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "361",
+        "description": "istmina",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "372",
+        "description": "jurado",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "413",
+        "description": "lloro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "135",
+        "description": "managru",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "491",
+        "description": "novita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "495",
+        "description": "nuqui",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "600",
+        "description": "paimado",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "025",
+        "description": "pie de pato",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "077",
+        "description": "pizarro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "430011",
+        "description": "puerto meluk",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "001",
+        "description": "quibd\u00f3",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "615",
+        "description": "riosucio",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "660",
+        "description": "san jos\u00e9 del palmar",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "250",
+        "description": "santa genoveva de docorod\u00f3",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "580",
+        "description": "santa rita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "745",
+        "description": "sipi",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "787",
+        "description": "tado",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "800",
+        "description": "unguia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "27",
+        "code": "050",
+        "description": "yuto",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "23",
+    "description": "C\u00d3RDOBA",
+    "cities": [
+      {
+        "departmentCode": "23",
+        "code": "068",
+        "description": "ayapel",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "079",
+        "description": "buenavista (cor)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "090",
+        "description": "canalete",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "686002",
+        "description": "carrillo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "162",
+        "description": "cerete",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "466900",
+        "description": "cerromatoso",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "168",
+        "description": "chima (c)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "182",
+        "description": "chin\u00fa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "189",
+        "description": "ci\u00e9naga de oro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "466023",
+        "description": "cordoba",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "300",
+        "description": "cotorra",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "672001",
+        "description": "el porvenir (c)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "350",
+        "description": "la apartada y la frontera",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "417",
+        "description": "lorica",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "419",
+        "description": "los cordobas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "001011",
+        "description": "los garzones",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "464",
+        "description": "momil",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "500",
+        "description": "mo\u00f1itos",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "466",
+        "description": "montel\u00edbano",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "001",
+        "description": "monter\u00eda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "555",
+        "description": "planeta rica",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "570",
+        "description": "pueblo nuevo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "574",
+        "description": "puerto escondido",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "580",
+        "description": "puerto libertador",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "586",
+        "description": "pur\u00edsima",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "660",
+        "description": "sahag\u00fan",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "670",
+        "description": "san andres de sotavento",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "672",
+        "description": "san antero",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "675",
+        "description": "san bernardo del viento",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "678",
+        "description": "san carlos",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "682",
+        "description": "san jos\u00e9 de ure",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "686",
+        "description": "san pelayo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "807",
+        "description": "tierralta",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "815",
+        "description": "tuch\u00edn",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "23",
+        "code": "855",
+        "description": "valencia",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "25",
+    "description": "CUNDINAMARCA",
+    "cities": [
+      {
+        "departmentCode": "25",
+        "code": "001",
+        "description": "agua de dios",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "019",
+        "description": "alban",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "035",
+        "description": "anapoima",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "040",
+        "description": "anolaima",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "599",
+        "description": "apulo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "053",
+        "description": "arbel\u00e1ez",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "086",
+        "description": "beltr\u00e1n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "095",
+        "description": "bituima",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "099",
+        "description": "bojac\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "817099",
+        "description": "brice\u00f1o",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "120",
+        "description": "cabrera",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "123",
+        "description": "cachipay",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "126",
+        "description": "cajic\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "148",
+        "description": "caparrap\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "151",
+        "description": "c\u00e1queza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "154",
+        "description": "carmen de carupa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "168",
+        "description": "chaguan\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "175",
+        "description": "ch\u00eda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "290016",
+        "description": "chinauta",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "178",
+        "description": "chipaque",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "181",
+        "description": "choach\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "183",
+        "description": "chocont\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "200",
+        "description": "cogua",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "214",
+        "description": "cota",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "224",
+        "description": "cucunub\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "245",
+        "description": "el colegio (mesitas)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "258",
+        "description": "el pe\u00f1\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "260",
+        "description": "el rosal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "269",
+        "description": "facatativ\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "279",
+        "description": "f\u00f3meque",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "281",
+        "description": "fosca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "286",
+        "description": "funza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "288",
+        "description": "f\u00faquene",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "290",
+        "description": "fusagasug\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "293",
+        "description": "gachal\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "295",
+        "description": "gachancip\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "297",
+        "description": "gachet\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "299",
+        "description": "gama",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "307",
+        "description": "girardot",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "312",
+        "description": "granada",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "317",
+        "description": "guacheta",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "320",
+        "description": "guaduas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "322",
+        "description": "guasca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "324",
+        "description": "guataqu\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "326",
+        "description": "guatavita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "328",
+        "description": "guayabal de s\u00edquima",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "335",
+        "description": "guayabetal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "339",
+        "description": "guti\u00e9rrez",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "368",
+        "description": "jerusal\u00e9n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "372",
+        "description": "jun\u00edn",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "377",
+        "description": "la calera",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "040002",
+        "description": "la florida",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "797001",
+        "description": "la gran v\u00eda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "386",
+        "description": "la mesa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "394",
+        "description": "la palma",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "398",
+        "description": "la pe\u00f1a",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "402",
+        "description": "la vega",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "245002",
+        "description": "la victoria",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "407",
+        "description": "lenguazaque",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "335004",
+        "description": "limoncitos",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "426",
+        "description": "machet\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "430",
+        "description": "madrid",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "436",
+        "description": "manta",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "438",
+        "description": "medina",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "473",
+        "description": "mosquera",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "483",
+        "description": "nari\u00f1o",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "486",
+        "description": "nemoc\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "488",
+        "description": "nilo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "489",
+        "description": "nimaima",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "491",
+        "description": "nocaima",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "513",
+        "description": "pacho",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "518",
+        "description": "paime",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "524",
+        "description": "pandi",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "530",
+        "description": "paratebueno",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "535",
+        "description": "pasca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "488002",
+        "description": "pueblo nuevo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "430004",
+        "description": "puente de piedra",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "594002",
+        "description": "puente quetame",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "320003",
+        "description": "puerto bogot\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "572",
+        "description": "puerto salgar",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "580",
+        "description": "puli",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "592",
+        "description": "quebradanegra",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "594",
+        "description": "quetame",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "596",
+        "description": "quipile",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "612",
+        "description": "ricaurte",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "645",
+        "description": "san antonio del tequendama",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "649",
+        "description": "san bernardo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "653",
+        "description": "san cayetano",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "658",
+        "description": "san francisco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "386003",
+        "description": "san joaqu\u00edn (c)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "662",
+        "description": "san juan de rio seco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "645001",
+        "description": "santandercito",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "718",
+        "description": "sasaima",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "736",
+        "description": "sesquile",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "740",
+        "description": "sibat\u00e9",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "743",
+        "description": "silvania",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "745",
+        "description": "simijaca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "754",
+        "description": "soacha",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "758",
+        "description": "sop\u00f3",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "769",
+        "description": "subachoque",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "743005",
+        "description": "subia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "772",
+        "description": "suesca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "777",
+        "description": "supata",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "779",
+        "description": "susa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "781",
+        "description": "sutatausa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "785",
+        "description": "tabio",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "793",
+        "description": "tausa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "797",
+        "description": "tena",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "799",
+        "description": "tenjo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "805",
+        "description": "tibacuy",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "807",
+        "description": "tibirit\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "817013",
+        "description": "tibito",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "592003",
+        "description": "tobia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "815",
+        "description": "tocaima",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "817",
+        "description": "tocancip\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "488900",
+        "description": "tolemaida-melgar",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "823",
+        "description": "topaip\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "839",
+        "description": "ubal\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "841",
+        "description": "ubaque",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "843",
+        "description": "ubat\u00e9",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "845",
+        "description": "une",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "851",
+        "description": "\u00fatica",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "506",
+        "description": "venecia (c)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "862",
+        "description": "vergara",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "867",
+        "description": "viani",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "871",
+        "description": "villag\u00f3mez",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "873",
+        "description": "villapinz\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "875",
+        "description": "villeta",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "878",
+        "description": "viota",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "885",
+        "description": "yacopi",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "898",
+        "description": "zipac\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "25",
+        "code": "899",
+        "description": "zipaquir\u00e1",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "94",
+    "description": "GUAIN\u00cdA",
+    "cities": [
+      {
+        "departmentCode": "94",
+        "code": "001",
+        "description": "PUERTO INIRIDA",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "95",
+    "description": "GUAVIARE",
+    "cities": [
+      {
+        "departmentCode": "95",
+        "code": "015",
+        "description": "calamar",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "95",
+        "code": "025",
+        "description": "el retorno",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "95",
+        "code": "200",
+        "description": "miraflores",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "95",
+        "code": "001",
+        "description": "san jose del guaviare",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "41",
+    "description": "HUILA",
+    "cities": [
+      {
+        "departmentCode": "41",
+        "code": "006",
+        "description": "acevedo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "013",
+        "description": "agrado",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "016",
+        "description": "aipe",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "020",
+        "description": "algeciras",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "026",
+        "description": "altamira",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "078",
+        "description": "baraya",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "396001",
+        "description": "bel\u00e9n (h)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "551001",
+        "description": "bruselas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "001001",
+        "description": "cagu\u00e1n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "132",
+        "description": "campoalegre",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "206",
+        "description": "colombia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "524006",
+        "description": "el juncal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "244",
+        "description": "el\u00edas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "001003",
+        "description": "fortalecillas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "298",
+        "description": "garz\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "306",
+        "description": "gigante",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "319",
+        "description": "guadalupe",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "770002",
+        "description": "guayabal (hul)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "349",
+        "description": "hobo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "357",
+        "description": "\u00edquira",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "378",
+        "description": "la argentina",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "396",
+        "description": "la plata",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "483",
+        "description": "n\u00e1taga",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "001",
+        "description": "neiva",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "503",
+        "description": "oporapa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "797001",
+        "description": "pacarni",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "518",
+        "description": "paicol",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "524",
+        "description": "palermo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "530",
+        "description": "palestina",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "548",
+        "description": "pital",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "551",
+        "description": "pitalito",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "615",
+        "description": "rivera",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "660",
+        "description": "saladoblanco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "668",
+        "description": "san agust\u00edn",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "359",
+        "description": "san jos\u00e9 de isnos",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "676",
+        "description": "santa mar\u00eda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "770",
+        "description": "suaza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "791",
+        "description": "tarqu\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "799",
+        "description": "tello",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "801",
+        "description": "teruel",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "797",
+        "description": "tesalia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "807",
+        "description": "timana",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "615001",
+        "description": "ulloa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "872",
+        "description": "villavieja",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "885",
+        "description": "yaguara",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "41",
+        "code": "298004",
+        "description": "zuluaga",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "44",
+    "description": "LA GUAJIRA",
+    "cities": [
+      {
+        "departmentCode": "44",
+        "code": "035",
+        "description": "albania",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "078",
+        "description": "barrancas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "090",
+        "description": "dibulla",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "098",
+        "description": "distracci\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "110",
+        "description": "el molino",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "279",
+        "description": "fonseca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "378",
+        "description": "hatonuevo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "420",
+        "description": "la jagua del pilar",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "560010",
+        "description": "la paz",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "430",
+        "description": "maicao",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "560",
+        "description": "manaure",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "090003",
+        "description": "mingueo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "090004",
+        "description": "palomino",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "430007",
+        "description": "paraguach\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "001",
+        "description": "riohacha",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "650",
+        "description": "san juan del cesar",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "847",
+        "description": "uribia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "855",
+        "description": "urumita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "44",
+        "code": "874",
+        "description": "villanueva",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "47",
+    "description": "MAGDALENA",
+    "cities": [
+      {
+        "departmentCode": "47",
+        "code": "030",
+        "description": "algarrobo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "053",
+        "description": "aracataca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "001011",
+        "description": "buritaca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "258003",
+        "description": "carreto",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "161",
+        "description": "cerro san antonio",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "170",
+        "description": "chivolo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "189",
+        "description": "ci\u00e9naga",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "245",
+        "description": "el banco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "058",
+        "description": "el dif\u00edcil",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "258",
+        "description": "el pi\u00f1\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "268",
+        "description": "el ret\u00e9n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "288",
+        "description": "fundaci\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "001038",
+        "description": "gaira",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "980001",
+        "description": "guacamayal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "001006",
+        "description": "guachaca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "318",
+        "description": "guamal (mag)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "980003",
+        "description": "la gran v\u00eda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "460",
+        "description": "nueva granada (m)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "745003",
+        "description": "palermo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "541",
+        "description": "pedraza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "545",
+        "description": "piji\u00f1o",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "551",
+        "description": "pivijay",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "555",
+        "description": "plato",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "980",
+        "description": "prado - sevilla",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "570",
+        "description": "puebloviejo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "960",
+        "description": "punta de piedras",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "605",
+        "description": "remolino",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "258005",
+        "description": "sabanas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "675",
+        "description": "salamina",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "660",
+        "description": "san angel",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "692",
+        "description": "san sebasti\u00e1n de buenavista",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "703",
+        "description": "san zen\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "707",
+        "description": "santa ana (m)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "720",
+        "description": "santa barbara de pinto",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "001",
+        "description": "santa marta",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "980007",
+        "description": "santa rosal\u00eda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "318012",
+        "description": "sitio nuevo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "745",
+        "description": "sitionuevo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "001010",
+        "description": "taganga",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "47",
+        "code": "798",
+        "description": "tenerife",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "50",
+    "description": "META",
+    "cities": [
+      {
+        "departmentCode": "50",
+        "code": "006",
+        "description": "acac\u00edas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "001015",
+        "description": "alto pompeya",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "001019",
+        "description": "apiay",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "110",
+        "description": "barranca de up\u00eda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "124",
+        "description": "cabuyaro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "150",
+        "description": "castilla la nueva",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "223",
+        "description": "cubarral",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "226",
+        "description": "cumaral",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "245",
+        "description": "el calvario",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "251",
+        "description": "el castillo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "270",
+        "description": "el dorado",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "287",
+        "description": "fuente de oro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "313",
+        "description": "granada (m)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "318",
+        "description": "guamal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "350",
+        "description": "la macarena",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "680003",
+        "description": "la palmera",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "400",
+        "description": "lejan\u00edas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "325",
+        "description": "mapirip\u00e1n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "330",
+        "description": "mesetas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "573003",
+        "description": "pachaquiaro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "450",
+        "description": "puerto concordia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "568",
+        "description": "puerto gait\u00e1n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "577",
+        "description": "puerto lleras",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "573",
+        "description": "puerto l\u00f3pez",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "590",
+        "description": "puerto rico",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "606",
+        "description": "restrepo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "680",
+        "description": "san carlos de guaroa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "683",
+        "description": "san juan de arama",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "350003",
+        "description": "san juan del losada",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "686",
+        "description": "san juanito",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "689",
+        "description": "san mart\u00edn",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "370",
+        "description": "uribe",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "001",
+        "description": "villavicencio",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "50",
+        "code": "711",
+        "description": "vistahermosa",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "52",
+    "description": "NARI\u00d1O",
+    "cities": [
+      {
+        "departmentCode": "52",
+        "code": "838001",
+        "description": "alb\u00e1n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "022",
+        "description": "aldana",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "036",
+        "description": "ancuya",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "079",
+        "description": "barbacoas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "083",
+        "description": "bel\u00e9n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "051",
+        "description": "berruecos",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "490",
+        "description": "bocas de satinga",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "110",
+        "description": "buesaco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "224",
+        "description": "carlosama",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "001001",
+        "description": "catambuco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "240",
+        "description": "chachag\u00fc\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "207",
+        "description": "consac\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "210",
+        "description": "contadero",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "215",
+        "description": "cordoba n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "560011",
+        "description": "cuaspud nucleo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "227",
+        "description": "cumbal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "233",
+        "description": "cumbitara",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "250",
+        "description": "el charco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "001003",
+        "description": "el encano",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "254",
+        "description": "el pe\u00f1ol",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "256",
+        "description": "el rosario",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "258",
+        "description": "el tabl\u00f3n de gomez",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "260",
+        "description": "el tambo (na)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "287",
+        "description": "funes",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "203",
+        "description": "genova (n)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "699",
+        "description": "guachaves",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "317",
+        "description": "guachucal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "320",
+        "description": "guaitarilla",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "323",
+        "description": "gualmat\u00e1n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "352",
+        "description": "iles",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "354",
+        "description": "imu\u00e9s",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "356",
+        "description": "ipiales",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "696",
+        "description": "iscuande",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "378",
+        "description": "la cruz",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "381",
+        "description": "la florida (n)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "385",
+        "description": "la llanada",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "390",
+        "description": "la tola",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "399",
+        "description": "la uni\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "405",
+        "description": "leiva",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "411",
+        "description": "linares",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "473",
+        "description": "mosquera",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "480",
+        "description": "nari\u00f1o",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "207003",
+        "description": "olaya herrera",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "506",
+        "description": "ospina",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "001",
+        "description": "pasto",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "427",
+        "description": "payan",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "435",
+        "description": "piedrancha",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "540",
+        "description": "policarpa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "560",
+        "description": "potos\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "565",
+        "description": "providencia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "573",
+        "description": "puerres",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "585",
+        "description": "pupiales",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "427006",
+        "description": "ricaurte (n)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "612",
+        "description": "ricaurte (na)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "520",
+        "description": "salahonda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "678",
+        "description": "samaniego",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "683003",
+        "description": "san bernardo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "019",
+        "description": "san jos\u00e9",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "621",
+        "description": "roberto pay\u00e1n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "687",
+        "description": "san lorenzo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "693",
+        "description": "san pablo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "694",
+        "description": "san pedro de cartago",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "683",
+        "description": "sandona",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "683004",
+        "description": "santa barbara",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "720",
+        "description": "sapuyes",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "418",
+        "description": "sotomayor",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "786",
+        "description": "taminango",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "788",
+        "description": "tangua",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "835",
+        "description": "tumaco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "838",
+        "description": "tuquerres",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "52",
+        "code": "885",
+        "description": "yacuanquer",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "54",
+    "description": "NORTE DE SANTANDER",
+    "cities": [
+      {
+        "departmentCode": "54",
+        "code": "003",
+        "description": "abrego",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "498002",
+        "description": "aguas claras",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "051",
+        "description": "arboledas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "099",
+        "description": "bochalema",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "109",
+        "description": "bucarasica",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "128",
+        "description": "c\u00e1chira",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "125",
+        "description": "c\u00e1cota",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "810017",
+        "description": "campo dos",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "172",
+        "description": "chin\u00e1cota",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "174",
+        "description": "chitag\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "206",
+        "description": "convenci\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "001",
+        "description": "c\u00facuta",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "223",
+        "description": "cucutilla",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "239",
+        "description": "durania",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "245",
+        "description": "el carmen",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "250",
+        "description": "el tarra",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "261",
+        "description": "el zulia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "313",
+        "description": "gramalote",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "344",
+        "description": "hacar\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "347",
+        "description": "herr\u00e1n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "099002",
+        "description": "la donjuana",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "385",
+        "description": "la esperanza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "498009",
+        "description": "la floresta",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "001033",
+        "description": "la jarra",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "398",
+        "description": "la playa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "206012",
+        "description": "la vega",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "377",
+        "description": "labateca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "405",
+        "description": "los patios",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "418",
+        "description": "lourdes",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "480",
+        "description": "mutiscua",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "498",
+        "description": "oca\u00f1a",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "874008",
+        "description": "palo gordo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "518",
+        "description": "pamplona",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "520",
+        "description": "pamplonita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "553",
+        "description": "puerto santander",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "599",
+        "description": "ragonvalia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "660",
+        "description": "salazar",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "820008",
+        "description": "san bernardo de bata",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "670",
+        "description": "san calixto",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "673",
+        "description": "san cayetano",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "680",
+        "description": "santiago",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "720",
+        "description": "sardinata",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "743",
+        "description": "silos",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "800",
+        "description": "teorama",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "810",
+        "description": "tibu",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "820",
+        "description": "toledo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "871",
+        "description": "villa caro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "54",
+        "code": "874",
+        "description": "villa del rosario",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "86",
+    "description": "PUTUMAYO",
+    "cities": [
+      {
+        "departmentCode": "86",
+        "code": "219",
+        "description": "colon",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "86",
+        "code": "757",
+        "description": "la dorada (p)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "86",
+        "code": "865",
+        "description": "la hormiga",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "86",
+        "code": "001",
+        "description": "mocoa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "86",
+        "code": "320",
+        "description": "orito",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "86",
+        "code": "568",
+        "description": "puerto asis",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "86",
+        "code": "569",
+        "description": "puerto caicedo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "86",
+        "code": "571",
+        "description": "puerto guzman",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "86",
+        "code": "755",
+        "description": "san francisco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "86",
+        "code": "568019",
+        "description": "santana",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "86",
+        "code": "760",
+        "description": "santiago",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "86",
+        "code": "749",
+        "description": "sibundoy",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "86",
+        "code": "885",
+        "description": "villagarzon",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "86",
+        "code": "573",
+        "description": "PUERTO LEGUIZAMO",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "63",
+    "description": "QUIND\u00cdO",
+    "cities": [
+      {
+        "departmentCode": "63",
+        "code": "001",
+        "description": "armenia (q)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "63",
+        "code": "130001",
+        "description": "barcelona",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "63",
+        "code": "111",
+        "description": "buenavista",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "63",
+        "code": "130",
+        "description": "calarc\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "63",
+        "code": "190",
+        "description": "circasia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "63",
+        "code": "212",
+        "description": "c\u00f3rdoba",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "63",
+        "code": "001001",
+        "description": "el caimo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "63",
+        "code": "272",
+        "description": "filandia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "63",
+        "code": "302",
+        "description": "genova (q)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "63",
+        "code": "401",
+        "description": "la tebaida",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "63",
+        "code": "470",
+        "description": "montenegro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "63",
+        "code": "548",
+        "description": "pijao",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "63",
+        "code": "470003",
+        "description": "pueblo tapado",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "63",
+        "code": "594",
+        "description": "quimbaya",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "63",
+        "code": "690",
+        "description": "salento",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "66",
+    "description": "RISARALDA",
+    "cities": [
+      {
+        "departmentCode": "66",
+        "code": "001001",
+        "description": "altagracia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "66",
+        "code": "045",
+        "description": "ap\u00eda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "66",
+        "code": "075",
+        "description": "balboa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "66",
+        "code": "088",
+        "description": "bel\u00e9n de umbr\u00eda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "66",
+        "code": "170",
+        "description": "dosquebradas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "66",
+        "code": "001049",
+        "description": "el crucero de combia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "66",
+        "code": "318",
+        "description": "gu\u00e1tica",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "66",
+        "code": "594002",
+        "description": "irra",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "66",
+        "code": "383",
+        "description": "la celia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "66",
+        "code": "400",
+        "description": "la virginia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "66",
+        "code": "440",
+        "description": "marsella",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "66",
+        "code": "456",
+        "description": "mistrato",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "66",
+        "code": "001",
+        "description": "pereira",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "66",
+        "code": "572",
+        "description": "pueblo rico",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "66",
+        "code": "594",
+        "description": "quinchia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "66",
+        "code": "682",
+        "description": "santa rosa de cabal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "66",
+        "code": "687",
+        "description": "santuario",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "68",
+    "description": "SANTANDER",
+    "cities": [
+      {
+        "departmentCode": "68",
+        "code": "307007",
+        "description": "acapulco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "013",
+        "description": "aguada",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "020",
+        "description": "albania (s)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "051",
+        "description": "aratoca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "077",
+        "description": "barbosa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "079",
+        "description": "barichara",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "081",
+        "description": "barrancabermeja",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "092",
+        "description": "betulia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "101",
+        "description": "bolivar",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "001",
+        "description": "bucaramanga",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "121",
+        "description": "cabrera",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "132",
+        "description": "california (s)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "147",
+        "description": "capitanejo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "152",
+        "description": "carcasi",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "160",
+        "description": "cepita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "162",
+        "description": "cerrito",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "167",
+        "description": "charala",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "169",
+        "description": "charta",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "176",
+        "description": "chima (s)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "179",
+        "description": "chipata",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "190",
+        "description": "cimitarra",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "077001",
+        "description": "cite",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "207",
+        "description": "concepcion",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "209",
+        "description": "confines",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "211",
+        "description": "contratacion",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "217",
+        "description": "coromoro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "229",
+        "description": "curiti",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "235",
+        "description": "el carmen de chucuri",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "081001",
+        "description": "el centro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "245",
+        "description": "el guacamayo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "081002",
+        "description": "el llanito",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "250",
+        "description": "el pe\u00f1on",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "255",
+        "description": "el playon",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "264",
+        "description": "encino",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "266",
+        "description": "enciso",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "271",
+        "description": "florian",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "276",
+        "description": "floridablanca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "296",
+        "description": "galan (s)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "298",
+        "description": "gambita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "307",
+        "description": "giron",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "318",
+        "description": "guaca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "320",
+        "description": "guadalupe",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "322",
+        "description": "guapota",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "324",
+        "description": "guavata",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "327",
+        "description": "guepsa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "344",
+        "description": "hato (s)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "368",
+        "description": "jesus maria",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "370",
+        "description": "jordan sube",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "377",
+        "description": "la belleza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "397",
+        "description": "la paz",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "385",
+        "description": "landazuri",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "406",
+        "description": "lebrija",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "081009",
+        "description": "los laureles",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "418",
+        "description": "los santos",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "425",
+        "description": "macaravita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "432",
+        "description": "malaga",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "444",
+        "description": "matanza",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "464",
+        "description": "mogotes",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "468",
+        "description": "molagavita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "498",
+        "description": "ocamonte",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "500",
+        "description": "oiba",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "770001",
+        "description": "olival",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "502",
+        "description": "onzaga",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "522",
+        "description": "palmar (s)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "524",
+        "description": "palmas del socorro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "533",
+        "description": "paramo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "547",
+        "description": "piedecuesta",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "549",
+        "description": "pinchote",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "572",
+        "description": "puente nacional",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "575015",
+        "description": "puente sogamoso",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "190002",
+        "description": "puerto araujo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "573",
+        "description": "puerto parra",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "575",
+        "description": "puerto wilches",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "615",
+        "description": "rionegro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "655",
+        "description": "sabana de torres",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "669",
+        "description": "san andres",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "673",
+        "description": "san benito",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "673003",
+        "description": "san benito nuevo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "679",
+        "description": "san gil",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "682",
+        "description": "san joaqu\u00edn",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "684",
+        "description": "san jos\u00e9 de miranda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "686",
+        "description": "san miguel",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "615031",
+        "description": "san rafael",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "689",
+        "description": "san vicente de chucur\u00ed",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "705",
+        "description": "santa barbara",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "720",
+        "description": "santa helena del op\u00f3n",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "745",
+        "description": "simacota",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "755",
+        "description": "socorro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "092011",
+        "description": "sogamoso",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "770",
+        "description": "suaita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "773",
+        "description": "sucre",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "780",
+        "description": "surat\u00e1",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "092008",
+        "description": "tienda nueva",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "820",
+        "description": "tona",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "770003",
+        "description": "vado real",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "855",
+        "description": "valle de san jos\u00e9",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "861",
+        "description": "velez",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "867",
+        "description": "vetas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "872",
+        "description": "villanueva",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "689012",
+        "description": "yarima",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "68",
+        "code": "895",
+        "description": "zapatoca",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "70",
+    "description": "SUCRE",
+    "cities": [
+      {
+        "departmentCode": "70",
+        "code": "110",
+        "description": "buenavista",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "124",
+        "description": "caimito",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "230",
+        "description": "chalan",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "215",
+        "description": "corozal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "221",
+        "description": "cove\u00f1as",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "233",
+        "description": "el roble",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "235",
+        "description": "galeras",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "265",
+        "description": "guaranda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "823018",
+        "description": "guayabal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "400",
+        "description": "la union (s)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "418",
+        "description": "los palmitos",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "429",
+        "description": "majagual",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "473",
+        "description": "morroa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "508",
+        "description": "ovejas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "523",
+        "description": "palmito",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "204",
+        "description": "ricaurte (coloso)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "670",
+        "description": "sampues",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "678",
+        "description": "san benito abad",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "702",
+        "description": "san juan de betulia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "708",
+        "description": "san marcos",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "713",
+        "description": "san onofre",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "717",
+        "description": "san pedro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "742",
+        "description": "since",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "001",
+        "description": "sincelejo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "771",
+        "description": "sucre (s)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "820",
+        "description": "tolu",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "70",
+        "code": "823",
+        "description": "tolu viejo",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "73",
+    "description": "TOLIMA",
+    "cities": [
+      {
+        "departmentCode": "73",
+        "code": "024",
+        "description": "alpujarra",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "026",
+        "description": "alvarado",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "030",
+        "description": "ambalema",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "055",
+        "description": "armero",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "067",
+        "description": "ataco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "001001",
+        "description": "buenos aires",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "124",
+        "description": "cajamarca",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "148",
+        "description": "carmen de apicala",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "168",
+        "description": "chaparral",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "268001",
+        "description": "chicoral",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "217",
+        "description": "coyaima",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "226",
+        "description": "cunday",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "236",
+        "description": "dolores",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "268",
+        "description": "espinal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "270",
+        "description": "falan",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "275",
+        "description": "flandes",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "283",
+        "description": "fresno",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "555002",
+        "description": "gaitania",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "200001",
+        "description": "gualanday",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "319",
+        "description": "guamo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "616001",
+        "description": "herrera",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "347",
+        "description": "herveo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "349",
+        "description": "honda",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "001",
+        "description": "ibague",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "352",
+        "description": "icononzo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "408",
+        "description": "lerida",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "411",
+        "description": "libano",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "443",
+        "description": "mariquita",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "449",
+        "description": "melgar",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "461",
+        "description": "murillo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "483",
+        "description": "natagaima",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "504",
+        "description": "ortega",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "030004",
+        "description": "pajonales",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "520",
+        "description": "palocabildo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "547",
+        "description": "piedras",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "555",
+        "description": "planadas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "563",
+        "description": "prado",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "585",
+        "description": "purificacion",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "616",
+        "description": "rioblanco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "622",
+        "description": "roncesvalles",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "624",
+        "description": "rovira",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "671",
+        "description": "salda\u00f1a",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "675",
+        "description": "san antonio",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "678",
+        "description": "san luis",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "686",
+        "description": "santa isabel",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "067007",
+        "description": "santiago perez",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "770",
+        "description": "suarez",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "854",
+        "description": "valle de san juan",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "861",
+        "description": "venadillo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "870",
+        "description": "villahermosa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "73",
+        "code": "873",
+        "description": "villarrica (t)",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "76",
+    "description": "VALLE ",
+    "cities": [
+      {
+        "departmentCode": "76",
+        "code": "020",
+        "description": "alcala",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "520002",
+        "description": "amaime",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "036",
+        "description": "andalucia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "041",
+        "description": "anserma nuevo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "054",
+        "description": "argelia (v)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "100",
+        "description": "bolivar (v)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "233002",
+        "description": "borrero ayerbe",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "109",
+        "description": "buenaventura",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "111",
+        "description": "buga",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "113",
+        "description": "bugalagrande",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "122",
+        "description": "caicedonia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "001",
+        "description": "cali",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "130",
+        "description": "candelaria",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "147",
+        "description": "cartago",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "001024",
+        "description": "cascajal i",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "233",
+        "description": "dagua",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "126",
+        "description": "darien (calima)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "243",
+        "description": "el aguila",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "130003",
+        "description": "el cabuyal (v)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "246",
+        "description": "el cairo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "130004",
+        "description": "el carmelo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "248",
+        "description": "el cerrito",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "250",
+        "description": "el dovio",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "111002",
+        "description": "el placer (v)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "233011",
+        "description": "el queremal",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "001001",
+        "description": "el saladito",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "275",
+        "description": "florida",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "306",
+        "description": "ginebra",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "318004",
+        "description": "guabitas",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "318",
+        "description": "guacari",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "364",
+        "description": "jamundi",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "377",
+        "description": "la cumbre",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "895002",
+        "description": "la paila",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "400",
+        "description": "la union (v)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "403",
+        "description": "la victoria (v)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "497",
+        "description": "obando",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "520",
+        "description": "palmira",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "563",
+        "description": "pradera",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "606",
+        "description": "restrepo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "616",
+        "description": "riofrio",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "622",
+        "description": "roldanillo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "520026",
+        "description": "rozo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "275011",
+        "description": "san antonio de los caballeros",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "670",
+        "description": "san pedro(v)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "248009",
+        "description": "santa elena",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "736",
+        "description": "sevilla",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "823",
+        "description": "toro",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "828",
+        "description": "trujillo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "834",
+        "description": "tulua",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "845",
+        "description": "ulloa",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "863",
+        "description": "versalles",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "869",
+        "description": "vijes",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "130008",
+        "description": "villa gorgona",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "890",
+        "description": "yotoco",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "892",
+        "description": "yumbo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "109078",
+        "description": "zaragoza (v)",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "76",
+        "code": "895",
+        "description": "zarzal",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "97",
+    "description": "VAUP\u00c9S",
+    "cities": [
+      {
+        "departmentCode": "97",
+        "code": "161",
+        "description": "caruru",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "97",
+        "code": "666",
+        "description": "taraira",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "97",
+        "code": "001",
+        "description": "mitu",
+        "shippingAviable": 1
+      }
+    ]
+  },
+  {
+    "code": "99",
+    "description": "VICHADA",
+    "cities": [
+      {
+        "departmentCode": "99",
+        "code": "773",
+        "description": "cumaribo",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "99",
+        "code": "524",
+        "description": "la primavera",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "99",
+        "code": "624",
+        "description": "santa rosalia",
+        "shippingAviable": 1
+      },
+      {
+        "departmentCode": "99",
+        "code": "001",
+        "description": "puerto carre\u00f1o",
+        "shippingAviable": 1
+      }
+    ]
+  }
+]
