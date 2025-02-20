@@ -1,0 +1,131 @@
+{
+  "products": [
+    {
+      "sku": "834073",
+      "category": "camisas",
+      "color": "Blanco",
+      "color_id": "BL",
+      "returned": 0,
+      "invoiced": 1,
+      "price": 144950,
+      "price_before": 0,
+      "img": "https://cdn.baguer.co/uploads/2023/06/camisa-para-hombre-comfort-en-tencel-a-rayas-manga-larga-unser-azul-824012AZ.jpg_BIaQThELKUKXG6HbpoIa5CqVpmKqzuPnN7SzyFMB9GsW9LsxJX.jpg",
+      "size": "L",
+      "title": "ASHER  T-SHIRT REGULAR MASCULINO GROGGY",
+      "url": "product-834073-ASHER--T-SHIRT-REGULAR-MASCULINO-GROGGY",
+      "product_sizes": [
+        {
+          "id": "SS",
+          "description": "Talla S",
+          "name": "S",
+          "stock": 0
+        },
+        {
+          "id": "MM",
+          "description": "Talla M",
+          "name": "M",
+          "stock": 3
+        },
+        {
+          "id": "LL",
+          "description": "Talla L",
+          "name": "L",
+          "stock": 2
+        },
+        {
+          "id": "XL",
+          "description": "Talla XL",
+          "name": "XL",
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "sku": "128624",
+      "color": "Negro",
+      "category": "camisas",
+      "color_id": "NG",
+      "returned": 0,
+      "invoiced": 1,
+      "price": 189900,
+      "price_before": 0,
+      "img": "https://cdn.baguer.co/uploads/2024/10/polo-girbaud-marcel-mc-azul-127978AZ.jpg_TSX6rRRSZOIBB2yJ1ukZvQ00piT4LmIOb0dwWUySwh7QcSlRfl.jpg",
+      "size": "L",
+      "title": "Camiseta Girbaud M/c Le-francois",
+      "url": "product-128624-CAMISETA-GIRBAUD-MC-LE-FRANCOIS",
+      "product_sizes": [
+        {
+          "id": "SS",
+          "description": "Talla S",
+          "name": "S",
+          "stock": 15
+        },
+        {
+          "id": "MM",
+          "description": "Talla M",
+          "name": "M",
+          "stock": 0
+        },
+        {
+          "id": "LL",
+          "description": "Talla L",
+          "name": "L",
+          "stock": 5
+        },
+        {
+          "id": "XL",
+          "description": "Talla XL",
+          "name": "XL",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "sku": "128624",
+      "color": "Negro",
+      "category": "camisas",
+      "color_id": "NG",
+      "returned": 0,
+      "invoiced": 1,
+      "price": 189900,
+      "price_before": 0,
+      "img": "https://cdn.baguer.co/uploads/2024/10/polo-girbaud-marcel-mc-azul-127978AZ.jpg_TSX6rRRSZOIBB2yJ1ukZvQ00piT4LmIOb0dwWUySwh7QcSlRfl.jpg",
+      "size": "L",
+      "title": "Camiseta Girbaud M/c Le-francois",
+      "url": "product-128624-CAMISETA-GIRBAUD-MC-LE-FRANCOIS",
+      "product_sizes": [
+        {
+          "id": "SS",
+          "description": "Talla S",
+          "name": "S",
+          "stock": 0
+        },
+        {
+          "id": "MM",
+          "description": "Talla M",
+          "name": "M",
+          "stock": 0
+        },
+        {
+          "id": "LL",
+          "description": "Talla L",
+          "name": "L",
+          "stock": 0
+        },
+        {
+          "id": "XL",
+          "description": "Talla XL",
+          "name": "XL",
+          "stock": 0
+        }
+      ]
+    }
+  ],
+  "whishlist": {
+    "id": 1,
+    "created_at": "2024-08-01 00:00:00",
+    "updated_at": "2024-12-05 00:00:00",
+    "email": "nYJp1@example.com",
+    "token": "30cdd6afb3a67db1968fdb2eee40aeb36YjYVgGbu5RHlqT9yanmnUPYshAWoI"
+  }
+}
