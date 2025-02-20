@@ -1,0 +1,324 @@
+{
+  "bag_id": 4322031,
+  "token": "30cdd6afb3a67db1968fdb2eee40aeb36YjYVgGbu5RHlqT9yanmnUPYshAWoI",
+  "total": 3014800,
+  "sub_total": 2999800,
+  "discounts": [
+    {
+      "id": "1",
+      "name": "Descuento",
+      "value": 15000
+    }
+  ],
+  "shipping": {
+    "id": "1",
+    "value": 30000,
+    "discount": 0,
+    "tooltip": {
+      "id": "1",
+      "name": "Envio gratis",
+      "description": "Envío gratis por compras superiores a $10000"
+    }
+  },
+  "bag_products": [
+    {
+      "sku": "128643",
+      "img": "https://cdn.baguer.co/uploads/2024/11/tenis-diesel-s-herby-trek-evo-crudo-129445CR.jpg_GvMCBZhBcaX1qz35EK50rA4qDK5CwWtJtAeWbax4AhhIXg83Oq.webp",
+      "title": "Tenis Diesel S-herby Trek Evo",
+      "price": 999900,
+      "discount_price": 0,
+      "color_id": "RJ",
+      "color": "Rojo",
+      "selected_size": "40",
+      "sizeId": "40",
+      "quantity": 1,
+      "strategy": null,
+      "url": "product-123456-Alex-typer-t-shirt-combinada?color=RJ"
+    },
+    {
+      "sku": "123456",
+      "img": "https://cdn.baguer.co/uploads/2024/10/tenis-diesel-s-serendipity-pro-x1-plateado-129064PT.jpg_laJyK6Byun8KpsikYnqVnRBMiQCo8HOVgYfXSdhTp6moBz1Ov1.webp",
+      "title": "Tenis Diesel S-serendipity Pro-x1",
+      "price": 1999900,
+      "discount_price": 0,
+      "quantity": 1,
+      "selected_size": "40",
+      "sizeId": "40",
+      "color_id": "RJ",
+      "color": "Rojo",
+      "strategy": null,
+      "url": "product-123456-Alex-typer-t-shirt-combinada?color=RJ"
+    }
+  ],
+  "products": [
+    {
+      "sku": "128643",
+      "price": 999900,
+      "discount_price": 0,
+      "productName": "Tenis diesel s-brentha wl",
+      "productDescription": "Gorra elaborada en tejido aterciopelado, con bordado frontal en plateado. El sistema de cierre está confeccionado en cuero 100% y lleva la marca. DADRA es la pieza que complementa tus atuendos con detalles únicos y originales.",
+      "gender": "Hombre",
+      "breadcrumbs": [
+        {
+          "name": "Hombre",
+          "route": "/hombre"
+        },
+        {
+          "name": "Zapatos",
+          "route": "/hombre-zapatos"
+        },
+        {
+          "name": "Tenis",
+          "route": "/hombre-zapatos-tenis"
+        },
+        {
+          "name": "Tenis diesel s-brentha wl",
+          "route": "/product-128050-GORRA-MONASTERY-NASCAR-CAP"
+        }
+      ],
+      "brand": {
+        "id": "3",
+        "name": "Diesel",
+        "logo": "https://cdn.baguer.co/brands/img_logo_7XQ8xFB947mk1udyyj7QCOUgr4dhhHjoUit1623872217.svg"
+      },
+      "references": [
+        {
+          "id": "GR",
+          "colorHx": "#9D9D9D",
+          "colorName": "GRIS",
+          "colorTexture": "https://cdn.baguer.co/uploads/2024/10/128643gr-zjpg-ukftnmsmqxhqvr54pzjvm2pvjygawnhdp0krnnuvmila7k8wnc1729261039.jpg",
+          "aviable": true,
+          "images": [
+            "https://cdn.baguer.co/uploads/2024/10/128643grjpg-ke8ouit62hy6rdac5zb1tpafhnhxxjrddpi9unsb5videl4ifo1729261036.jpg"
+          ],
+          "tags": [
+            {
+              "id": "2",
+              "text": "Nuevo",
+              "textColor": "#ffffff",
+              "backgroundColor": "#000000"
+            }
+          ],
+          "sizes": [
+            {
+              "id": "90",
+              "descripcion": "Talla 9.0",
+              "name": "9.0",
+              "stock": 4
+            },
+            {
+              "id": "95",
+              "descripcion": "Talla 9.5",
+              "name": "9.5",
+              "stock": 4
+            },
+            {
+              "id": "10",
+              "descripcion": "Talla 10",
+              "name": "10",
+              "stock": 4
+            },
+            {
+              "id": "10.5",
+              "descripcion": "Talla 10.5",
+              "name": "10.5",
+              "stock": 4
+            },
+            {
+              "id": "11",
+              "descripcion": "Talla 11",
+              "name": "11",
+              "stock": 4
+            }
+          ],
+          "video": ""
+        }
+      ],
+      "quantity": 1
+    },
+    {
+      "productName": "Alex t-shirt combinada typer 1",
+      "sku": "123456",
+      "category": "T-Shirts",
+      "brand": {
+        "id": "118",
+        "name": "Typer",
+        "logo": "https://cdn.baguer.co/brands/img_logo_emIbQ6w9Er9QCU0Czgyc1O8uL5PMbG5NzHd1623872823.svg"
+      },
+      "route": "product-128050-GORRA-MONASTERY-NASCAR-CAP",
+      "price": "138950",
+      "discount_price": "",
+      "references": [
+        {
+          "id": "RJ",
+          "colorHx": "#ffa347",
+          "colorName": "Mostaza",
+          "colorTexture": "https://cdn.baguer.co/uploads/2024/09/833535mt-zjpg-x4zekmqjyepeqx7gja1ems4lagaewkqixhvnc6nlzul7wwxza41725901048.jpg",
+          "aviable": true,
+          "images": [
+            "https://cdn.baguer.co/uploads/2024/09/833535mt-ajpg-ane9mnyoo0axbkxynvieh8vafhii3vu4jbtiljcdeqg0epzz3r1725901047.jpg?ar=961-1088",
+            "https://cdn.baguer.co/uploads/2024/09/833535mt-bjpg-alsfts9wuficx0nwopb0xejcban4awya59lrubcdxdgohnru5s1725901048.jpg?ar=961-1088",
+            "https://cdn.baguer.co/uploads/2024/09/833535mt-ojpg-zhorylnct9lmu1xdgzc0s2gvr1wlztibuofsd9i40tmariytvy1725901048.jpg?ar=961-1088"
+          ],
+          "tags": [
+            {
+              "id": "2",
+              "text": "Nuevo",
+              "textColor": "#ffffff",
+              "backgroundColor": "#000000"
+            }
+          ],
+          "sizes": [
+            {
+              "id": "39",
+              "descripcion": "TALLA S",
+              "name": "39",
+              "stock": 52
+            },
+            {
+              "id": "40",
+              "descripcion": "TALLA M",
+              "name": "40",
+              "stock": 57
+            },
+            {
+              "id": "41",
+              "descripcion": "TALLA L",
+              "name": "41",
+              "stock": 25
+            },
+            {
+              "id": "42",
+              "descripcion": "TALLA XL",
+              "name": "42",
+              "stock": 12
+            },
+            {
+              "id": "43",
+              "descripcion": "TALLA XL",
+              "name": "43",
+              "stock": 12
+            }
+          ]
+        },
+        {
+          "id": "VD",
+          "colorHx": "#20CE00",
+          "colorName": "Verde",
+          "colorTexture": "https://cdn.baguer.co/uploads/2024/09/833535vd-zjpg-8ukhineog39ktxv7aq4wigfbrocpubzpzbziuha8t7wucwzixf1725901052.jpg",
+          "aviable": false,
+          "images": [
+            "https://cdn.baguer.co/uploads/2024/09/833535vdjpg-o59vnvxobsjykkebdlz6h3ztoueu4hc274qba5mdlx38tkjcwi1725901049.jpg?ar=961-1088",
+            "https://cdn.baguer.co/uploads/2024/09/833535vd-ajpg-wxq8udiz6kgvhxcc06zh8zji17qfq5ll6a3pq4aojdjb1q2lf91725901050.jpg?ar=961-1088",
+            "https://cdn.baguer.co/uploads/2024/09/833535vd-bjpg-eghsjrpwbopc7ifi5rwpni0wtjytamip8tfwcmzh53cjisrm8f1725901051.jpg?ar=961-1088",
+            "https://cdn.baguer.co/uploads/2024/09/833535vd-ojpg-zcffjs5xxudxflad6m3air3tqhuz21ktp20w5hw10cbeoa3xse1725901051.jpg?ar=961-1088"
+          ],
+          "tags": [
+            {
+              "id": "2",
+              "text": "Nuevo :3",
+              "textColor": "#ffffff",
+              "backgroundColor": "#000000"
+            }
+          ],
+          "sizes": [
+            {
+              "id": "SS",
+              "descripcion": "TALLA S",
+              "name": "S",
+              "stock": 52
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "advertisement": "Ten en cuenta que los productos añadidos a la bolsa no se reservan. Finaliza tu compra para hacerlos tuyos.",
+  "coupon": {
+    "id": "1",
+    "name": "STIRPE10",
+    "value": 33070
+  },
+  "payment_methods": [
+    {
+      "id": "addi",
+      "logo": "https://stirpe.co/img/icon-addi.ba2de6fa.svg",
+      "alt": "Addi",
+      "title": "PSE o Addi",
+      "description": "Paga a cuotas sin interés",
+      "available": true
+    },
+    {
+      "id": "bancolombia",
+      "logo": "https://stirpe.co/img/icon-bancolombia.cdedceb7.svg",
+      "alt": "Bancolombia",
+      "title": "Transfiere desde tu cuenta Bancolombia",
+      "description": "PSE o Addi",
+      "available": true
+    },
+    {
+      "id": "efecty",
+      "logo": "https://stirpe.co/img/icon-efecty.7557b729.svg",
+      "alt": "Efecty",
+      "title": "Efecty",
+      "description": "Paga en efectivo en puntos efecty",
+      "available": true
+    },
+    {
+      "id": "quac",
+      "logo": "https://stirpe.co/img/icon-efecty.7557b729.svg",
+      "alt": "Quac",
+      "title": "Cupo personal Quac",
+      "description": "Paga en hasta 10 cuotas quincenales",
+      "available": true
+    },
+    {
+      "id": "pse",
+      "logo": "https://stirpe.co/img/icon-sistecredito.c70090ed.svg",
+      "alt": "Sistecrédito",
+      "title": "Sistecrédito",
+      "description": "Paga a cuotas con Sistecrédito",
+      "available": true
+    },
+    {
+      "id": "tarjeta",
+      "logo": "https://stirpe.co/img/icon-tarjeta.86857b56.svg",
+      "alt": "Tarjeta de crédito/débito",
+      "title": "Tarjeta de crédito/débito",
+      "description": "Paga a cuotas con Sistecrédito",
+      "available": true
+    },
+    {
+      "id": "Pago_contra_entrega",
+      "logo": "https://stirpe.co/img/icon-contra-entrega.f0f9eed0.svg",
+      "alt": "Pago contra entrega",
+      "title": "Pago contra entrega",
+      "description": "Paga al momento de recibir",
+      "available": true
+    },
+    {
+      "id": "Pago_contra_entrega",
+      "logo": "https://stirpe.co/img/icon-contra-entrega.f0f9eed0.svg",
+      "alt": "Pago contra entrega",
+      "title": "Pago contra entrega",
+      "description": "Paga al momento de recibir",
+      "available": true
+    },
+    {
+      "id": "Pago_contra_entrega",
+      "logo": "https://stirpe.co/img/icon-contra-entrega.f0f9eed0.svg",
+      "alt": "Pago contra entrega",
+      "title": "Pago contra entrega",
+      "description": "Paga al momento de recibir",
+      "available": true
+    },
+    {
+      "id": "Pago_contra_entrega",
+      "logo": "https://stirpe.co/img/icon-contra-entrega.f0f9eed0.svg",
+      "alt": "Pago contra entrega",
+      "title": "Pago contra entrega",
+      "description": "Paga al momento de recibir",
+      "available": false
+    }
+  ]
+}
