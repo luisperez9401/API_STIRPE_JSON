@@ -55,6 +55,199 @@
     }
   },
   {
+    id: 'categoryData',
+    sectionType: 'SectionCategories',
+    sectionData: {
+      "id": "categories",
+      "title": "Conoce nuestras <strong>categorías</strong>",
+      "routes": [
+        {
+          "id": "hombre",
+          "title": "Hombre",
+          "route": "/hombre",
+          "items": [
+            {
+              "id": "1",
+              "title": "Category 1",
+              "route": "/category/1",
+              "imageData": {
+                "id": "1",
+                "image": "https://cdn.baguer.co/uploads/2024/08/127741ng-ajpg-webpv4hkuu18c5suvavmfhjukdl78kei1kpyxmdoiwngl04o0qtxke1724874209.webp",
+                "alt": "image 1"
+              }
+            },
+            {
+              "id": "2",
+              "title": "Category 2",
+              "route": "/category/2",
+              "imageData": {
+                "id": "2",
+                "image": "https://cdn.baguer.co/uploads/2024/09/127848bgjpg-webpi8m5vf1ocag8pa9zmafqqasfmckuinj4fzliyuizkrabahnfty1726072906.webp",
+                "alt": "image 2"
+              }
+            },
+            {
+              "id": "3",
+              "title": "Category 3",
+              "route": "/category/3",
+              "imageData": {
+                "id": "3",
+                "image": "https://cdn.baguer.co/uploads/2024/09/morral-nike-elmntl-bkpk-azul-127854AZ.jpg_TleNyjmYGssNwSJ9AKRkkNTLi0D30BlHU4SWAj8QNIHblqRNvj.webp",
+                "alt": "image 3",
+                "tags": []
+              }
+            },
+            {
+              "id": "4",
+              "title": "Category 4",
+              "route": "/category/4",
+              "imageData": {
+                "id": "4",
+                "image": "https://cdn.baguer.co/uploads/2024/08/gorra-americanino-trucker-bordado-verde-127030VD.jpg_X5w8mW1uqGm8tVf9DC1FopE7BLyhhBqiaqZp8a9v36zQtg4oDy.webp",
+                "alt": "image 4",
+                "tags": []
+              }
+            },
+            {
+              "id": "5",
+              "title": "Category 5",
+              "route": "/category/5",
+              "imageData": {
+                "id": "5",
+                "image": "https://cdn.baguer.co/uploads/2024/09/127863bljpg-webpfgvlnomef1hfaqu84pztbjxel2zfiel0fvonu05ognmge3f6md1726178715.webp",
+                "alt": "image 5"
+              }
+            },
+            {
+              "id": "6",
+              "title": "Category 6",
+              "route": "/category/6",
+              "imageData": {
+                "id": "6",
+                "image": "https://cdn.baguer.co/uploads/2024/09/127859bljpg-webpxfvqdb3oles8mclsx7zmkx9pogz57tduvoxnym2kr2fdg21koe1726178707.webp",
+                "alt": "image 6"
+              }
+            },
+            {
+              "id": "7",
+              "title": "Category 7",
+              "route": "/category/7",
+              "imageData": {
+                "id": "7",
+                "image": "https://cdn.baguer.co/uploads/2024/09/morral-nike-elmntl-bkpk-azul-127854AZ.jpg_TleNyjmYGssNwSJ9AKRkkNTLi0D30BlHU4SWAj8QNIHblqRNvj.webp",
+                "alt": "image 7",
+                "tags": []
+              }
+            },
+            {
+              "id": "8",
+              "title": "Category 8",
+              "route": "/category/8",
+              "imageData": {
+                "id": "8",
+                "image": "https://cdn.baguer.co/uploads/2024/06/camiseta-americanino-mc-classic-naranja-125023NJ.jpg_IJhNZkIkAX5pkHGxife3iND8eJq1WQWuFg0xRgMGZzDmMT8Yyw.webp",
+                "alt": "image 8",
+                "tags": []
+              }
+            }
+          ]
+        },
+        {
+          "id": "mujer",
+          "title": "Mujer",
+          "route": "/mujer",
+          "items": [
+            {
+              "id": "1",
+              "title": "Category 1",
+              "route": "/category/1",
+              "imageData": {
+                "id": "1",
+                "image": "https://cdn.baguer.co/uploads/2024/08/127729ptjpg-webp4cw0sv4dojk5jvj36fhxu74sf6q6gyup5edvy7od59gnrypcw71724874176.webp",
+                "alt": "image 1"
+              }
+            },
+            {
+              "id": "3",
+              "title": "Category 3",
+              "route": "/category/3",
+              "imageData": {
+                "id": "3",
+                "image": "https://cdn.baguer.co/uploads/2024/09/gorra-nike-clup-cap-caqui-127835KQ.jpg_b74KPHFTIvZexeZHWRPNwhcj54wUXzxFzmJ4OSOIDdQGyRPiZ4.webp",
+                "alt": "image 3",
+                "tags": []
+              }
+            },
+            {
+              "id": "2",
+              "title": "Category 2",
+              "route": "/category/2",
+              "imageData": {
+                "id": "2",
+                "image": "https://cdn.baguer.co/uploads/2024/09/127795vtjpg-webpmfvlux3w4dwlmqk3cod4ykffrmn3ygxlmkwdtyhvgqzdy8osdo1725884613.webp",
+                "alt": "image 2",
+                "tags": []
+              }
+            },
+            {
+              "id": "4",
+              "title": "Category 4",
+              "route": "/category/4",
+              "imageData": {
+                "id": "4",
+                "image": "https://cdn.baguer.co/uploads/2024/08/834376arjpg-webp13ny8a58n0jp7n4zcjtkhrdessydhsdgmg2xyxed4uuoknnsi01725052810.webp",
+                "alt": "image 4",
+                "tags": []
+              }
+            },
+            {
+              "id": "1",
+              "title": "Category 1",
+              "route": "/category/1",
+              "imageData": {
+                "id": "1",
+                "image": "https://cdn.baguer.co/uploads/2024/08/127729ptjpg-webp4cw0sv4dojk5jvj36fhxu74sf6q6gyup5edvy7od59gnrypcw71724874176.webp",
+                "alt": "image 1"
+              }
+            },
+            {
+              "id": "3",
+              "title": "Category 3",
+              "route": "/category/3",
+              "imageData": {
+                "id": "3",
+                "image": "https://cdn.baguer.co/uploads/2024/09/gorra-nike-clup-cap-caqui-127835KQ.jpg_b74KPHFTIvZexeZHWRPNwhcj54wUXzxFzmJ4OSOIDdQGyRPiZ4.webp",
+                "alt": "image 3",
+                "tags": []
+              }
+            },
+            {
+              "id": "2",
+              "title": "Category 2",
+              "route": "/category/2",
+              "imageData": {
+                "id": "2",
+                "image": "https://cdn.baguer.co/uploads/2024/09/127795vtjpg-webpmfvlux3w4dwlmqk3cod4ykffrmn3ygxlmkwdtyhvgqzdy8osdo1725884613.webp",
+                "alt": "image 2"
+              }
+            },
+            {
+              "id": "4",
+              "title": "Category 4",
+              "route": "/category/4",
+              "imageData": {
+                "id": "4",
+                "image": "https://cdn.baguer.co/uploads/2024/08/834376arjpg-webp13ny8a58n0jp7n4zcjtkhrdessydhsdgmg2xyxed4uuoknnsi01725052810.webp",
+                "alt": "image 4",
+                "tags": []
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "id": "campaignsData",
     "sectionType": "SectionCampaigns",
     "sectionData": {
