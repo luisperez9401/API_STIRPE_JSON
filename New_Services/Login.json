@@ -1,0 +1,8 @@
+
+  {
+    "email": "carlos.sanchez@hotmail.com",
+    "password": "hashedPassword456",
+    "access_token": "ACC-002",
+    "recover_pass_token": "RP-002",
+    "coupon_code": "STIRPE02"
+  }
