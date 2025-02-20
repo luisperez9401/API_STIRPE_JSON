@@ -1,0 +1,127 @@
+{
+  "access_token": "ACC-001",
+  "bag_token": "BAG-001",
+  "wishlist_token": "WISHLIST-001",
+  "newsletter": true,
+  "expires_at": "2024-11-01 11:13:21",
+  "recover_pass_token": "RP-001",
+  "profile": {
+    "id": "PROF-001",
+    "email": "daniel.rodriguez@gmail.com",
+    "email_verified": true,
+    "name": "Daniel",
+    "last_name": "Rodriguez",
+    "phone": "3157894562",
+    "city": "Bogotá",
+    "document": "1234567890",
+    "document_type": "CC",
+    "gender": "M",
+    "birth_day": "15",
+    "birth_month": "03",
+    "signup_channel": "crearcuenta",
+    "approved_credit": 2000000,
+    "orders": [
+      {
+        "id": "ORD-001",
+        "order_amount": {
+          "total": 549900,
+          "subtotal": 549900,
+          "shipping": 0,
+          "discount": 0,
+          "coupon_code": ""
+        },
+        "shipping_data": {
+          "address": "Calle 123 #45-67, Apto 501",
+          "city": "Bogotá",
+          "is_shipped": false,
+          "tracking_number": "TRK123456",
+          "is_delivered": false
+        },
+        "payment_data": {
+          "is_cash_payment": false,
+          "method": "credit_card",
+          "is_approved": false,
+          "payu_status": "APPROVED"
+        },
+        "status": {
+          "id": "ST-001",
+          "state": "canceled",
+          "description": "Pedido entregado"
+        },
+        "dates": {
+          "created": "2024-02-15 10:30:00",
+          "verified": "2024-02-15 10:35:00",
+          "invoiced": "2024-02-15 10:40:00",
+          "shipped": "2024-02-16 09:00:00",
+          "delivered": "2024-02-17 14:30:00",
+          "canceled": "0000-00-00 00:00:00",
+          "last_modified": "2024-02-17 14:30:00",
+          "last_status": "2024-02-17 14:30:00"
+        }
+      },
+      {
+        "id": "ORD-002",
+        "order_amount": {
+          "total": 789900,
+          "subtotal": 849900,
+          "shipping": 0,
+          "discount": 60000,
+          "coupon_code": "PROMO60"
+        },
+        "shipping_data": {
+          "address": "Carrera 78 #90-12",
+          "city": "Cali",
+          "is_shipped": true,
+          "tracking_number": "",
+          "is_delivered": false
+        },
+        "payment_data": {
+          "is_cash_payment": true,
+          "method": "efecty",
+          "is_approved": false,
+          "payu_status": "REJECTED"
+        },
+        "status": {
+          "id": "ST-002",
+          "state": "canceled",
+          "description": "Pedido cancelado"
+        },
+        "dates": {
+          "created": "2024-02-20 15:20:00",
+          "verified": "2024-02-20 15:25:00",
+          "invoiced": "0000-00-00 00:00:00",
+          "shipped": "0000-00-00 00:00:00",
+          "delivered": "0000-00-00 00:00:00",
+          "canceled": "2024-02-21 15:20:00",
+          "last_modified": "2024-02-21 15:20:00",
+          "last_status": "2024-02-21 15:20:00"
+        }
+      }
+    ],
+    "user_address": [
+      {
+        "neighborhood": "Santa Barbara",
+        "city_id": "11001",
+        "city": "Bogotá",
+        "department_id": "25",
+        "department": "Cundinamarca",
+        "receiver_name": "Maria Rodriguez",
+        "address": "Calle 123 #45-67, Apto 501",
+        "address_id": "ADDR-001",
+        "is_main_address": true,
+        "additional_info": "Torre Norte, timbre 501"
+      },
+      {
+        "neighborhood": "Cabecera",
+        "city_id": "11001",
+        "city": "Bogotá",
+        "department_id": "25",
+        "department": "Cundinamarca",
+        "receiver_name": "Camilo Sanchez",
+        "address": "Carrera 78 #90-12",
+        "address_id": "ADDR-002",
+        "is_main_address": false
+      }
+    ]
+  }
+},
