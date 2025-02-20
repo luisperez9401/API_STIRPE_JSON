@@ -1,0 +1,51 @@
+{
+  "id": "ORD-001",
+  "payment_method": "Efecty",
+  "sale_reference": "ST310-1090472930-4245358-1717683875",
+  "order_canceled": 0,
+  "order_date": "2024-08-01 00:00:00",
+  "steps": {
+    "status": 4,
+    "title_1": "Pago aprobado",
+    "title_2": "Preparando pedido",
+    "title_3": "Pedido enviado",
+    "title_4": "Pedido entregado"
+  },
+  "contact": {
+    "name": "John Doe",
+    "last_name": "Doe",
+    "phone": "3158564896",
+    "email": "nYJp1@example.com",
+    "city": "Bucaramanga, Santander",
+    "address": "Calle 123 #456-789"
+  },
+  "tracking_status": {
+    "state": "Entregado",
+    "shipped_at": "2024-08-09 00:00:00",
+    "delivered_at": "2024-08-06 00:00:00",
+    "guide_url": "https://www.servientrega.com/wps/portal/rastreo-envio/detalle?id=EMPLEADO&tipo=0",
+    "guide_number": "4564822FF",
+    "courier_company": "SERVIENTREGA "
+  },
+  "price_details": {
+    "subtotal": 291900,
+    "discount": 0,
+    "shipping": 30000,
+    "total": 321900
+  },
+  "products": [
+    {
+      "color": "Blanco",
+      "color_id": "BL",
+      "returned": 0,
+      "invoiced": 1,
+      "price": 144950,
+      "price_before": 0,
+      "img": "https://cdn.baguer.co/uploads/2023/06/camisa-para-hombre-comfort-en-tencel-a-rayas-manga-larga-unser-azul-824012AZ.jpg_BIaQThELKUKXG6HbpoIa5CqVpmKqzuPnN7SzyFMB9GsW9LsxJX.jpg",
+      "sku": "834073",
+      "selected_size": "L",
+      "title": "ASHER  T-SHIRT REGULAR MASCULINO GROGGY",
+      "url": "product-834073-ASHER--T-SHIRT-REGULAR-MASCULINO-GROGGY"
+    }
+  ]
+}
