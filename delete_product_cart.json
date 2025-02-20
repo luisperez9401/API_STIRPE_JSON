@@ -1,0 +1,605 @@
+{
+    "carrito": {
+        "carrito_id": 4387448,
+        "sesion_id": "0FBLsUj4ICoYdJiPCbgqpksH4IwEOgy9s5cXjy0U",
+        "cliente_id": 0,
+        "direccion_id": "",
+        "cliente_documento": "",
+        "cliente_nombre": "",
+        "cliente_apellidos": "",
+        "cliente_celular": "",
+        "cliente_correo": "",
+        "cliente_direccion": "",
+        "cliente_departamento": "",
+        "cliente_ciudad": "",
+        "cliente_ciudad_texto": "",
+        "cliente_barrio": "",
+        "carrito_contado": 0,
+        "carrito_medio_pago": "",
+        "carrito_tienda": 0,
+        "reference_sale": "",
+        "state_pol": 0,
+        "fecha_transaccion_payu": "0000-00-00 00:00:00",
+        "carrito_subtotal": "226900.00",
+        "carrito_descuento": "0.00",
+        "carrito_envio": "0.00",
+        "carrito_tiempo_entrega": "",
+        "carrito_total": "226900.00",
+        "costo_envio": "",
+        "cupon_id": "",
+        "ip": "3039903166",
+        "ip_str": "181.49.61.190",
+        "estado_id": "",
+        "carrito_nroguia_envio": "",
+        "fecha_create": "2025-02-20 09:10:55",
+        "fecha_up": "2025-02-20 09:13:01",
+        "fecha_ultimo_acceso": "",
+        "carrito_cerrado": 0,
+        "cod_vendedor": "",
+        "cod_vendedor_carrito_cerrado": 0,
+        "cod_vendedor_fecha_cerrado": "",
+        "cod_vendedor_asignadopor": "",
+        "cod_vendedor_fecha_asignadopor": "",
+        "nroproductos": 0,
+        "view": 0,
+        "token": "98f14fe1df2c07c0abccaa9547c0dd5009FkkbgIVncsK4tDBM4Jjjmo0NgKgR",
+        "pedido_fe_dian": 0,
+        "pedido_fe_rut": "",
+        "sync": 0,
+        "observaciones": "",
+        "compra_rapida": 0,
+        "carrito_editar": 1,
+        "cupon_codigo": "",
+        "carrito_cupon_descuento": 0,
+        "carrito_cupon_tipo": 0,
+        "carrito_descuento_estrategia": 0,
+        "carrito_estrategia_acumulable": 1,
+        "carrito_cupon_acumulable": 1,
+        "tipodoc": "",
+        "carrito_reemplazado": 0,
+        "direccion_editar": 0,
+        "destinatario": "",
+        "sin_iva": 0,
+        "carrito_bloqueado": 0,
+        "carrito_bono_codigo": "",
+        "carrito_bono_valor": 0,
+        "carrito_bono_tipo": "",
+        "canal_id": 5,
+        "carrito_promociones": 0,
+        "whatsapp_enviado": 0,
+        "infoEstrategiaVentas": "",
+        "cupon": {
+            "valor": 0,
+            "total_envio": "0.00",
+            "descuento_envio": null,
+            "codigo": "",
+            "tipo": 0,
+            "tope_envio": null,
+            "medios_pago": [
+                "addi",
+                "bancolombia",
+                "cupo",
+                "efectivo",
+                "giftcard",
+                "pse",
+                "sistecredito",
+                "sumaspay",
+                "tarjeta_credito"
+            ],
+            "tooltip_descripcion": null,
+            "link_pagina_condiciones": null,
+            "tooltip_titulo": null
+        },
+        "direcciones": [],
+        "envio": {
+            "total": 0,
+            "dias_entrega": 0,
+            "envio_neto": 14990,
+            "fechasEnvio": {
+                "fechaInicio": "martes 18 de febrero",
+                "fechaFinal": "viernes 21 de febrero"
+            }
+        },
+        "valor_cuota": "$28.562",
+        "cant_cuotas": 10,
+        "pse": 1,
+        "efectivo": 1,
+        "tarjeta_credito": 1,
+        "contraentrega": 0,
+        "cupo": 1,
+        "giftcard": 1,
+        "addi": 1,
+        "bancolombia": 1,
+        "sistecredito": 1,
+        "descuento_addi": 0,
+        "proveedor_pasarela": "mercadopago",
+        "carrito_bono_valor_aplicado": 0,
+        "aplica_siniva": 0,
+        "mensaje_siniva": "NO es Dia sin IVA",
+        "mostrar_aviso_fe": 0
+    },
+    "productos": [
+        {
+            "producto_promocion": "N",
+            "producto_sku": "833775",
+            "descripcion": "LUNA BLUSA ESCOTE CUADRADO COMBINADA DEREK",
+            "producto_titulo": "BLUSA ESCOTE CUADRADO COMBINADA DEREK",
+            "marca": "derek",
+            "marca_descripcion": "Derek",
+            "precio": "226900.00",
+            "precio_antes": "0.00",
+            "composicion": null,
+            "categoria": "BLUSAS",
+            "descuento": null,
+            "cuota_cupo": "28562",
+            "fecha_sugerido": "2025-02-12 00:00:00",
+            "publicado": 1,
+            "estrategia": null,
+            "categoria_slug": "blusas",
+            "precio_costo": 45451,
+            "categoria_producto": "ropa",
+            "producto_precio_original": "226900.00",
+            "dia_siniva": 0,
+            "producto_precio_siniva": 190672,
+            "url": "product-833775-BLUSA-ESCOTE-CUADRADO-COMBINADA-DEREK",
+            "titulo": "",
+            "id_carrito_producto": 3636849,
+            "status": 1,
+            "producto_aplica_estrategia": 0,
+            "aplica_descuento_cupon": 0,
+            "tags": [
+                {
+                    "tag": "nuevo",
+                    "value": "15",
+                    "color_fondo": "#001f5d",
+                    "color_texto": "#ffffff"
+                }
+            ],
+            "referencia": {
+                "color_id": "NG",
+                "color_nombre": "NEGRO",
+                "color_hx": "#000000",
+                "color_textura": "https://cdn.baguer.co/uploads/2025/02/blusa-escote-cuadrado-combinada-derek-negro-833775NG_Z.webp_MMCi5rlhBlSWkLGmA7kOiqodhsPiVy.webp",
+                "talla": {
+                    "id": "LL",
+                    "descripcion": "TALLA L",
+                    "name": "L",
+                    "orden": "5.0"
+                },
+                "imagenes": [
+                    "https://cdn.baguer.co/uploads/2025/02/blusa-escote-cuadrado-combinada-derek-negro-833775NG.webp_bflV60P9fla9GmN0UkU6zVNm4J2cfF.webp"
+                ],
+                "tallas": [
+                    {
+                        "id": "SS",
+                        "descripcion": "TALLA S",
+                        "name": "S",
+                        "orden": "3.0"
+                    },
+                    {
+                        "id": "MM",
+                        "descripcion": "TALLA M",
+                        "name": "M",
+                        "orden": "4.0"
+                    },
+                    {
+                        "id": "LL",
+                        "descripcion": "TALLA L",
+                        "name": "L",
+                        "orden": "5.0"
+                    }
+                ],
+                "talla_id": "LL"
+            },
+            "bloquear": 0,
+            "descuento_aplica_estrategia": 0
+        }
+    ],
+    "message": "El producto fue eliminado del carrito con exito",
+    "productos_estrategias": [],
+    "productos_destacados": {
+        "productos": [
+            {
+                "producto_sku": "823623",
+                "descripcion": "CRISTINA CROP TOP DE TIRAS DEREK",
+                "producto_titulo": "Crop Top Para Mujer Cristina Derek",
+                "marca": "Derek",
+                "precio": "33950",
+                "precio_antes": "0",
+                "composicion": null,
+                "categoria": "Ropa",
+                "descuento": null,
+                "cuota_cupo": "4274",
+                "fecha_sugerido": "2024-09-27 00:00:00",
+                "publicado": 1,
+                "descripcion_detallada": "Crop top para mujer, unicolor de silueta ajustada. Propuesta juvenil, con tiras y escote recto en delantero y espalda.",
+                "dia_siniva": 0,
+                "producto_precio_siniva": 28529,
+                "url": "product-823623-CROP-TOP-PARA-MUJER-CRISTINA-DEREK",
+                "referencia": {
+                    "color_id": "NG",
+                    "color_nombre": "Negro",
+                    "color_hx": "#000000",
+                    "color_textura": "https://cdn.baguer.co/uploads/2024/08/crop-top-para-mujer-cristina-derek-negro-823623NG_Z.jpg_7CQ5ZHnD5ArdPDGDFoMLYOPpv9QE1zvsjkzoCpnnVwwKkDJA1r.jpg",
+                    "tallas": [
+                        {
+                            "id": "UN",
+                            "descripcion": "TALLA UNICA",
+                            "name": "Única",
+                            "stock": 48
+                        }
+                    ],
+                    "imagenes": [
+                        "https://cdn.baguer.co/uploads/2024/08/crop-top-para-mujer-cristina-derek-negro-823623NG.jpg_zKISpxpu4V4LIswuWikbOyBrRFw8FOS85VECImoR2gwKfIfVcM.webp",
+                        "https://cdn.baguer.co/uploads/2024/08/crop-top-para-mujer-cristina-derek-negro-823623NG_A.jpg_SigrOEL8wwMtS2dpEKAeyAGcss7Iw4tY9NrGDHIZ4bGcVA1Rww.webp",
+                        "https://cdn.baguer.co/uploads/2024/08/crop-top-para-mujer-cristina-derek-negro-823623NG_B.jpg_2ejaXvWlYSOWQBynv2UXexjfODHLeUZdAqVI5Sqx0dNEBGdWoP.webp"
+                    ]
+                }
+            },
+            {
+                "producto_sku": "831456",
+                "descripcion": "EMMA PANTY TIPO HILO BIPACK EN ENCAJE DEREK",
+                "producto_titulo": "Panty Tipo Hilo Bipack En Encaje Emma Derek",
+                "marca": "Derek",
+                "precio": "78950",
+                "precio_antes": "0",
+                "composicion": null,
+                "categoria": "Enterizos",
+                "descuento": null,
+                "cuota_cupo": "9938",
+                "fecha_sugerido": "2023-12-01 00:00:00",
+                "publicado": 1,
+                "descripcion_detallada": "Panty para mujer tipo hilo, bipack en encaje y dos tonos derek",
+                "dia_siniva": 0,
+                "producto_precio_siniva": 66345,
+                "url": "product-831456-PANTY-TIPO-HILO-BIPACK-EN-ENCAJE-EMMA-DEREK",
+                "referencia": {
+                    "color_id": "CU",
+                    "color_nombre": "Unico",
+                    "color_hx": "#CCCCCC",
+                    "color_textura": "https://cdn.baguer.co/uploads/2023/11/panty-tipo-hilo-bipack-en-encaje-emma-derek-unico-831456CU_Z.jpg_9QnZA61D6vmzOatBdsj72wSOpTRuOC3QdhcybzzQEqPRV2SzR9.jpg",
+                    "tallas": [
+                        {
+                            "id": "XS",
+                            "descripcion": "TALLA XS",
+                            "name": "XS",
+                            "stock": 12
+                        },
+                        {
+                            "id": "SS",
+                            "descripcion": "TALLA S",
+                            "name": "S",
+                            "stock": 13
+                        }
+                    ],
+                    "imagenes": [
+                        "https://cdn.baguer.co/uploads/2023/11/panty-tipo-hilo-bipack-en-encaje-emma-derek-unico-831456CU.jpg_7nitutAowBX7hD0USu6ls7RdzOHbiQAwWHcasyLghavvHSEsF2.webp",
+                        "https://cdn.baguer.co/uploads/2023/11/panty-tipo-hilo-bipack-en-encaje-emma-derek-unico-831456CU_A.jpg_UJ25JnO4m5f1bduik1mNbhumIbumA2u8ihAMrvz5tNtHNXFWoP.webp",
+                        "https://cdn.baguer.co/uploads/2023/11/panty-tipo-hilo-bipack-en-encaje-emma-derek-unico-831456CU_B.jpg_tWbKv0QnCPQaMoUYQNOfsB6gFydwrjR6mkohrR8gKWJGUTF5ML.webp",
+                        "https://cdn.baguer.co/uploads/2023/11/panty-tipo-hilo-bipack-en-encaje-emma-derek-unico-831456CU_C.jpg_KtpeuEnZNozYTOl9L16dr3zMLcApUZe8PMmIU3FEvIUrmUKQQt.webp"
+                    ]
+                }
+            },
+            {
+                "producto_sku": "835590",
+                "descripcion": "LUNA BOXER PARA MUJER DEREK LOVELY ",
+                "producto_titulo": "Boxer Para Mujer Luna Derek Lovely",
+                "marca": "Derek Lovely",
+                "precio": "49900",
+                "precio_antes": "0",
+                "composicion": null,
+                "categoria": "Enterizos",
+                "descuento": null,
+                "cuota_cupo": "6281",
+                "fecha_sugerido": "2025-01-18 00:00:00",
+                "publicado": 1,
+                "descripcion_detallada": "Boxer para mujer con elastico marcado lovely ",
+                "dia_siniva": 0,
+                "producto_precio_siniva": 41933,
+                "url": "product-835590-BOXER-PARA-MUJER-LUNA-DEREK-LOVELY",
+                "referencia": {
+                    "color_id": "NG",
+                    "color_nombre": "Negro",
+                    "color_hx": "#000000",
+                    "color_textura": "https://cdn.baguer.co/uploads/2025/01/boxer-para-mujer-luna-derek-lovely-negro-835590NG_Z.webp_x5PFXcV7RaIJPzTsilqEmfZEsZF6uP.webp",
+                    "tallas": [
+                        {
+                            "id": "06",
+                            "descripcion": "TALLA 06",
+                            "name": "06",
+                            "stock": 9
+                        },
+                        {
+                            "id": "08",
+                            "descripcion": "TALLA 08",
+                            "name": "08",
+                            "stock": 20
+                        },
+                        {
+                            "id": "10",
+                            "descripcion": "TALLA 10",
+                            "name": "10",
+                            "stock": 12
+                        }
+                    ],
+                    "imagenes": [
+                        "https://cdn.baguer.co/uploads/2025/01/boxer-para-mujer-luna-derek-lovely-negro-835590NG.webp_SNTc7BUFlZCALZbzSZh0rqoIKFj5Ab.webp",
+                        "https://cdn.baguer.co/uploads/2025/01/boxer-para-mujer-luna-derek-lovely-negro-835590NG_A.webp_k4UjjMu106tDyriEMN6fgLsohsMsZD.webp"
+                    ]
+                }
+            },
+            {
+                "producto_sku": "835233",
+                "descripcion": "LUNA BIPACK MEDIA TOBILLERA DEREK LOVELY ",
+                "producto_titulo": "Medias Tobilleras Para Mujer Bipack Luna Derek Lovely",
+                "marca": "Derek Lovely",
+                "precio": "59950",
+                "precio_antes": "0",
+                "composicion": null,
+                "categoria": "Ropa",
+                "descuento": null,
+                "cuota_cupo": "7547",
+                "fecha_sugerido": "2025-01-28 00:00:00",
+                "publicado": 1,
+                "descripcion_detallada": "Medias para mujer tobilleras bipack,con diseño de pepas y palabra lovely ",
+                "dia_siniva": 0,
+                "producto_precio_siniva": 50378,
+                "url": "product-835233-MEDIAS-TOBILLERAS-PARA-MUJER-BIPACK-LUNA-DEREK-LOVELY",
+                "referencia": {
+                    "color_id": "AR",
+                    "color_nombre": "Arena",
+                    "color_hx": "#FFFBE3",
+                    "color_textura": "https://cdn.baguer.co/uploads/2025/02/medias-tobilleras-para-mujer-bipack-luna-derek-lovely-arena-835233AR_Z.webp_20NlxI6YQ9kJ6cEf2QuQyqNZxGKDsY.webp",
+                    "tallas": [
+                        {
+                            "id": "09",
+                            "descripcion": "TALLA 09",
+                            "name": "09",
+                            "stock": 167
+                        }
+                    ],
+                    "imagenes": [
+                        "https://cdn.baguer.co/uploads/2025/02/medias-tobilleras-para-mujer-bipack-luna-derek-lovely-arena-835233AR.webp_dY2EW5xSWxHD4U6wYjD4NsVcjtf3l8.webp",
+                        "https://cdn.baguer.co/uploads/2025/02/medias-tobilleras-para-mujer-bipack-luna-derek-lovely-arena-835233AR_A.webp_VLscF29TOh9TGKVaEkxNcc8TFQx6eL.webp"
+                    ]
+                }
+            },
+            {
+                "producto_sku": "825730",
+                "descripcion": "ALIX BLUSA BASICA DE TIRAS DEREK ",
+                "producto_titulo": "Blusa BÁsica De Tiras Derek",
+                "marca": "Derek",
+                "precio": "53950",
+                "precio_antes": "0",
+                "composicion": null,
+                "categoria": "Ropa",
+                "descuento": null,
+                "cuota_cupo": "6791",
+                "fecha_sugerido": "2024-09-03 00:00:00",
+                "publicado": 1,
+                "descripcion_detallada": "Blusa básica de mujer, unicolor, de silueta ajustada, de tiras y escote recto. Elaborada en material suave y cómodo, con un diseño clásico que puede tener varias combinaciones. ",
+                "dia_siniva": 0,
+                "producto_precio_siniva": 45336,
+                "url": "product-825730-BLUSA-BÁSICA-DE-TIRAS-DEREK",
+                "referencia": {
+                    "color_id": "RJ",
+                    "color_nombre": "Rojo",
+                    "color_hx": "#ff0000",
+                    "color_textura": "https://cdn.baguer.co/uploads/2021/09/825730RJ_Z.jpg_BWT4QWMhFacCZua2HQbb2LmSqi4rQcowcDitxQtDDjVeHPdXEFdHhlXkRPSwno4WkTyRPVcvmpz4RiXxk8ojFMI9IStjiII15M911631031361.jpg",
+                    "tallas": [
+                        {
+                            "id": "SS",
+                            "descripcion": "TALLA S",
+                            "name": "S",
+                            "stock": 12
+                        },
+                        {
+                            "id": "MM",
+                            "descripcion": "TALLA M",
+                            "name": "M",
+                            "stock": 5
+                        }
+                    ],
+                    "imagenes": [
+                        "https://cdn.baguer.co/uploads/2023/09/blusa-basica-de-tiras-derek-rojo-825730RJ.jpg_v7SGYgEqzQPm0wiEZxAax05owk1UyiJUHKmKsXP9OIeEEFyCeW.webp",
+                        "https://cdn.baguer.co/uploads/2023/09/blusa-basica-de-tiras-derek-rojo-825730RJ_A.jpg_Dfc4JOyxpfe71zq6djzqYp98LJC6kYlaSUn0rB0PFChFJIuLzd.webp",
+                        "https://cdn.baguer.co/uploads/2023/09/blusa-basica-de-tiras-derek-rojo-825730RJ_B.jpg_rEzxPi6ksaXoGfhs4AgrlxWJrS32d8hRnDx4aXJMRAE4Tq4XDl.webp"
+                    ]
+                }
+            },
+            {
+                "producto_sku": "834715",
+                "descripcion": "ISA PAÑOLETA CLOVER",
+                "producto_titulo": "Isa PaÑoleta Clover",
+                "marca": "Clover",
+                "precio": "54950",
+                "precio_antes": "0",
+                "composicion": null,
+                "categoria": "Accesorios",
+                "descuento": null,
+                "cuota_cupo": "6917",
+                "fecha_sugerido": "2024-12-03 00:00:00",
+                "publicado": 1,
+                "descripcion_detallada": "ISA PAÑOLETA CLOVER",
+                "dia_siniva": 0,
+                "producto_precio_siniva": 46176,
+                "url": "product-834715-ISA-PAÑOLETA-CLOVER",
+                "referencia": {
+                    "color_id": "RS",
+                    "color_nombre": "Rosado",
+                    "color_hx": "#ffb5c5",
+                    "color_textura": "https://cdn.baguer.co/uploads/2024/12/isa-panoleta-clover-rosado-834715RS_Z.jpg_iXAfPJKPYVcm3i5PwEhnCPIde0PjWS6jGnW0aJ169suNdkvdee.jpg",
+                    "tallas": [
+                        {
+                            "id": "UN",
+                            "descripcion": "TALLA UNICA",
+                            "name": "Única",
+                            "stock": 24
+                        }
+                    ],
+                    "imagenes": [
+                        "https://cdn.baguer.co/uploads/2024/12/isa-panoleta-clover-rosado-834715RS_A.jpg_87urDGH7Jshhfakl7LJR8dL7FH9YYDLnmBStV8CHytnxeC9MPt.webp",
+                        "https://cdn.baguer.co/uploads/2024/12/isa-panoleta-clover-rosado-834715RS_B.jpg_7Mur7BfmcX05LbFqSvbmMjpU4bVqskKC94p3lNDuWxn4Y73eRN.webp",
+                        "https://cdn.baguer.co/uploads/2024/12/isa-panoleta-clover-rosado-834715RS_C.jpg_TTjDv358z3q1Ds1cvBCkXNqyVHxXwWe5dYkLoEODlNi3Enpeyv.webp",
+                        "https://cdn.baguer.co/uploads/2024/12/isa-panoleta-clover-rosado-834715RS_D.jpg_oMirvTr7s14hTdsknTuJdTjZEjDI69tGfk6UFJcg15rivKzsHd.webp"
+                    ]
+                }
+            },
+            {
+                "producto_sku": "834392",
+                "descripcion": "LILI PAÑOLETA CON ESTAMPADO FLORAL CLOVER",
+                "producto_titulo": "Lili PaÑoleta Con Estampado Floral Clover",
+                "marca": "Clover",
+                "precio": "17950",
+                "precio_antes": "0",
+                "composicion": null,
+                "categoria": "Accesorios",
+                "descuento": null,
+                "cuota_cupo": "2260",
+                "fecha_sugerido": "2024-11-20 00:00:00",
+                "publicado": 1,
+                "descripcion_detallada": "Pañoleta en seda ultra suave y ligera, una pieza sofisticada con diseño floral, llevalo con todos tus looks.",
+                "dia_siniva": 0,
+                "producto_precio_siniva": 15084,
+                "url": "product-834392-LILI-PAÑOLETA-CON-ESTAMPADO-FLORAL-CLOVER",
+                "referencia": {
+                    "color_id": "RS",
+                    "color_nombre": "Rosado",
+                    "color_hx": "#ffb5c5",
+                    "color_textura": "https://cdn.baguer.co/uploads/2024/09/834392rs-zjpg-ddgbiqyoexap7xia7nyxneb3mjyqtivwlmvnbl2wkzhiuolwod1727386201.jpg",
+                    "tallas": [
+                        {
+                            "id": "UN",
+                            "descripcion": "TALLA UNICA",
+                            "name": "Única",
+                            "stock": 53
+                        }
+                    ],
+                    "imagenes": [
+                        "https://cdn.baguer.co/uploads/2024/09/834392rsjpg-webpdxcjiqw6n21u2qbwqdkaxucx4hdxfs9y78offcmtdxwi2agaie1727386199.webp",
+                        "https://cdn.baguer.co/uploads/2024/09/834392rs-ajpg-webpiip2mmamjwm5nt5vvyw9fpigbmal2xts4lcg75oyh7u0mkwbno1727386199.webp"
+                    ]
+                }
+            },
+            {
+                "producto_sku": "833025",
+                "descripcion": "VALENTINA MEDIAS TOBILLERAS TRIPACK DEREK ",
+                "producto_titulo": "Media Para Mujer Valentina Tobilleras Tripack Derek",
+                "marca": "Derek",
+                "precio": "67950",
+                "precio_antes": "0",
+                "composicion": null,
+                "categoria": "Ropa",
+                "descuento": null,
+                "cuota_cupo": "8554",
+                "fecha_sugerido": "2025-01-23 00:00:00",
+                "publicado": 1,
+                "descripcion_detallada": "Medias para mujer tobilleras tripack, unicolor con caritas felices y texto dk, Derek",
+                "dia_siniva": 0,
+                "producto_precio_siniva": 57101,
+                "url": "product-833025-MEDIA-PARA-MUJER-VALENTINA-TOBILLERAS-TRIPACK-DEREK",
+                "referencia": {
+                    "color_id": "NG",
+                    "color_nombre": "Negro",
+                    "color_hx": "#000000",
+                    "color_textura": "https://cdn.baguer.co/uploads/2024/10/media-para-mujer-valentina-tobilleras-tripack-derek-negro-833025NG_Z.jpg_MHckPgL7BxBb9zkCOHssp7AAhZJo86tFpupOsbZrjkxteZdwLF.jpg",
+                    "tallas": [
+                        {
+                            "id": "09",
+                            "descripcion": "TALLA 09",
+                            "name": "09",
+                            "stock": 95
+                        }
+                    ],
+                    "imagenes": [
+                        "https://cdn.baguer.co/uploads/2024/10/media-para-mujer-valentina-tobilleras-tripack-derek-negro-833025NG.jpg_D7TCcVEKD07u83KOM2iFAqrl5vszEY6puhjViFggKRYaiKwo6s.webp",
+                        "https://cdn.baguer.co/uploads/2024/10/media-para-mujer-valentina-tobilleras-tripack-derek-negro-833025NG_A.jpg_JDzf9TRRKrfJ0IHrzZSiTLkie8emYquUoLGYK0A0fdWCWquVrA.webp",
+                        "https://cdn.baguer.co/uploads/2024/10/media-para-mujer-valentina-tobilleras-tripack-derek-negro-833025NG_B.jpg_XEQ5cLjCXURDxVDz2PcgEVAh1lCUrXsrNPjXRaYYC0KRzsyXZb.webp"
+                    ]
+                }
+            }
+        ],
+        "productos_analytics": [
+            {
+                "name": "CROP TOP PARA MUJER CRISTINA DEREK",
+                "id": "823623",
+                "price": 33950,
+                "brand": "DEREK",
+                "category": "Ropa",
+                "variant": "NG",
+                "list": "Listar Ropa",
+                "position": 1
+            },
+            {
+                "name": "PANTY TIPO HILO BIPACK EN ENCAJE EMMA DEREK",
+                "id": "831456",
+                "price": 78950,
+                "brand": "DEREK",
+                "category": "Enterizos",
+                "variant": "CU",
+                "list": "Listar Enterizos",
+                "position": 2
+            },
+            {
+                "name": "BOXER PARA MUJER LUNA DEREK LOVELY",
+                "id": "835590",
+                "price": 49900,
+                "brand": "DEREK LOVELY",
+                "category": "Enterizos",
+                "variant": "NG",
+                "list": "Listar Enterizos",
+                "position": 3
+            },
+            {
+                "name": "MEDIAS TOBILLERAS PARA MUJER BIPACK LUNA DEREK LOVELY",
+                "id": "835233",
+                "price": 59950,
+                "brand": "DEREK LOVELY",
+                "category": "Ropa",
+                "variant": "AR",
+                "list": "Listar Ropa",
+                "position": 4
+            },
+            {
+                "name": "BLUSA BÁSICA DE TIRAS DEREK",
+                "id": "825730",
+                "price": 53950,
+                "brand": "DEREK",
+                "category": "Ropa",
+                "variant": "RJ",
+                "list": "Listar Ropa",
+                "position": 5
+            },
+            {
+                "name": "ISA PAÑOLETA CLOVER",
+                "id": "834715",
+                "price": 54950,
+                "brand": "CLOVER",
+                "category": "Accesorios",
+                "variant": "RS",
+                "list": "Listar Accesorios",
+                "position": 6
+            },
+            {
+                "name": "LILI PAÑOLETA CON ESTAMPADO FLORAL CLOVER",
+                "id": "834392",
+                "price": 17950,
+                "brand": "CLOVER",
+                "category": "Accesorios",
+                "variant": "RS",
+                "list": "Listar Accesorios",
+                "position": 7
+            },
+            {
+                "name": "MEDIA PARA MUJER VALENTINA TOBILLERAS TRIPACK DEREK",
+                "id": "833025",
+                "price": 67950,
+                "brand": "DEREK",
+                "category": "Ropa",
+                "variant": "NG",
+                "list": "Listar Ropa",
+                "position": 8
+            }
+        ]
+    }
+}
