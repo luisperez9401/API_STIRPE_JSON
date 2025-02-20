@@ -1,0 +1,27 @@
+{
+    "message": "La direccion se ha actualizado correctamente",
+    "direcciones": [
+        {
+            "destinatario": null,
+            "direccion": "Calle 22 #16 - 07, Conjunto arboleda campestre",
+            "barrio": "San jorge",
+            "ciudad_texto": "giron, SANTANDER",
+            "ciudad_id": "307",
+            "departamento_id": "68",
+            "observaciones": "Torre 5 apto 140",
+            "direccion_id": 163978,
+            "direccion_principal": 0
+        },
+        {
+            "destinatario": null,
+            "direccion": "Pruebas",
+            "barrio": "Pruebas",
+            "ciudad_texto": "bucaramanga, SANTANDER",
+            "ciudad_id": "001",
+            "departamento_id": "68",
+            "observaciones": "PRUEBAS",
+            "direccion_id": 199311,
+            "direccion_principal": 0
+        }
+    ]
+}
