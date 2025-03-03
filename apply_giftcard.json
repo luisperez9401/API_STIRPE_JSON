@@ -1,0 +1,615 @@
+{
+    "carrito": {
+        "carrito_id": 4392946,
+        "sesion_id": "cdLjo5DL54S2kyjls1YD3hLHRUchgrR5GF41uvGk",
+        "cliente_id": 0,
+        "direccion_id": "",
+        "cliente_documento": "29785684",
+        "cliente_nombre": "PRUEBAS",
+        "cliente_apellidos": "PRUEBAS",
+        "cliente_celular": "3167256075",
+        "cliente_correo": "pruebasbitas123@baguer.com.co",
+        "cliente_direccion": "PRUEBAS",
+        "cliente_departamento": "68",
+        "cliente_ciudad": "001",
+        "cliente_ciudad_texto": "bucaramanga, SANTANDER",
+        "cliente_barrio": "PRUEBAS",
+        "carrito_contado": 0,
+        "carrito_medio_pago": "",
+        "carrito_tienda": 0,
+        "reference_sale": "ST310-29785684-4392946-1741010020",
+        "state_pol": 0,
+        "fecha_transaccion_payu": "0000-00-00 00:00:00",
+        "carrito_subtotal": "250000.00",
+        "carrito_descuento": "0.00",
+        "carrito_envio": "0.00",
+        "carrito_tiempo_entrega": "5",
+        "carrito_total": 0,
+        "costo_envio": "",
+        "cupon_id": "",
+        "ip": "3039903166",
+        "ip_str": "181.49.61.190",
+        "estado_id": "",
+        "carrito_nroguia_envio": "",
+        "fecha_create": "2025-03-03 08:51:27",
+        "fecha_up": "2025-03-03 08:54:03",
+        "fecha_ultimo_acceso": "",
+        "carrito_cerrado": 0,
+        "cod_vendedor": "",
+        "cod_vendedor_carrito_cerrado": 0,
+        "cod_vendedor_fecha_cerrado": "",
+        "cod_vendedor_asignadopor": "",
+        "cod_vendedor_fecha_asignadopor": "",
+        "nroproductos": 0,
+        "view": 0,
+        "token": "6d298ce162d9fc91137c3fb07b474f456kLON1kNEAH5OIojt5S93zExNg8apj",
+        "pedido_fe_dian": 0,
+        "pedido_fe_rut": "",
+        "sync": 0,
+        "observaciones": "",
+        "compra_rapida": 1,
+        "carrito_editar": 1,
+        "cupon_codigo": "",
+        "carrito_cupon_descuento": 0,
+        "carrito_cupon_tipo": 0,
+        "carrito_descuento_estrategia": 0,
+        "carrito_estrategia_acumulable": 1,
+        "carrito_cupon_acumulable": 1,
+        "tipodoc": "CC",
+        "carrito_reemplazado": 0,
+        "direccion_editar": 0,
+        "destinatario": "",
+        "sin_iva": 0,
+        "carrito_bloqueado": 0,
+        "carrito_bono_codigo": "DEV14766-CV3C-FS12-SB7U",
+        "carrito_bono_valor": 270950,
+        "carrito_bono_tipo": "DEV",
+        "canal_id": 5,
+        "carrito_promociones": 0,
+        "whatsapp_enviado": 0,
+        "infoEstrategiaVentas": {
+            "tipo_estrategia": "envío gratis",
+            "tooltip_descripcion": "Envío Gratis +$250K con PSE, Addi, SisteCred, Bancolombia y Tarjeta",
+            "tooltip_titulo": "Envío Gratis +$250K con PSE, Addi, SisteCred, Bancolombia y Tarjeta",
+            "link_pagina_condiciones": "https://stirpe.co/politica-envio-gratis"
+        },
+        "envio": {
+            "total": 0,
+            "dias_entrega": 5,
+            "envio_neto": "18400",
+            "fechasEnvio": {
+                "fechaInicio": "miércoles 05 de marzo",
+                "fechaFinal": "sábado 08 de marzo"
+            }
+        },
+        "cupon": {
+            "valor": 0,
+            "total_envio": "18400",
+            "descuento_envio": null,
+            "codigo": "",
+            "tipo": 0,
+            "tope_envio": null,
+            "medios_pago": [
+                "addi",
+                "bancolombia",
+                "cupo",
+                "efectivo",
+                "giftcard",
+                "pse",
+                "sistecredito",
+                "sumaspay",
+                "tarjeta_credito"
+            ],
+            "tooltip_descripcion": null,
+            "link_pagina_condiciones": null,
+            "tooltip_titulo": null
+        },
+        "direcciones": [],
+        "valor_cuota": "$31.470",
+        "cant_cuotas": 10,
+        "pse": 0,
+        "efectivo": 0,
+        "tarjeta_credito": 0,
+        "contraentrega": 0,
+        "cupo": 0,
+        "giftcard": 1,
+        "addi": 0,
+        "bancolombia": 0,
+        "sistecredito": 0,
+        "descuento_addi": 0,
+        "proveedor_pasarela": "mercadopago",
+        "carrito_bono_valor_aplicado": 250000,
+        "aplica_siniva": 0,
+        "mensaje_siniva": "NO es Dia sin IVA",
+        "mostrar_aviso_fe": 0
+    },
+    "productos": [
+        {
+            "producto_promocion": "N",
+            "producto_sku": "130026",
+            "descripcion": "1508410 GORRA ARIA CLEMONT",
+            "producto_titulo": "GORRA CLEMONT ARIA",
+            "marca": "clemont",
+            "marca_descripcion": "Clemont",
+            "precio": "250000.00",
+            "precio_antes": "0.00",
+            "composicion": null,
+            "categoria": "GORRAS",
+            "descuento": null,
+            "cuota_cupo": "31470",
+            "fecha_sugerido": "2025-02-25 00:00:00",
+            "publicado": 1,
+            "estrategia": null,
+            "categoria_slug": "gorras",
+            "precio_costo": 105042,
+            "categoria_producto": "accesorios",
+            "producto_precio_original": "250000.00",
+            "dia_siniva": 0,
+            "producto_precio_siniva": 210084,
+            "url": "product-130026-GORRA-CLEMONT-ARIA",
+            "titulo": "",
+            "id_carrito_producto": 3649437,
+            "status": 1,
+            "producto_aplica_estrategia": 0,
+            "aplica_descuento_cupon": 0,
+            "tags": [
+                {
+                    "tag": "nuevo",
+                    "value": "15",
+                    "color_fondo": "#001f5d",
+                    "color_texto": "#ffffff"
+                }
+            ],
+            "referencia": {
+                "color_id": "GR",
+                "color_nombre": "GRIS",
+                "color_hx": "#9D9D9D",
+                "color_textura": "https://cdn.baguer.co/uploads/2025/02/gorra-clemont-aria-gris-130026GR_Z.webp_dT6sywPgkuwnogndjm6g5Umu1MTgyg.webp",
+                "talla": {
+                    "id": "UN",
+                    "descripcion": "TALLA UNICA",
+                    "name": "Única",
+                    "orden": "0.0"
+                },
+                "imagenes": [
+                    "https://cdn.baguer.co/uploads/2025/02/gorra-clemont-aria-gris-130026GR.webp_r7m6bzlnBlwC2WG0txTwk1klg3Cq8X.webp"
+                ],
+                "tallas": [
+                    {
+                        "id": "UN",
+                        "descripcion": "TALLA UNICA",
+                        "name": "Única",
+                        "orden": "0.0"
+                    }
+                ],
+                "talla_id": "UN"
+            },
+            "bloquear": 0,
+            "descuento_aplica_estrategia": 0
+        }
+    ],
+    "productos_destacados": {
+        "productos": [
+            {
+                "producto_sku": "129850",
+                "descripcion": "23040100224 BOXER MEDIO ROBLE M23 UNICO",
+                "producto_titulo": "Boxer Unico Medio Roble M23",
+                "marca": "Único",
+                "precio": "62990",
+                "precio_antes": "0",
+                "composicion": null,
+                "categoria": "Ropa",
+                "descuento": null,
+                "cuota_cupo": "7929",
+                "fecha_sugerido": "2025-02-06 00:00:00",
+                "publicado": 1,
+                "descripcion_detallada": "Cuenta con un diseño sutil que realmente se muestra a medida que se estira para formar un ajuste elegante que define el cuerpo y acentúa muy bien tus contornos. ",
+                "dia_siniva": 0,
+                "producto_precio_siniva": 52933,
+                "url": "product-129850-BOXER-UNICO-MEDIO-ROBLE-M23",
+                "referencia": {
+                    "color_id": "NG",
+                    "color_nombre": "Negro",
+                    "color_hx": "#000000",
+                    "color_textura": "https://cdn.baguer.co/uploads/2025/02/boxer-unico-medio-roble-m23-negro-129850NG_Z.webp_ZWtCVyLBm9r0qLcpTfKrohxMLbdNR7.webp",
+                    "tallas": [
+                        {
+                            "id": "SS",
+                            "descripcion": "TALLA S",
+                            "name": "S",
+                            "stock": 10
+                        },
+                        {
+                            "id": "MM",
+                            "descripcion": "TALLA M",
+                            "name": "M",
+                            "stock": 67
+                        },
+                        {
+                            "id": "LL",
+                            "descripcion": "TALLA L",
+                            "name": "L",
+                            "stock": 57
+                        },
+                        {
+                            "id": "XL",
+                            "descripcion": "TALLA XL",
+                            "name": "XL",
+                            "stock": 45
+                        }
+                    ],
+                    "imagenes": [
+                        "https://cdn.baguer.co/uploads/2025/02/boxer-unico-medio-roble-m23-negro-129850NG.webp_HrZ9iIQ9DDSbHQMLljbmQmHXnIuGVq.webp",
+                        "https://cdn.baguer.co/uploads/2025/02/boxer-unico-medio-roble-m23-negro-129850NG_A.webp_bMTI969QfsScxlV3VXZNrSDrWrzOue.webp"
+                    ]
+                }
+            },
+            {
+                "producto_sku": "129849",
+                "descripcion": "23040100209 BOXER COPA MEDIA SANTA CRUZ M23 UNICO",
+                "producto_titulo": "Boxer Unico Copa Media Santa Cruz M23",
+                "marca": "Único",
+                "precio": "62990",
+                "precio_antes": "0",
+                "composicion": null,
+                "categoria": "Ropa",
+                "descuento": null,
+                "cuota_cupo": "7929",
+                "fecha_sugerido": "2025-02-06 00:00:00",
+                "publicado": 1,
+                "descripcion_detallada": "Cuenta con un diseño sutil que realmente se muestra a medida que se estira para formar un ajuste elegante que define el cuerpo y acentúa muy bien tus contornos. ",
+                "dia_siniva": 0,
+                "producto_precio_siniva": 52933,
+                "url": "product-129849-BOXER-UNICO-COPA-MEDIA-SANTA-CRUZ-M23",
+                "referencia": {
+                    "color_id": "AZ",
+                    "color_nombre": "Azul",
+                    "color_hx": "#2196F3",
+                    "color_textura": "https://cdn.baguer.co/uploads/2025/02/boxer-unico-copa-media-santa-cruz-m23-azul-129849AZ_Z.webp_sYGppurl1VTA2xlPEFpgEnuHurvmUT.webp",
+                    "tallas": [
+                        {
+                            "id": "SS",
+                            "descripcion": "TALLA S",
+                            "name": "S",
+                            "stock": 24
+                        },
+                        {
+                            "id": "MM",
+                            "descripcion": "TALLA M",
+                            "name": "M",
+                            "stock": 52
+                        },
+                        {
+                            "id": "LL",
+                            "descripcion": "TALLA L",
+                            "name": "L",
+                            "stock": 62
+                        },
+                        {
+                            "id": "XL",
+                            "descripcion": "TALLA XL",
+                            "name": "XL",
+                            "stock": 34
+                        }
+                    ],
+                    "imagenes": [
+                        "https://cdn.baguer.co/uploads/2025/02/boxer-unico-copa-media-santa-cruz-m23-azul-129849AZ.webp_GDcWFiqye3iGht9rvTr8FUecDERRSB.webp",
+                        "https://cdn.baguer.co/uploads/2025/02/boxer-unico-copa-media-santa-cruz-m23-azul-129849AZ_A.webp_djnyXXOx6ajvds6RlaETFXcPBDru51.webp"
+                    ]
+                }
+            },
+            {
+                "producto_sku": "833898",
+                "descripcion": "RAUL MEDIA BIPACK TOBILLERA UNICOLOR CON LINEAS EN PLANTA UNSER",
+                "producto_titulo": "Raul Media Bipack Tobillera Unicolor Con Lineas En Planta Unser",
+                "marca": "Unser",
+                "precio": "48950",
+                "precio_antes": "0",
+                "composicion": null,
+                "categoria": "Ropa",
+                "descuento": null,
+                "cuota_cupo": "6162",
+                "fecha_sugerido": "2024-12-22 00:00:00",
+                "publicado": 1,
+                "descripcion_detallada": "BIPACK DE MEDIAS MASCULINAS TOBILLERAS UNICOLOR CON LINEAS EN PLANTA EN CONTRASTE.",
+                "dia_siniva": 0,
+                "producto_precio_siniva": 41134,
+                "url": "product-833898-RAUL-MEDIA-BIPACK-TOBILLERA-UNICOLOR-CON-LINEAS-EN-PLANTA-UNSER",
+                "referencia": {
+                    "color_id": "CU",
+                    "color_nombre": "Unico",
+                    "color_hx": "#CCCCCC",
+                    "color_textura": "https://cdn.baguer.co/uploads/2025/01/raul-media-bipack-tobillera-unicolor-con-lineas-en-planta-unser-unico-833898CU_Z.webp_igEo1VLq6dL528w7caMM0Hm6o370OB.webp",
+                    "tallas": [
+                        {
+                            "id": "12",
+                            "descripcion": "TALLA 12",
+                            "name": "12",
+                            "stock": 37
+                        }
+                    ],
+                    "imagenes": [
+                        "https://cdn.baguer.co/uploads/2025/01/raul-media-bipack-tobillera-unicolor-con-lineas-en-planta-unser-unico-833898CU.webp_WdaWIjrLDFtjqSdvq5NKOD8DeTzDq7.webp",
+                        "https://cdn.baguer.co/uploads/2025/01/raul-media-bipack-tobillera-unicolor-con-lineas-en-planta-unser-unico-833898CU_A.webp_KuG79UFZS6dVyQymUVJqmh0JPtDepc.webp"
+                    ]
+                }
+            },
+            {
+                "producto_sku": "833885",
+                "descripcion": "STIVEN MEDIA BIPACK TOBILLERA UNICOLOR CON LINEAS UNSER",
+                "producto_titulo": "Stiven Media Bipack Tobillera Unicolor Con Lineas Unser",
+                "marca": "Unser",
+                "precio": "48950",
+                "precio_antes": "0",
+                "composicion": null,
+                "categoria": "Ropa",
+                "descuento": null,
+                "cuota_cupo": "6162",
+                "fecha_sugerido": "2024-12-22 00:00:00",
+                "publicado": 1,
+                "descripcion_detallada": "BIPACK DE MEDIAS MASCULINO, DE COLOR BLANCO CON LINEAS ROJAS Y DE COLOR AZUL CON LINEAS GRISES.",
+                "dia_siniva": 0,
+                "producto_precio_siniva": 41134,
+                "url": "product-833885-STIVEN-MEDIA-BIPACK-TOBILLERA-UNICOLOR-CON-LINEAS-UNSER",
+                "referencia": {
+                    "color_id": "CU",
+                    "color_nombre": "Unico",
+                    "color_hx": "#CCCCCC",
+                    "color_textura": "https://cdn.baguer.co/uploads/2025/01/stiven-media-bipack-tobillera-unicolor-con-lineas-unser-unico-833885CU_Z.webp_tt2A3PCTd8pFZ0086QZhInBDQ2HVfI.webp",
+                    "tallas": [
+                        {
+                            "id": "12",
+                            "descripcion": "TALLA 12",
+                            "name": "12",
+                            "stock": 76
+                        }
+                    ],
+                    "imagenes": [
+                        "https://cdn.baguer.co/uploads/2025/01/stiven-media-bipack-tobillera-unicolor-con-lineas-unser-unico-833885CU.webp_iqmvDj1uvAHr9XyU2sktf04FZ9lNy7.webp",
+                        "https://cdn.baguer.co/uploads/2025/01/stiven-media-bipack-tobillera-unicolor-con-lineas-unser-unico-833885CU_A.webp_aHeCxsyNvqSEClDz3J0nJlAVJrjTIl.webp"
+                    ]
+                }
+            },
+            {
+                "producto_sku": "129543",
+                "descripcion": "24110100203 BOXER MEDIO GOLDEN UNICO",
+                "producto_titulo": "Boxer Unico Medio Golden",
+                "marca": "Único",
+                "precio": "69990",
+                "precio_antes": "0",
+                "composicion": null,
+                "categoria": "Ropa",
+                "descuento": null,
+                "cuota_cupo": "8810",
+                "fecha_sugerido": "2024-12-07 00:00:00",
+                "publicado": 1,
+                "descripcion_detallada": "cuenta con un diseño sutil que realmente se muestra a medida que se estira para formar un ajuste elegante que define el cuerpo y acentúa muy bien tus contornos. ",
+                "dia_siniva": 0,
+                "producto_precio_siniva": 58815,
+                "url": "product-129543-BOXER-UNICO-MEDIO-GOLDEN",
+                "referencia": {
+                    "color_id": "NG",
+                    "color_nombre": "Negro",
+                    "color_hx": "#000000",
+                    "color_textura": "https://cdn.baguer.co/uploads/2025/01/boxer-unico-medio-golden-negro-129543NG_Z.webp_dB7f0eXP6cnlGajGBYfdmKvh6axYpg.webp",
+                    "tallas": [
+                        {
+                            "id": "MM",
+                            "descripcion": "TALLA M",
+                            "name": "M",
+                            "stock": 9
+                        }
+                    ],
+                    "imagenes": [
+                        "https://cdn.baguer.co/uploads/2025/01/boxer-unico-medio-golden-negro-129543NG.webp_7ZmCIbRE37x9CMleKh0NmJX8mruiCd.webp",
+                        "https://cdn.baguer.co/uploads/2025/01/boxer-unico-medio-golden-negro-129543NG_A.webp_3bDomAYixKkrSkRycpW22UZYogEwig.webp"
+                    ]
+                }
+            },
+            {
+                "producto_sku": "833895",
+                "descripcion": "LUIS MEDIA BIPACK TOBILLERA UNICOLOR CON LINEAS UNSER",
+                "producto_titulo": "Luis Media Bipack Tobillera Unicolor Con Lineas Unser",
+                "marca": "Unser",
+                "precio": "48950",
+                "precio_antes": "0",
+                "composicion": null,
+                "categoria": "Ropa",
+                "descuento": null,
+                "cuota_cupo": "6162",
+                "fecha_sugerido": "2024-12-19 00:00:00",
+                "publicado": 1,
+                "descripcion_detallada": "BIPACK DE MEDIA MASCULINO TOBILLERA UNICOLOR CON GRAFICO UNSER Y LINEAS",
+                "dia_siniva": 0,
+                "producto_precio_siniva": 41134,
+                "url": "product-833895-LUIS-MEDIA-BIPACK-TOBILLERA-UNICOLOR-CON-LINEAS-UNSER",
+                "referencia": {
+                    "color_id": "CU",
+                    "color_nombre": "Unico",
+                    "color_hx": "#CCCCCC",
+                    "color_textura": "https://cdn.baguer.co/uploads/2025/01/luis-media-bipack-tobillera-unicolor-con-lineas-unser-unico-833895CU_Z.webp_I7uXD8wMMcUyrdVXvrpBpRGiQFFuvA.webp",
+                    "tallas": [
+                        {
+                            "id": "12",
+                            "descripcion": "TALLA 12",
+                            "name": "12",
+                            "stock": 64
+                        }
+                    ],
+                    "imagenes": [
+                        "https://cdn.baguer.co/uploads/2025/01/luis-media-bipack-tobillera-unicolor-con-lineas-unser-unico-833895CU.webp_3tDRhFKxFj2JCxX8YlLJG1GiupNZnT.webp",
+                        "https://cdn.baguer.co/uploads/2025/01/luis-media-bipack-tobillera-unicolor-con-lineas-unser-unico-833895CU_A.webp_A98etqCl0Djlir7DeCIzDbkphQjklE.webp"
+                    ]
+                }
+            },
+            {
+                "producto_sku": "129851",
+                "descripcion": "24090100201 BOXER MEDIO SALAR UNICO",
+                "producto_titulo": "Boxer Unico Medio Salar",
+                "marca": "Único",
+                "precio": "62990",
+                "precio_antes": "0",
+                "composicion": null,
+                "categoria": "Ropa",
+                "descuento": null,
+                "cuota_cupo": "7929",
+                "fecha_sugerido": "2025-02-06 00:00:00",
+                "publicado": 1,
+                "descripcion_detallada": "Cuenta con un diseño sutil que realmente se muestra a medida que se estira para formar un ajuste elegante que define el cuerpo y acentúa muy bien tus contornos. ",
+                "dia_siniva": 0,
+                "producto_precio_siniva": 52933,
+                "url": "product-129851-BOXER-UNICO-MEDIO-SALAR",
+                "referencia": {
+                    "color_id": "NG",
+                    "color_nombre": "Negro",
+                    "color_hx": "#000000",
+                    "color_textura": "https://cdn.baguer.co/uploads/2025/02/boxer-unico-medio-salar-negro-129851NG_Z.webp_k894W2hEA9RQyU4KSdhM5XkDyyrw1V.webp",
+                    "tallas": [
+                        {
+                            "id": "MM",
+                            "descripcion": "TALLA M",
+                            "name": "M",
+                            "stock": 71
+                        },
+                        {
+                            "id": "LL",
+                            "descripcion": "TALLA L",
+                            "name": "L",
+                            "stock": 62
+                        },
+                        {
+                            "id": "XL",
+                            "descripcion": "TALLA XL",
+                            "name": "XL",
+                            "stock": 41
+                        }
+                    ],
+                    "imagenes": [
+                        "https://cdn.baguer.co/uploads/2025/02/boxer-unico-medio-salar-negro-129851NG.webp_FUKqdTGSkLmDsiaolaArgCbmhZLicQ.webp",
+                        "https://cdn.baguer.co/uploads/2025/02/boxer-unico-medio-salar-negro-129851NG_A.webp_gms0SwQNDrHKCEq37HgBctnpu4keZ4.webp"
+                    ]
+                }
+            },
+            {
+                "producto_sku": "833894",
+                "descripcion": "JULIAN MEDIA TRIPACK TOBILLERA UNICOLOR CON GRAFICO UNSER",
+                "producto_titulo": "Julian Media Tripack Tobillera Unicolor Con Grafico Unser",
+                "marca": "Unser",
+                "precio": "67950",
+                "precio_antes": "0",
+                "composicion": null,
+                "categoria": "Ropa",
+                "descuento": null,
+                "cuota_cupo": "8554",
+                "fecha_sugerido": "2024-12-30 00:00:00",
+                "publicado": 1,
+                "descripcion_detallada": "TRIPACK DE MEDIAS, TOBILLERAS MASCULINAS UNICOLOR CON GRAFICO UNSER EN PUNTA DE MEDIA.",
+                "dia_siniva": 0,
+                "producto_precio_siniva": 57101,
+                "url": "product-833894-JULIAN-MEDIA-TRIPACK-TOBILLERA-UNICOLOR-CON-GRAFICO-UNSER",
+                "referencia": {
+                    "color_id": "CU",
+                    "color_nombre": "Unico",
+                    "color_hx": "#CCCCCC",
+                    "color_textura": "https://cdn.baguer.co/uploads/2025/01/julian-media-tripack-tobillera-unicolor-con-grafico-unser-unico-833894CU_Z.webp_LTnwpcJPNaKPPY3Sg2Me2iCpuZsqj4.webp",
+                    "tallas": [
+                        {
+                            "id": "12",
+                            "descripcion": "TALLA 12",
+                            "name": "12",
+                            "stock": 86
+                        }
+                    ],
+                    "imagenes": [
+                        "https://cdn.baguer.co/uploads/2025/01/julian-media-tripack-tobillera-unicolor-con-grafico-unser-unico-833894CU.webp_B0LMc26zOBnfmcTMXXN9EJnomqONqo.webp",
+                        "https://cdn.baguer.co/uploads/2025/01/julian-media-tripack-tobillera-unicolor-con-grafico-unser-unico-833894CU_A.webp_uRZivcVB0mF372o9V5TaxSfROUwYv2.webp",
+                        "https://cdn.baguer.co/uploads/2025/01/julian-media-tripack-tobillera-unicolor-con-grafico-unser-unico-833894CU_B.webp_iE8R8Y2MFX95HlPLY3gl5zNnB23E2p.webp"
+                    ]
+                }
+            }
+        ],
+        "productos_analytics": [
+            {
+                "name": "BOXER UNICO MEDIO ROBLE M23",
+                "id": "129850",
+                "price": 62990,
+                "brand": "ÚNICO",
+                "category": "Ropa",
+                "variant": "NG",
+                "list": "Listar Ropa",
+                "position": 1
+            },
+            {
+                "name": "BOXER UNICO COPA MEDIA SANTA CRUZ M23",
+                "id": "129849",
+                "price": 62990,
+                "brand": "ÚNICO",
+                "category": "Ropa",
+                "variant": "AZ",
+                "list": "Listar Ropa",
+                "position": 2
+            },
+            {
+                "name": "RAUL MEDIA BIPACK TOBILLERA UNICOLOR CON LINEAS EN PLANTA UNSER",
+                "id": "833898",
+                "price": 48950,
+                "brand": "UNSER",
+                "category": "Ropa",
+                "variant": "CU",
+                "list": "Listar Ropa",
+                "position": 3
+            },
+            {
+                "name": "STIVEN MEDIA BIPACK TOBILLERA UNICOLOR CON LINEAS UNSER",
+                "id": "833885",
+                "price": 48950,
+                "brand": "UNSER",
+                "category": "Ropa",
+                "variant": "CU",
+                "list": "Listar Ropa",
+                "position": 4
+            },
+            {
+                "name": "BOXER UNICO MEDIO GOLDEN",
+                "id": "129543",
+                "price": 69990,
+                "brand": "ÚNICO",
+                "category": "Ropa",
+                "variant": "NG",
+                "list": "Listar Ropa",
+                "position": 5
+            },
+            {
+                "name": "LUIS MEDIA BIPACK TOBILLERA UNICOLOR CON LINEAS UNSER",
+                "id": "833895",
+                "price": 48950,
+                "brand": "UNSER",
+                "category": "Ropa",
+                "variant": "CU",
+                "list": "Listar Ropa",
+                "position": 6
+            },
+            {
+                "name": "BOXER UNICO MEDIO SALAR",
+                "id": "129851",
+                "price": 62990,
+                "brand": "ÚNICO",
+                "category": "Ropa",
+                "variant": "NG",
+                "list": "Listar Ropa",
+                "position": 7
+            },
+            {
+                "name": "JULIAN MEDIA TRIPACK TOBILLERA UNICOLOR CON GRAFICO UNSER",
+                "id": "833894",
+                "price": 67950,
+                "brand": "UNSER",
+                "category": "Ropa",
+                "variant": "CU",
+                "list": "Listar Ropa",
+                "position": 8
+            }
+        ]
+    },
+    "productos_estrategias": []
+}
