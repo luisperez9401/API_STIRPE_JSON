@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Compra segura y protegida",
+    "description": "Encriptamos todos tus datos y contamos con todas las certificaciones de seguridad.",
+    "icon": "bag-checked"
+  },
+  {
+    "id": "2",
+    "title": "Env\u00edos nacionales",
+    "description": "\u00bfSab\u00edas qu\u00e9 nuestros productos llegan a m\u00e1s de 800 municipios de Colombia?",
+    "icon": "send-product"
+  },
+  {
+    "id": "3",
+    "title": "C\u00f3mo comprar",
+    "description": "Si no es tu talla, lo puedes devolver de manera r\u00e1pida, pr\u00e1ctica y gratuita.",
+    "icon": "return-product"
+  }
+]
